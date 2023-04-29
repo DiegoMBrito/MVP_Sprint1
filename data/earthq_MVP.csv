@@ -1,775 +1,775 @@
 title,magnitude,date,time,cdi,mmi,alert,tsunami,sig,dmin,gap,depth,latitude,longitude,location,continent,country
-M 7.0,7,22-11-2022,2:03:00 AM,8,7,green,1,768,0.509,17,14,-9.7963,159.596,"Malango, Solomon Islands",Oceania,Solomon Islands
-M 6.9,6.9,18-11-2022,1:37:00 PM,4,4,green,0,735,2.229,34,25,-4.9559,100.738,"Bengkulu, Indonesia",Asia,Indonesia
-M 7.3,7.3,11/11/2022,10:48:00 AM,5,5,green,1,833,1.865,21,37,-19.2918,-172.129,"Neiafu, Tonga",Oceania,Tonga
+M 7.0,7,22/11/2022,2:03:00 AM,8,7,green,1,768,0.509,17,14,-9.7963,159.596,Malango- Solomon Islands,Oceania,Solomon Islands
+M 6.9,6.9,18/11/2022,1:37:00 PM,4,4,green,0,735,2.229,34,25,-4.9559,100.738,Bengkulu- Indonesia,Asia,Indonesia
+M 7.3,7.3,11/11/2022,10:48:00 AM,5,5,green,1,833,1.865,21,37,-19.2918,-172.129,Neiafu- Tonga,Oceania,Tonga
 M 7.0,7,9/11/2022,9:51:00 AM,4,3,green,1,755,4.578,26,660,-26.0442,178.381,the Fiji Islands,Oceania,Fiji
 M 6.8,6.8,9/11/2022,9:38:00 AM,1,3,green,1,711,4.678,22,630.379,-25.9678,178.363,the Fiji Islands,Oceania,Fiji
-M 6.7,6.7,20-10-2022,11:57:00 AM,7,6,green,1,797,1.151,37,20,7.6712,-82.3396,"Boca Chica, Panama",Central America,Panama
-M 6.8,6.8,22-09-2022,6:16:00 AM,8,7,yellow,1,1179,2.137,92,20,18.33,-102.913,"Aguililla, Mexico",North America,Mexico
-M 7.6,7.6,19-09-2022,6:05:00 PM,9,8,yellow,1,1799,1.153,69,26.943,18.3667,-103.252,"Aguililla, Mexico",North America,Mexico
-M 6.9,6.9,18-09-2022,6:44:00 AM,9,9,yellow,1,887,0.401,34,10,23.1444,121.307,"Yujing, Taiwan",Asia,Taiwan
-M 6.5,6.5,17-09-2022,1:41:00 PM,7,7,green,1,756,0.43,54,10,23.029,121.348,"Lugu, Taiwan",Asia,Taiwan
-M 7.0,7,14-09-2022,11:04:00 AM,7,5,green,1,761,2.977,45,137,-21.2077,170.239,"Isangel, Vanuatu",Oceania,Vanuatu
-M 7.6,7.6,10/9/2022,11:47:00 AM,8,8,yellow,1,965,3.158,12,116,-6.2237,146.471,"Kainantu, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,5/9/2022,4:52:00 AM,9,8,orange,0,1043,8.454,34,12,29.7263,102.279,"Kangding, China",Asia,People's Republic of China
-M 6.6,6.6,14-08-2022,1:44:00 PM,7,6,green,1,672,5.293,34,30,-32.6922,-178.959,the Kermadec Islands,Oceania,New Zealand
-M 7.0,7,27-07-2022,12:43:00 AM,9,8,yellow,1,1351,5.276,22,33.729,17.5978,120.809,"Bantay, Philippines",Asia,Philippines
-M 6.5,6.5,8/6/2022,12:55:00 PM,3,2,green,0,653,1.999,31,622.73,-9.0618,-71.1647,"Tarauacá, Brazil",South America,Brazil
-M 7.2,7.2,26-05-2022,12:02:00 PM,7,5,green,1,876,2.494,40,236,-14.8628,-70.3081,"Azángaro, Peru",South America,Peru
-M 6.8,6.8,10/5/2022,11:06:00 AM,6,5,green,1,762,1.505,30,220,-23.6141,-66.7236,"San Antonio de los Cobres, Argentina",South America,Argentina
-M 6.6,6.6,21-04-2022,7:42:00 AM,6,5,green,1,762,0.914,94,27,11.5538,-86.9919,"Masachapa, Nicaragua",Central America,Nicaragua
-M 7.0,7,31-03-2022,5:44:00 AM,6,4,green,1,763,2.705,26,10,-22.5732,170.349,the Loyalty Islands,Oceania,New Caledonia
-M 6.9,6.9,30-03-2022,8:56:00 PM,6,4,green,1,738,2.697,42,10,-22.72,170.277,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.7,6.7,22-03-2022,5:41:00 PM,8,7,green,1,806,0.289,32,24,23.3421,121.636,"Hualien City, Taiwan",Asia,Taiwan
-M 7.3,7.3,16-03-2022,2:36:00 PM,9,8,red,1,2397,2.936,29,41,37.7015,141.587,"Namie, Japan",Asia,Japan
-M 6.7,6.7,13-03-2022,9:09:00 PM,9,6,green,0,708,2.188,43,28,-0.6831,98.6034,"Pariaman, Indonesia",Asia,Indonesia
-M 6.6,6.6,2/3/2022,12:52:00 PM,2,7,green,1,670,0.827,46,24,-30.0528,-177.74,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 6.8,6.8,16-02-2022,8:21:00 PM,2,3,green,1,712,5.78,12,535,-23.7852,-179.968,the Fiji Islands,Oceania,Fiji
-M 6.5,6.5,3/2/2022,3:58:00 AM,8,6,green,0,690,3.026,22,110,-4.455,-76.9395,"Barranca, Peru",South America,Peru
-M 6.5,6.5,29-01-2022,2:46:00 AM,7,4,green,1,651,1.088,57,8,-29.535,-176.729,Kermadec Islands region,Oceania,New Zealand
-M 6.6,6.6,14-01-2022,9:05:00 AM,8,6,green,0,785,2.418,22,33,-6.9291,105.251,"Labuan, Indonesia",Asia,Indonesia
-M 6.5,6.5,11/1/2022,12:39:00 PM,0,3,green,1,650,1.61607,108,37,52.502,-168.08,"Nikolski, Alaska",North America,United States of America
-M 6.5,6.5,11/1/2022,12:39:00 PM,0,3,green,1,650,0,208.8,37,52.502,-168.08,"Nikolski, Alaska",North America,United States of America
-M 6.6,6.6,11/1/2022,12:39:00 PM,8,5,green,1,674,0.507,49,19,52.6252,-168.15,"Nikolski, Alaska",North America,United States of America
-M 6.7,6.7,11/1/2022,11:35:00 AM,0,4,green,1,691,0.936943,126,33,52.48,-167.736,"Nikolski, Alaska",North America,United States of America
-M 6.7,6.7,11/1/2022,11:35:00 AM,0,4,green,1,691,0,205.2,33,52.48,-167.736,"Nikolski, Alaska",North America,United States of America
-M 6.8,6.8,11/1/2022,11:35:00 AM,7,6,green,1,730,0.92,61,20,52.6563,-167.917,"Nikolski, Alaska",North America,United States of America
-M 6.6,6.6,11/1/2022,1:07:00 AM,6,6,green,0,976,1.168,21,21,35.1456,31.9095,"Pólis, Cyprus",Asia,Cyprus
-M 6.6,6.6,7/1/2022,5:45:00 AM,9,8,orange,0,1012,2.685,13,13,37.8167,101.299,"northern Qinghai, China",Asia,People's Republic of China
-M 7.3,7.3,29-12-2021,6:25:00 PM,8,7,green,0,921,3.713,19,165.49,-7.5924,127.581,"Lospalos, Timor Leste",Oceania,Indonesia
-M 7.3,7.3,14-12-2021,3:20:00 AM,9,5,green,1,854,1.025,32,14.27,-7.6033,122.2,Flores Sea,Asia,Indonesia
-M 7.5,7.5,28-11-2021,10:52:00 AM,8,8,yellow,1,1094,4.951,40,126,-4.4898,-76.8461,"Barranca, Peru",South America,Peru
-M 6.6,6.6,10/11/2021,3:45:00 AM,7,4,green,1,688,3.259,15,12,23.5414,126.48,"Hirara, Japan",Asia,Japan
-M 6.9,6.9,11/10/2021,9:10:00 AM,8,6,green,1,995,0,0,51.6,56.2581,-156.492,"Chignik, Alaska",North America,United States of America
+M 6.7,6.7,20/10/2022,11:57:00 AM,7,6,green,1,797,1.151,37,20,7.6712,-82.3396,Boca Chica- Panama,Central America,Panama
+M 6.8,6.8,22/09/2022,6:16:00 AM,8,7,yellow,1,1179,2.137,92,20,18.33,-102.913,Aguililla- Mexico,North America,Mexico
+M 7.6,7.6,19/09/2022,6:05:00 PM,9,8,yellow,1,1799,1.153,69,26.943,18.3667,-103.252,Aguililla- Mexico,North America,Mexico
+M 6.9,6.9,18/09/2022,6:44:00 AM,9,9,yellow,1,887,0.401,34,10,23.1444,121.307,Yujing- Taiwan,Asia,Taiwan
+M 6.5,6.5,17/09/2022,1:41:00 PM,7,7,green,1,756,0.43,54,10,23.029,121.348,Lugu- Taiwan,Asia,Taiwan
+M 7.0,7,14/09/2022,11:04:00 AM,7,5,green,1,761,2.977,45,137,-21.2077,170.239,Isangel- Vanuatu,Oceania,Vanuatu
+M 7.6,7.6,10/9/2022,11:47:00 AM,8,8,yellow,1,965,3.158,12,116,-6.2237,146.471,Kainantu- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,5/9/2022,4:52:00 AM,9,8,orange,0,1043,8.454,34,12,29.7263,102.279,Kangding- China,Asia,People's Republic of China
+M 6.6,6.6,14/08/2022,1:44:00 PM,7,6,green,1,672,5.293,34,30,-32.6922,-178.959,the Kermadec Islands,Oceania,New Zealand
+M 7.0,7,27/07/2022,12:43:00 AM,9,8,yellow,1,1351,5.276,22,33.729,17.5978,120.809,Bantay- Philippines,Asia,Philippines
+M 6.5,6.5,8/6/2022,12:55:00 PM,3,2,green,0,653,1.999,31,622.73,-9.0618,-71.1647,Tarauacá- Brazil,South America,Brazil
+M 7.2,7.2,26/05/2022,12:02:00 PM,7,5,green,1,876,2.494,40,236,-14.8628,-70.3081,Azángaro- Peru,South America,Peru
+M 6.8,6.8,10/5/2022,11:06:00 AM,6,5,green,1,762,1.505,30,220,-23.6141,-66.7236,San Antonio de los Cobres- Argentina,South America,Argentina
+M 6.6,6.6,21/04/2022,7:42:00 AM,6,5,green,1,762,0.914,94,27,11.5538,-86.9919,Masachapa- Nicaragua,Central America,Nicaragua
+M 7.0,7,31/03/2022,5:44:00 AM,6,4,green,1,763,2.705,26,10,-22.5732,170.349,the Loyalty Islands,Oceania,New Caledonia
+M 6.9,6.9,30/03/2022,8:56:00 PM,6,4,green,1,738,2.697,42,10,-22.72,170.277,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.7,6.7,22/03/2022,5:41:00 PM,8,7,green,1,806,0.289,32,24,23.3421,121.636,Hualien City- Taiwan,Asia,Taiwan
+M 7.3,7.3,16/03/2022,2:36:00 PM,9,8,red,1,2397,2.936,29,41,37.7015,141.587,Namie- Japan,Asia,Japan
+M 6.7,6.7,13/03/2022,9:09:00 PM,9,6,green,0,708,2.188,43,28,-0.6831,98.6034,Pariaman- Indonesia,Asia,Indonesia
+M 6.6,6.6,2/3/2022,12:52:00 PM,2,7,green,1,670,0.827,46,24,-30.0528,-177.74,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 6.8,6.8,16/02/2022,8:21:00 PM,2,3,green,1,712,5.78,12,535,-23.7852,-179.968,the Fiji Islands,Oceania,Fiji
+M 6.5,6.5,3/2/2022,3:58:00 AM,8,6,green,0,690,3.026,22,110,-4.455,-76.9395,Barranca- Peru,South America,Peru
+M 6.5,6.5,29/01/2022,2:46:00 AM,7,4,green,1,651,1.088,57,8,-29.535,-176.729,Kermadec Islands region,Oceania,New Zealand
+M 6.6,6.6,14/01/2022,9:05:00 AM,8,6,green,0,785,2.418,22,33,-6.9291,105.251,Labuan- Indonesia,Asia,Indonesia
+M 6.5,6.5,11/1/2022,12:39:00 PM,0,3,green,1,650,1.61607,108,37,52.502,-168.08,Nikolski- Alaska,North America,United States of America
+M 6.5,6.5,11/1/2022,12:39:00 PM,0,3,green,1,650,0,208.8,37,52.502,-168.08,Nikolski- Alaska,North America,United States of America
+M 6.6,6.6,11/1/2022,12:39:00 PM,8,5,green,1,674,0.507,49,19,52.6252,-168.15,Nikolski- Alaska,North America,United States of America
+M 6.7,6.7,11/1/2022,11:35:00 AM,0,4,green,1,691,0.936943,126,33,52.48,-167.736,Nikolski- Alaska,North America,United States of America
+M 6.7,6.7,11/1/2022,11:35:00 AM,0,4,green,1,691,0,205.2,33,52.48,-167.736,Nikolski- Alaska,North America,United States of America
+M 6.8,6.8,11/1/2022,11:35:00 AM,7,6,green,1,730,0.92,61,20,52.6563,-167.917,Nikolski- Alaska,North America,United States of America
+M 6.6,6.6,11/1/2022,1:07:00 AM,6,6,green,0,976,1.168,21,21,35.1456,31.9095,Pólis- Cyprus,Asia,Cyprus
+M 6.6,6.6,7/1/2022,5:45:00 AM,9,8,orange,0,1012,2.685,13,13,37.8167,101.299,northern Qinghai- China,Asia,People's Republic of China
+M 7.3,7.3,29/12/2021,6:25:00 PM,8,7,green,0,921,3.713,19,165.49,-7.5924,127.581,Lospalos- Timor Leste,Oceania,Indonesia
+M 7.3,7.3,14/12/2021,3:20:00 AM,9,5,green,1,854,1.025,32,14.27,-7.6033,122.2,Flores Sea,Asia,Indonesia
+M 7.5,7.5,28/11/2021,10:52:00 AM,8,8,yellow,1,1094,4.951,40,126,-4.4898,-76.8461,Barranca- Peru,South America,Peru
+M 6.6,6.6,10/11/2021,3:45:00 AM,7,4,green,1,688,3.259,15,12,23.5414,126.48,Hirara- Japan,Asia,Japan
+M 6.9,6.9,11/10/2021,9:10:00 AM,8,6,green,1,995,0,0,51.6,56.2581,-156.492,Chignik- Alaska,North America,United States of America
 M 6.9,6.9,9/10/2021,10:58:00 AM,4,3,green,1,740,4.778,31,535,-21.1704,174.54,Vanuatu region,Oceania,Vanuatu
 M 7.3,7.3,2/10/2021,6:29:00 AM,4,4,green,1,826,4.493,32,527,-21.1036,174.895,Vanuatu region,Oceania,Vanuatu
-M 6.5,6.5,22-09-2021,9:57:00 AM,7,5,green,1,684,0.993,114,21,12.1598,-87.8542,"Jiquilillo, Nicaragua",Central America,Nicaragua
-M 7.0,7,8/9/2021,1:47:00 AM,8,8,red,1,2504,0.07,43,20,16.9502,-99.7877,"Acapulco, Mexico",North America,Mexico
-M 7.1,7.1,22-08-2021,9:33:00 PM,1,4,green,1,776,9.799,32,6,-60.3026,-24.9992,South Sandwich Islands region,North America,Antarctica
-M 6.6,6.6,22-08-2021,12:45:00 AM,1,3,green,1,670,8.865,19,7,-60.1023,-24.4608,South Sandwich Islands region,North America,Antarctica
-M 6.9,6.9,18-08-2021,10:10:00 AM,8,7,green,1,741,0.579,54,93,-14.892,167.085,"Port-Olry, Vanuatu",Oceania,Vanuatu
-M 6.9,6.9,16-08-2021,11:10:00 AM,6,4,green,1,734,8.363,48,16.7,-58.3814,-23.3318,South Sandwich Islands region,North America,Antarctica
-M 7.2,7.2,14-08-2021,12:29:00 PM,9,8,red,1,2331,1.178,23,10,18.3521,-73.4804,"Nippes, Haiti",North America,Haiti
-M 6.9,6.9,14-08-2021,11:57:00 AM,5,4,green,1,738,0,0,33.3,55.2364,-157.707,"Perryville, Alaska",North America,United States of America
-M 6.9,6.9,14-08-2021,11:57:00 AM,5,4,green,1,738,1.173,36,20.74,55.2657,-157.68,"Perryville, Alaska",North America,United States of America
+M 6.5,6.5,22/09/2021,9:57:00 AM,7,5,green,1,684,0.993,114,21,12.1598,-87.8542,Jiquilillo- Nicaragua,Central America,Nicaragua
+M 7.0,7,8/9/2021,1:47:00 AM,8,8,red,1,2504,0.07,43,20,16.9502,-99.7877,Acapulco- Mexico,North America,Mexico
+M 7.1,7.1,22/08/2021,9:33:00 PM,1,4,green,1,776,9.799,32,6,-60.3026,-24.9992,South Sandwich Islands region,North America,Antarctica
+M 6.6,6.6,22/08/2021,12:45:00 AM,1,3,green,1,670,8.865,19,7,-60.1023,-24.4608,South Sandwich Islands region,North America,Antarctica
+M 6.9,6.9,18/08/2021,10:10:00 AM,8,7,green,1,741,0.579,54,93,-14.892,167.085,Port-Olry- Vanuatu,Oceania,Vanuatu
+M 6.9,6.9,16/08/2021,11:10:00 AM,6,4,green,1,734,8.363,48,16.7,-58.3814,-23.3318,South Sandwich Islands region,North America,Antarctica
+M 7.2,7.2,14/08/2021,12:29:00 PM,9,8,red,1,2331,1.178,23,10,18.3521,-73.4804,Nippes- Haiti,North America,Haiti
+M 6.9,6.9,14/08/2021,11:57:00 AM,5,4,green,1,738,0,0,33.3,55.2364,-157.707,Perryville- Alaska,North America,United States of America
+M 6.9,6.9,14/08/2021,11:57:00 AM,5,4,green,1,738,1.173,36,20.74,55.2657,-157.68,Perryville- Alaska,North America,United States of America
 M 8.1,8.1,12/8/2021,6:35:00 AM,0,7,green,0,1009,7.463,78,22.79,-58.4157,-25.3206,South Sandwich Islands region,North America,Antarctica
 M 7.5,7.5,12/8/2021,6:32:00 AM,9,6,green,1,868,7.227,38,47.23,-57.5959,-25.1874,South Sandwich Islands region,North America,Antarctica
-M 7.1,7.1,11/8/2021,5:46:00 AM,9,7,green,1,846,1.273,25,55.14,6.4547,126.742,"Pondaguitan, Philippines",Asia,Philippines
-M 8.2,8.2,29-07-2021,6:15:00 AM,8,6,green,1,1237,0.875,66,46.66,55.4742,-157.917,"Perryville, Alaska",North America,United States of America
-M 8.2,8.2,29-07-2021,6:15:00 AM,8,7,yellow,1,1252,0,0,35,55.3154,-157.829,"Perryville, Alaska",North America,United States of America
-M 6.7,6.7,23-07-2021,8:48:00 PM,8,5,green,1,935,8.139,12,110,13.6989,120.713,"Hukay, Philippines",Asia,Philippines
-M 6.7,6.7,21-07-2021,9:15:00 PM,6,6,green,1,830,1.395,61,10,7.5904,-82.8813,"Burica, Panama",Central America,Panama
-M 6.5,6.5,20-06-2021,5:05:00 PM,0,4,green,1,650,7.994,24,25,-30.2144,-177.773,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 6.5,6.5,21-05-2021,10:13:00 PM,5,7,green,1,652,4.518,44,10,-16.4796,-177.356,"Alo, Wallis and Futuna",Oceania,Wallis and Futuna
-M 7.3,7.3,21-05-2021,6:04:00 PM,9,9,orange,0,1025,4.655,9,10,34.5861,98.2551,"Southern Qinghai, China",Asia,People's Republic of China
-M 6.7,6.7,14-05-2021,6:33:00 AM,8,4,green,0,698,1.487,37,11,0.1684,96.6475,"Sinabang, Indonesia",Asia,Indonesia
+M 7.1,7.1,11/8/2021,5:46:00 AM,9,7,green,1,846,1.273,25,55.14,6.4547,126.742,Pondaguitan- Philippines,Asia,Philippines
+M 8.2,8.2,29/07/2021,6:15:00 AM,8,6,green,1,1237,0.875,66,46.66,55.4742,-157.917,Perryville- Alaska,North America,United States of America
+M 8.2,8.2,29/07/2021,6:15:00 AM,8,7,yellow,1,1252,0,0,35,55.3154,-157.829,Perryville- Alaska,North America,United States of America
+M 6.7,6.7,23/07/2021,8:48:00 PM,8,5,green,1,935,8.139,12,110,13.6989,120.713,Hukay- Philippines,Asia,Philippines
+M 6.7,6.7,21/07/2021,9:15:00 PM,6,6,green,1,830,1.395,61,10,7.5904,-82.8813,Burica- Panama,Central America,Panama
+M 6.5,6.5,20/06/2021,5:05:00 PM,0,4,green,1,650,7.994,24,25,-30.2144,-177.773,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 6.5,6.5,21/05/2021,10:13:00 PM,5,7,green,1,652,4.518,44,10,-16.4796,-177.356,Alo- Wallis and Futuna,Oceania,Wallis and Futuna
+M 7.3,7.3,21/05/2021,6:04:00 PM,9,9,orange,0,1025,4.655,9,10,34.5861,98.2551,Southern Qinghai- China,Asia,People's Republic of China
+M 6.7,6.7,14/05/2021,6:33:00 AM,8,4,green,0,698,1.487,37,11,0.1684,96.6475,Sinabang- Indonesia,Asia,Indonesia
 M 6.7,6.7,12/5/2021,2:05:00 AM,9,3,green,0,694,10.669,45,10,-17.2495,66.3745,Mauritius - Reunion region,Africa,Mauritius
-M 6.5,6.5,25-04-2021,10:28:00 PM,4,4,green,0,651,5.931,20,246,-21.6857,-177.064,"Haveluloto, Tonga",Oceania,Tonga
-M 6.5,6.5,24-04-2021,12:23:00 AM,6,4,green,0,652,10.405,19,301,-18.9204,-176.235,"Pangai, Tonga",Oceania,Tonga
-M 7.0,7,20-03-2021,9:09:00 AM,7,7,yellow,1,1052,2.378,35,43,38.4752,141.607,"Ishinomaki, Japan",Asia,Japan
-M 6.6,6.6,16-03-2021,6:38:00 PM,5,5,green,1,672,3.183,18,13.23,54.7018,163.208,"Ust?-Kamchatsk Staryy, Russia",Asia,Russia
+M 6.5,6.5,25/04/2021,10:28:00 PM,4,4,green,0,651,5.931,20,246,-21.6857,-177.064,Haveluloto- Tonga,Oceania,Tonga
+M 6.5,6.5,24/04/2021,12:23:00 AM,6,4,green,0,652,10.405,19,301,-18.9204,-176.235,Pangai- Tonga,Oceania,Tonga
+M 7.0,7,20/03/2021,9:09:00 AM,7,7,yellow,1,1052,2.378,35,43,38.4752,141.607,Ishinomaki- Japan,Asia,Japan
+M 6.6,6.6,16/03/2021,6:38:00 PM,5,5,green,1,672,3.183,18,13.23,54.7018,163.208,Ust?-Kamchatsk Staryy- Russia,Asia,Russia
 M 6.5,6.5,4/3/2021,11:12:00 AM,0,4,green,0,650,11.764,25,24,-28.4792,-176.619,Kermadec Islands region,Oceania,New Zealand
-M 8.1,8.1,4/3/2021,7:28:00 AM,9,8,green,1,1021,0.739,21,28.93,-29.7466,-177.224,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 7.4,7.4,4/3/2021,5:41:00 AM,3,7,green,1,843,0.437,30,43,-29.6131,-177.842,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 7.3,7.3,4/3/2021,1:27:00 AM,7,6,green,1,932,0.918,24,10,-37.596,179.544,"Gisborne, New Zealand",Oceania,New Zealand
-M 7.1,7.1,13-02-2021,2:07:00 PM,9,8,orange,1,1612,3.085,11,43.98,37.6856,141.992,"Namie, Japan",Asia,Japan
+M 8.1,8.1,4/3/2021,7:28:00 AM,9,8,green,1,1021,0.739,21,28.93,-29.7466,-177.224,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 7.4,7.4,4/3/2021,5:41:00 AM,3,7,green,1,843,0.437,30,43,-29.6131,-177.842,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 7.3,7.3,4/3/2021,1:27:00 AM,7,6,green,1,932,0.918,24,10,-37.596,179.544,Gisborne- New Zealand,Oceania,New Zealand
+M 7.1,7.1,13/02/2021,2:07:00 PM,9,8,orange,1,1612,3.085,11,43.98,37.6856,141.992,Namie- Japan,Asia,Japan
 M 7.7,7.7,10/2/2021,1:19:00 AM,9,4,green,1,918,7.989,15,10,-23.2787,171.489,the Loyalty Islands,Oceania,New Caledonia
-M 6.9,6.9,23-01-2021,11:36:00 PM,9,5,green,1,739,1.55,16,15,-61.8484,-55.559,South Shetland Islands,North America,Antarctica
-M 7.0,7,21-01-2021,12:23:00 PM,7,5,green,1,802,2.821,15,80,5.0074,127.517,"Pondaguitan, Philippines",Asia,Philippines
-M 6.7,6.7,11/1/2021,9:32:00 AM,8,8,green,0,776,2.043,22,10,51.2407,100.443,"Turt, Mongolia",Asia,Mongolia
-M 6.7,6.7,27-12-2020,9:39:00 PM,5,5,green,1,776,1.319,19,10,-39.3264,-74.9067,"Corral, Chile",South America,Chile
-M 7.0,7,30-10-2020,11:51:00 AM,8,7,orange,0,1527,1.518,18,21,37.8973,26.7953,"Néon Karlovásion, Greece",Europe,Greece
-M 7.6,7.6,19-10-2020,8:54:00 PM,9,7,yellow,1,1165,0.23,36,28.37,54.662,-159.675,"Sand Point, Alaska",North America,United States of America
-M 6.5,6.5,1/9/2020,9:09:00 AM,6,6,green,0,674,0.388,49,16,-27.9285,-71.3937,"Vallenar, Chile",South America,Chile
-M 6.8,6.8,1/9/2020,4:09:00 AM,6,7,green,1,824,0.312,69,21,-28.013,-71.1958,"Vallenar, Chile",South America,Chile
-M 6.9,6.9,21-08-2020,4:09:00 AM,4,3,green,0,749,2.267,20,624,-6.6704,123.493,"Katabu, Indonesia",Asia,Indonesia
-M 6.9,6.9,18-08-2020,10:29:00 PM,4,4,green,0,735,1.716,25,26,-4.2791,101.215,"Bengkulu, Indonesia",Asia,Indonesia
-M 6.8,6.8,18-08-2020,10:23:00 PM,5,4,green,0,716,1.816,34,22,-4.3724,101.095,"Bengkulu, Indonesia",Asia,Indonesia
-M 6.6,6.6,18-08-2020,12:03:00 AM,9,8,yellow,1,784,5.128,14,10,12.0065,124.13,"San Pedro, Philippines",Asia,Philippines
-M 7.8,7.8,22-07-2020,6:12:00 AM,9,7,green,1,1111,0.621,60,28,55.1079,-158.477,"Perryville, Alaska",North America,United States of America
-M 7.0,7,17-07-2020,2:50:00 AM,6,7,green,1,820,1.671,18,73,-7.847,147.755,"Popondetta, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,6/7/2020,10:54:00 AM,4,2,green,0,684,1.458,14,533.76,-5.6368,110.678,"Batang, Indonesia",Asia,Indonesia
-M 7.4,7.4,23-06-2020,3:29:00 PM,8,8,orange,1,1494,0.151,30,20,15.9163,-95.9533,"Santa María Xadani, Mexico",North America,Mexico
-M 7.4,7.4,18-06-2020,12:49:00 PM,7,7,green,1,873,4.035,23,10,-33.2938,-177.838,the Kermadec Islands,Oceania,New Zealand
-M 6.6,6.6,13-06-2020,3:51:00 PM,5,4,green,1,734,2.015,18,165,28.9386,128.262,"Naze, Japan",Asia,Japan
-M 6.8,6.8,3/6/2020,7:35:00 AM,6,6,green,1,835,1.164,21,112,-23.2966,-68.4204,"San Pedro de Atacama, Chile",South America,Chile
-M 6.5,6.5,15-05-2020,11:03:00 AM,7,8,green,0,1320,0.357,55.79,2.7,38.1689,-117.85,"Monte Cristo Range, NV Earthquake",North America,United States of America
-M 6.6,6.6,12/5/2020,10:41:00 AM,4,6,green,1,671,3.403,12,107,-12.0662,166.648,"Lata, Solomon Islands",Oceania,Solomon Islands
+M 6.9,6.9,23/01/2021,11:36:00 PM,9,5,green,1,739,1.55,16,15,-61.8484,-55.559,South Shetland Islands,North America,Antarctica
+M 7.0,7,21/01/2021,12:23:00 PM,7,5,green,1,802,2.821,15,80,5.0074,127.517,Pondaguitan- Philippines,Asia,Philippines
+M 6.7,6.7,11/1/2021,9:32:00 AM,8,8,green,0,776,2.043,22,10,51.2407,100.443,Turt- Mongolia,Asia,Mongolia
+M 6.7,6.7,27/12/2020,9:39:00 PM,5,5,green,1,776,1.319,19,10,-39.3264,-74.9067,Corral- Chile,South America,Chile
+M 7.0,7,30/10/2020,11:51:00 AM,8,7,orange,0,1527,1.518,18,21,37.8973,26.7953,Néon Karlovásion- Greece,Europe,Greece
+M 7.6,7.6,19/10/2020,8:54:00 PM,9,7,yellow,1,1165,0.23,36,28.37,54.662,-159.675,Sand Point- Alaska,North America,United States of America
+M 6.5,6.5,1/9/2020,9:09:00 AM,6,6,green,0,674,0.388,49,16,-27.9285,-71.3937,Vallenar- Chile,South America,Chile
+M 6.8,6.8,1/9/2020,4:09:00 AM,6,7,green,1,824,0.312,69,21,-28.013,-71.1958,Vallenar- Chile,South America,Chile
+M 6.9,6.9,21/08/2020,4:09:00 AM,4,3,green,0,749,2.267,20,624,-6.6704,123.493,Katabu- Indonesia,Asia,Indonesia
+M 6.9,6.9,18/08/2020,10:29:00 PM,4,4,green,0,735,1.716,25,26,-4.2791,101.215,Bengkulu- Indonesia,Asia,Indonesia
+M 6.8,6.8,18/08/2020,10:23:00 PM,5,4,green,0,716,1.816,34,22,-4.3724,101.095,Bengkulu- Indonesia,Asia,Indonesia
+M 6.6,6.6,18/08/2020,12:03:00 AM,9,8,yellow,1,784,5.128,14,10,12.0065,124.13,San Pedro- Philippines,Asia,Philippines
+M 7.8,7.8,22/07/2020,6:12:00 AM,9,7,green,1,1111,0.621,60,28,55.1079,-158.477,Perryville- Alaska,North America,United States of America
+M 7.0,7,17/07/2020,2:50:00 AM,6,7,green,1,820,1.671,18,73,-7.847,147.755,Popondetta- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,6/7/2020,10:54:00 AM,4,2,green,0,684,1.458,14,533.76,-5.6368,110.678,Batang- Indonesia,Asia,Indonesia
+M 7.4,7.4,23/06/2020,3:29:00 PM,8,8,orange,1,1494,0.151,30,20,15.9163,-95.9533,Santa María Xadani- Mexico,North America,Mexico
+M 7.4,7.4,18/06/2020,12:49:00 PM,7,7,green,1,873,4.035,23,10,-33.2938,-177.838,the Kermadec Islands,Oceania,New Zealand
+M 6.6,6.6,13/06/2020,3:51:00 PM,5,4,green,1,734,2.015,18,165,28.9386,128.262,Naze- Japan,Asia,Japan
+M 6.8,6.8,3/6/2020,7:35:00 AM,6,6,green,1,835,1.164,21,112,-23.2966,-68.4204,San Pedro de Atacama- Chile,South America,Chile
+M 6.5,6.5,15/05/2020,11:03:00 AM,7,8,green,0,1320,0.357,55.79,2.7,38.1689,-117.85,Monte Cristo Range- NV Earthquake,North America,United States of America
+M 6.6,6.6,12/5/2020,10:41:00 AM,4,6,green,1,671,3.403,12,107,-12.0662,166.648,Lata- Solomon Islands,Oceania,Solomon Islands
 M 6.8,6.8,6/5/2020,1:53:00 AM,4,6,green,0,738,1.921,16,96,-6.7762,129.785,Banda Sea,Asia,Indonesia
-M 6.5,6.5,2/5/2020,12:51:00 PM,7,6,green,0,678,1.293,19,10,34.1818,25.7101,"Néa Anatolí, Greece",Europe,Greece
-M 6.5,6.5,31-03-2020,11:52:00 PM,8,8,green,0,1410,0.885,31,12.06,44.4646,-115.118,"Stanley, Idaho",North America,United States of America
-M 7.5,7.5,25-03-2020,2:49:00 AM,6,5,green,1,879,4.109,12,57.8,48.9638,157.695,"Severo-Kuril?sk, Russia",Asia,Russia
-M 7.0,7,13-02-2020,10:33:00 AM,5,6,yellow,1,770,4.501,25,143,45.6161,148.959,"Kuril?sk, Russia",Asia,Russia
-M 7.7,7.7,28-01-2020,7:10:00 PM,9,6,yellow,1,1812,1.657,26,14.86,19.4193,-78.756,"Lucea, Jamaica",Central America,Jamaica
-M 6.7,6.7,24-01-2020,5:55:00 PM,8,9,orange,0,1247,0.87,49,10,38.4312,39.0609,"Do?anyol, Turkey",Asia,Turkey
-M 6.8,6.8,15-12-2019,6:11:00 AM,9,7,yellow,1,825,0.546,39,18,6.6969,125.174,"Magsaysay, Philippines",Asia,Philippines
-M 7.1,7.1,14-11-2019,4:17:00 PM,6,6,green,1,799,1.271,11,33,1.6213,126.416,"Bitung, Indonesia",Asia,Indonesia
-M 6.5,6.5,8/11/2019,10:44:00 AM,0,2,green,0,650,4.765,25,577,-21.9449,-179.511,"Ndoi Island, Fiji",Oceania,Fiji
-M 6.6,6.6,4/11/2019,10:43:00 AM,4,4,green,1,673,5.086,48,10,-18.5747,-175.272,"Neiafu, Tonga",Oceania,Tonga
-M 6.5,6.5,31-10-2019,1:11:00 AM,9,7,green,1,733,0.428,19,10,6.9098,125.178,"Kisante, Philippines",Asia,Philippines
-M 6.6,6.6,29-10-2019,1:04:00 AM,9,7,yellow,1,780,0.646,24,15,6.7567,125.008,"Columbio, Philippines",Asia,Philippines
-M 6.7,6.7,29-09-2019,3:57:00 PM,7,6,green,1,844,1.269,98,11,-35.4758,-73.163,"Constitución, Chile",South America,Chile
-M 6.5,6.5,25-09-2019,11:46:00 PM,7,7,yellow,1,656,3.909,15,12.26,-3.4528,128.37,"Kairatu, Indonesia",Asia,Indonesia
-M 6.6,6.6,1/9/2019,3:54:00 AM,2,3,green,1,671,4.121,19,591,-20.3641,-178.57,"Ndoi Island, Fiji",Oceania,Fiji
-M 6.6,6.6,27-08-2019,11:55:00 PM,0,4,green,1,670,12.896,19,16,-60.2152,-26.5801,"Bristol Island, South Sandwich Islands",Europe,United Kingdom of Great Britain and Northern Ireland (the)
-M 6.9,6.9,2/8/2019,12:03:00 PM,4,6,green,0,875,2.839,23,49,-7.2822,104.791,"Labuan, Indonesia",Asia,Indonesia
-M 6.8,6.8,1/8/2019,6:28:00 AM,6,6,green,1,947,0.817,35,25,-34.2364,-72.3102,"San Antonio, Chile",South America,Chile
-M 6.6,6.6,31-07-2019,3:02:00 PM,0,4,green,1,670,6.024,30,181,-16.1985,167.998,"Lakatoro, Vanuatu",Oceania,Vanuatu
-M 7.2,7.2,14-07-2019,9:10:00 AM,7,7,green,1,809,1.504,38,18.98,-0.5858,128.034,"Laiwui, Indonesia",Asia,Indonesia
-M 6.6,6.6,14-07-2019,5:39:00 AM,5,5,green,0,791,2.978,32,10,-18.2242,120.358,"Broome, Australia",Oceania,Australia
-M 6.9,6.9,7/7/2019,3:08:00 AM,7,5,green,0,747,1.205,21,35,0.5126,126.189,"Kota Ternate, Indonesia",Asia,Indonesia
-M 7.1,7.1,6/7/2019,3:19:00 AM,9,9,yellow,0,1646,0.04616,43,8,35.7695,-117.599,"Searles Valley, CA",North America,United States of America
-M 7.3,7.3,24-06-2019,2:53:00 AM,4,6,green,1,952,2.629,16,212,-6.4078,129.169,"Saumlaki, Indonesia",Asia,Indonesia
-M 7.3,7.3,15-06-2019,10:55:00 PM,8,6,green,1,830,1.402,11,46,-30.6441,-178.1,"L'Esperance Rock, New Zealand",Oceania,New Zealand
-M 6.6,6.6,30-05-2019,9:03:00 AM,7,6,yellow,1,886,1.193,22,57.92,13.1994,-89.3056,"La Libertad, El Salvador",Central America,El Salvador
-M 8.0,8,26-05-2019,7:41:00 AM,9,8,orange,1,1890,3.18,17,122.57,-5.8119,-75.2697,"Navarro, Peru",South America,Peru
-M 7.6,7.6,14-05-2019,12:58:00 PM,7,7,green,1,929,0.453,16,10,-4.051,152.597,"Namatanai, Papua New Guinea",Oceania,Papua New Guinea
-M 7.1,7.1,6/5/2019,9:19:00 AM,7,6,yellow,1,826,2.514,16,146,-6.9746,146.449,"Bulolo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,12/4/2019,11:40:00 AM,5,6,green,1,717,0.791,28,15.46,-1.8146,122.58,"Luwuk, Indonesia",Asia,Indonesia
-M 6.5,6.5,9/4/2019,5:53:00 AM,0,5,green,1,650,7.568,18,38,-58.6262,-25.304,"Bristol Island, South Sandwich Islands",Europe,United Kingdom of Great Britain and Northern Ireland (the)
-M 7.0,7,1/3/2019,8:50:00 AM,7,4,green,1,869,2.501,42,267,-14.7131,-70.1546,"Azángaro, Peru",South America,Peru
-M 7.5,7.5,22-02-2019,10:17:00 AM,7,7,yellow,1,1145,2.045,15,145,-2.1862,-77.0505,"Palora, Ecuador",South America,Ecuador
-M 6.7,6.7,1/2/2019,4:14:00 AM,6,6,yellow,1,909,0.289,43,66,14.6802,-92.4527,"Puerto Madero, Mexico",North America,Mexico
-M 6.7,6.7,22-01-2019,7:01:00 PM,0,3,green,0,691,7.527,17,13,-43.1219,42.3568,Prince Edward Islands region,North America,United States of America
-M 6.7,6.7,20-01-2019,1:32:00 AM,8,8,orange,1,1600,0.173,22,63,-30.0404,-71.3815,"Coquimbo, Chile",South America,Chile
-M 6.6,6.6,15-01-2019,6:06:00 PM,5,4,green,1,671,7.818,18,35,-13.336,166.875,"Sola, Vanuatu",Oceania,Vanuatu
+M 6.5,6.5,2/5/2020,12:51:00 PM,7,6,green,0,678,1.293,19,10,34.1818,25.7101,Néa Anatolí- Greece,Europe,Greece
+M 6.5,6.5,31/03/2020,11:52:00 PM,8,8,green,0,1410,0.885,31,12.06,44.4646,-115.118,Stanley- Idaho,North America,United States of America
+M 7.5,7.5,25/03/2020,2:49:00 AM,6,5,green,1,879,4.109,12,57.8,48.9638,157.695,Severo-Kuril?sk- Russia,Asia,Russia
+M 7.0,7,13/02/2020,10:33:00 AM,5,6,yellow,1,770,4.501,25,143,45.6161,148.959,Kuril?sk- Russia,Asia,Russia
+M 7.7,7.7,28/01/2020,7:10:00 PM,9,6,yellow,1,1812,1.657,26,14.86,19.4193,-78.756,Lucea- Jamaica,Central America,Jamaica
+M 6.7,6.7,24/01/2020,5:55:00 PM,8,9,orange,0,1247,0.87,49,10,38.4312,39.0609,Do?anyol- Turkey,Asia,Turkey
+M 6.8,6.8,15/12/2019,6:11:00 AM,9,7,yellow,1,825,0.546,39,18,6.6969,125.174,Magsaysay- Philippines,Asia,Philippines
+M 7.1,7.1,14/11/2019,4:17:00 PM,6,6,green,1,799,1.271,11,33,1.6213,126.416,Bitung- Indonesia,Asia,Indonesia
+M 6.5,6.5,8/11/2019,10:44:00 AM,0,2,green,0,650,4.765,25,577,-21.9449,-179.511,Ndoi Island- Fiji,Oceania,Fiji
+M 6.6,6.6,4/11/2019,10:43:00 AM,4,4,green,1,673,5.086,48,10,-18.5747,-175.272,Neiafu- Tonga,Oceania,Tonga
+M 6.5,6.5,31/10/2019,1:11:00 AM,9,7,green,1,733,0.428,19,10,6.9098,125.178,Kisante- Philippines,Asia,Philippines
+M 6.6,6.6,29/10/2019,1:04:00 AM,9,7,yellow,1,780,0.646,24,15,6.7567,125.008,Columbio- Philippines,Asia,Philippines
+M 6.7,6.7,29/09/2019,3:57:00 PM,7,6,green,1,844,1.269,98,11,-35.4758,-73.163,Constitución- Chile,South America,Chile
+M 6.5,6.5,25/09/2019,11:46:00 PM,7,7,yellow,1,656,3.909,15,12.26,-3.4528,128.37,Kairatu- Indonesia,Asia,Indonesia
+M 6.6,6.6,1/9/2019,3:54:00 AM,2,3,green,1,671,4.121,19,591,-20.3641,-178.57,Ndoi Island- Fiji,Oceania,Fiji
+M 6.6,6.6,27/08/2019,11:55:00 PM,0,4,green,1,670,12.896,19,16,-60.2152,-26.5801,Bristol Island- South Sandwich Islands,Europe,United Kingdom of Great Britain and Northern Ireland (the)
+M 6.9,6.9,2/8/2019,12:03:00 PM,4,6,green,0,875,2.839,23,49,-7.2822,104.791,Labuan- Indonesia,Asia,Indonesia
+M 6.8,6.8,1/8/2019,6:28:00 AM,6,6,green,1,947,0.817,35,25,-34.2364,-72.3102,San Antonio- Chile,South America,Chile
+M 6.6,6.6,31/07/2019,3:02:00 PM,0,4,green,1,670,6.024,30,181,-16.1985,167.998,Lakatoro- Vanuatu,Oceania,Vanuatu
+M 7.2,7.2,14/07/2019,9:10:00 AM,7,7,green,1,809,1.504,38,18.98,-0.5858,128.034,Laiwui- Indonesia,Asia,Indonesia
+M 6.6,6.6,14/07/2019,5:39:00 AM,5,5,green,0,791,2.978,32,10,-18.2242,120.358,Broome- Australia,Oceania,Australia
+M 6.9,6.9,7/7/2019,3:08:00 AM,7,5,green,0,747,1.205,21,35,0.5126,126.189,Kota Ternate- Indonesia,Asia,Indonesia
+M 7.1,7.1,6/7/2019,3:19:00 AM,9,9,yellow,0,1646,0.04616,43,8,35.7695,-117.599,Searles Valley- CA,North America,United States of America
+M 7.3,7.3,24/06/2019,2:53:00 AM,4,6,green,1,952,2.629,16,212,-6.4078,129.169,Saumlaki- Indonesia,Asia,Indonesia
+M 7.3,7.3,15/06/2019,10:55:00 PM,8,6,green,1,830,1.402,11,46,-30.6441,-178.1,L'Esperance Rock- New Zealand,Oceania,New Zealand
+M 6.6,6.6,30/05/2019,9:03:00 AM,7,6,yellow,1,886,1.193,22,57.92,13.1994,-89.3056,La Libertad- El Salvador,Central America,El Salvador
+M 8.0,8,26/05/2019,7:41:00 AM,9,8,orange,1,1890,3.18,17,122.57,-5.8119,-75.2697,Navarro- Peru,South America,Peru
+M 7.6,7.6,14/05/2019,12:58:00 PM,7,7,green,1,929,0.453,16,10,-4.051,152.597,Namatanai- Papua New Guinea,Oceania,Papua New Guinea
+M 7.1,7.1,6/5/2019,9:19:00 AM,7,6,yellow,1,826,2.514,16,146,-6.9746,146.449,Bulolo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,12/4/2019,11:40:00 AM,5,6,green,1,717,0.791,28,15.46,-1.8146,122.58,Luwuk- Indonesia,Asia,Indonesia
+M 6.5,6.5,9/4/2019,5:53:00 AM,0,5,green,1,650,7.568,18,38,-58.6262,-25.304,Bristol Island- South Sandwich Islands,Europe,United Kingdom of Great Britain and Northern Ireland (the)
+M 7.0,7,1/3/2019,8:50:00 AM,7,4,green,1,869,2.501,42,267,-14.7131,-70.1546,Azángaro- Peru,South America,Peru
+M 7.5,7.5,22/02/2019,10:17:00 AM,7,7,yellow,1,1145,2.045,15,145,-2.1862,-77.0505,Palora- Ecuador,South America,Ecuador
+M 6.7,6.7,1/2/2019,4:14:00 AM,6,6,yellow,1,909,0.289,43,66,14.6802,-92.4527,Puerto Madero- Mexico,North America,Mexico
+M 6.7,6.7,22/01/2019,7:01:00 PM,0,3,green,0,691,7.527,17,13,-43.1219,42.3568,Prince Edward Islands region,North America,United States of America
+M 6.7,6.7,20/01/2019,1:32:00 AM,8,8,orange,1,1600,0.173,22,63,-30.0404,-71.3815,Coquimbo- Chile,South America,Chile
+M 6.6,6.6,15/01/2019,6:06:00 PM,5,4,green,1,671,7.818,18,35,-13.336,166.875,Sola- Vanuatu,Oceania,Vanuatu
 M 6.6,6.6,6/1/2019,5:27:00 AM,2,4,green,1,672,1.596,33,43.21,2.258,126.758,Molucca Sea,Asia,Indonesia
-M 6.8,6.8,5/1/2019,7:25:00 AM,3,3,green,0,715,1.181,16,570.41,-8.144,-71.587,"Tarauaca, Brazil",South America,Brazil
-M 7.0,7,29-12-2018,3:39:00 AM,5,5,green,1,803,1.769,21,60.21,5.8983,126.921,"Pondaguitan, Philippines",Asia,Philippines
-M 7.3,7.3,20-12-2018,5:01:00 PM,3,7,green,1,822,4.126,23,16.56,55.0999,164.699,"Ust?-Kamchatsk Staryy, Russia",Asia,Russia
+M 6.8,6.8,5/1/2019,7:25:00 AM,3,3,green,0,715,1.181,16,570.41,-8.144,-71.587,Tarauaca- Brazil,South America,Brazil
+M 7.0,7,29/12/2018,3:39:00 AM,5,5,green,1,803,1.769,21,60.21,5.8983,126.921,Pondaguitan- Philippines,Asia,Philippines
+M 7.3,7.3,20/12/2018,5:01:00 PM,3,7,green,1,822,4.126,23,16.56,55.0999,164.699,Ust?-Kamchatsk Staryy- Russia,Asia,Russia
 M 7.1,7.1,11/12/2018,2:26:00 AM,0,5,green,1,776,7.043,20,133,-58.5446,-26.3856,South Sandwich Islands region,South America,South Georgia and the South Sandwich Islands
-M 6.6,6.6,5/12/2018,6:43:00 AM,0,4,green,1,670,2.679,31,10,-22.0629,169.733,"Tadine, New Caledonia",Oceania,New Caledonia
-M 7.5,7.5,5/12/2018,4:18:00 AM,3,6,green,1,871,2.405,18,10,-21.9496,169.427,"Tadine, New Caledonia",Oceania,New Caledonia
-M 7.1,7.1,30-11-2018,5:29:00 PM,8,8,orange,1,1790,0,0,46.7,61.3464,-149.955,"Point MacKenzie, Alaska",North America,United States of America
-M 6.8,6.8,18-11-2018,8:25:00 PM,0,3,green,1,711,2.879,39,540,-17.8735,-178.927,"Levuka, Fiji",Oceania,Fiji
-M 6.7,6.7,9/11/2018,1:49:00 AM,3,4,green,1,693,7.853,19,10,71.6312,-11.2431,"Olonkinbyen, Svalbard and Jan Mayen",Europe,Greeland
-M 6.8,6.8,25-10-2018,10:54:00 PM,8,7,yellow,0,954,2.268,15,14,37.5203,20.5565,"Lithakiá, Greece",Europe,Greece
-M 6.5,6.5,22-10-2018,6:22:00 AM,2,4,green,0,655,1.692,68,10,49.297,-129.724,"Port McNeill, Canada",North America,Canada
-M 6.8,6.8,22-10-2018,6:16:00 AM,4,4,green,1,776,1.505,36,10,49.3346,-129.289,"Port McNeill, Canada",North America,Canada
-M 6.5,6.5,22-10-2018,5:39:00 AM,3,4,green,1,669,1.611,63,10,49.2586,-129.412,"Port McNeill, Canada",North America,Canada
-M 6.5,6.5,16-10-2018,1:03:00 AM,0,4,green,1,650,2.109,22,17,-21.7427,169.522,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.7,6.7,13-10-2018,11:10:00 AM,0,3,green,1,691,2.705,17,461,52.8549,153.243,"Ozernovskiy, Russia",Asia,Russia
-M 6.5,6.5,10/10/2018,11:16:00 AM,0,4,green,1,650,3.923,14,20,49.2902,156.297,"Severo-Kuril?sk, Russia",Asia,Russia
-M 7.0,7,10/10/2018,8:48:00 AM,6,6,green,1,758,1.778,18,39,-5.7012,151.205,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,30-09-2018,10:52:00 AM,2,3,green,1,691,3.745,23,550,-18.3604,-178.063,"Levuka, Fiji",Oceania,Fiji
-M 7.5,7.5,28-09-2018,10:02:00 AM,8,8,red,0,2026,1.649,13,20,-0.2559,119.846,"Palu, Indonesia",Asia,Indonesia
-M 6.5,6.5,16-09-2018,9:11:00 PM,4,1,green,0,651,5.139,18,576,-25.415,178.199,the Fiji Islands,Oceania,Fiji
+M 6.6,6.6,5/12/2018,6:43:00 AM,0,4,green,1,670,2.679,31,10,-22.0629,169.733,Tadine- New Caledonia,Oceania,New Caledonia
+M 7.5,7.5,5/12/2018,4:18:00 AM,3,6,green,1,871,2.405,18,10,-21.9496,169.427,Tadine- New Caledonia,Oceania,New Caledonia
+M 7.1,7.1,30/11/2018,5:29:00 PM,8,8,orange,1,1790,0,0,46.7,61.3464,-149.955,Point MacKenzie- Alaska,North America,United States of America
+M 6.8,6.8,18/11/2018,8:25:00 PM,0,3,green,1,711,2.879,39,540,-17.8735,-178.927,Levuka- Fiji,Oceania,Fiji
+M 6.7,6.7,9/11/2018,1:49:00 AM,3,4,green,1,693,7.853,19,10,71.6312,-11.2431,Olonkinbyen- Svalbard and Jan Mayen,Europe,Greeland
+M 6.8,6.8,25/10/2018,10:54:00 PM,8,7,yellow,0,954,2.268,15,14,37.5203,20.5565,Lithakiá- Greece,Europe,Greece
+M 6.5,6.5,22/10/2018,6:22:00 AM,2,4,green,0,655,1.692,68,10,49.297,-129.724,Port McNeill- Canada,North America,Canada
+M 6.8,6.8,22/10/2018,6:16:00 AM,4,4,green,1,776,1.505,36,10,49.3346,-129.289,Port McNeill- Canada,North America,Canada
+M 6.5,6.5,22/10/2018,5:39:00 AM,3,4,green,1,669,1.611,63,10,49.2586,-129.412,Port McNeill- Canada,North America,Canada
+M 6.5,6.5,16/10/2018,1:03:00 AM,0,4,green,1,650,2.109,22,17,-21.7427,169.522,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.7,6.7,13/10/2018,11:10:00 AM,0,3,green,1,691,2.705,17,461,52.8549,153.243,Ozernovskiy- Russia,Asia,Russia
+M 6.5,6.5,10/10/2018,11:16:00 AM,0,4,green,1,650,3.923,14,20,49.2902,156.297,Severo-Kuril?sk- Russia,Asia,Russia
+M 7.0,7,10/10/2018,8:48:00 AM,6,6,green,1,758,1.778,18,39,-5.7012,151.205,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,30/09/2018,10:52:00 AM,2,3,green,1,691,3.745,23,550,-18.3604,-178.063,Levuka- Fiji,Oceania,Fiji
+M 7.5,7.5,28/09/2018,10:02:00 AM,8,8,red,0,2026,1.649,13,20,-0.2559,119.846,Palu- Indonesia,Asia,Indonesia
+M 6.5,6.5,16/09/2018,9:11:00 PM,4,1,green,0,651,5.139,18,576,-25.415,178.199,the Fiji Islands,Oceania,Fiji
 M 6.9,6.9,10/9/2018,4:19:00 AM,3,4,green,0,735,2.785,18,115,-31.7447,-179.373,Kermadec Islands region,Oceania,New Zealand
-M 6.5,6.5,9/9/2018,7:31:00 AM,3,6,green,1,651,1.638,25,68,-10.0207,161.503,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 7.9,7.9,6/9/2018,3:49:00 AM,7,4,green,1,979,1.431,12,670.81,-18.4743,179.35,"Levuka, Fiji",Oceania,Fiji
-M 6.6,6.6,5/9/2018,6:07:00 AM,8,9,orange,1,1075,1.13,32,35,42.6861,141.929,"Chitose, Japan",Asia,Japan
-M 7.1,7.1,29-08-2018,3:51:00 AM,2,5,green,1,776,2.548,23,21.43,-22.0295,170.126,"Tadine, New Caledonia",Oceania,New Caledonia
-M 7.1,7.1,24-08-2018,9:04:00 AM,0,3,green,0,776,3.77,12,630,-11.0355,-70.8284,"IĄapari, Peru",South America,Peru
-M 6.5,6.5,21-08-2018,10:32:00 PM,6,7,green,1,652,4.797,10,9,-16.0315,168.143,"Lakatoro, Vanuatu",Oceania,Vanuatu
-M 7.3,7.3,21-08-2018,9:31:00 PM,8,6,yellow,1,1570,1.822,15,146.82,10.7731,-62.9019,"Carúpano, Venezuela",South America,Venezuela
-M 6.9,6.9,19-08-2018,2:56:00 PM,7,7,green,0,1206,2.453,31,21,-8.319,116.627,"Labuan Lombok, Indonesia",Asia,Indonesia
-M 8.2,8.2,19-08-2018,12:19:00 AM,5,4,green,1,1050,3.63,13,600,-18.1125,-178.153,"Levuka, Fiji",Oceania,Fiji
-M 6.5,6.5,17-08-2018,3:35:00 PM,5,3,green,0,743,2.719,23,529,-7.3718,119.802,"Labuan Bajo, Indonesia",Asia,Indonesia
-M 6.5,6.5,15-08-2018,9:56:00 PM,6,6,green,1,655,0.576,22,33.93,51.4234,-178.026,"Adak, Alaska",North America,United States of America
-M 6.9,6.9,5/8/2018,11:46:00 AM,9,8,orange,0,1704,2.271,15,34,-8.2581,116.438,"Labuan Lombok, Indonesia",Asia,Indonesia
-M 6.9,6.9,4/5/2018,10:32:00 AM,7,8,yellow,1,1392,0.11,210,5.81,19.3182,-155,"Leilani Estates, Hawaii",Oceania,United States of America
-M 6.8,6.8,2/4/2018,1:40:00 AM,5,3,green,0,733,5.32,16,559,-20.6588,-63.0058,"Boyuibe, Bolivia",South America,Bolivia
-M 6.9,6.9,29-03-2018,9:25:00 PM,9,6,green,1,741,1.487,18,35,-5.5321,151.5,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,26-03-2018,9:51:00 AM,5,6,green,1,696,1.507,15,40,-5.5024,151.402,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,8/3/2018,5:39:00 AM,6,6,green,1,719,1.049,16,22.86,-4.3762,153.2,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,6/3/2018,2:13:00 AM,8,7,green,1,697,5.457,19,20.49,-6.3043,142.612,"Tari, Papua New Guinea",Oceania,Papua New Guinea
-M 7.5,7.5,25-02-2018,5:44:00 PM,9,8,yellow,1,943,5.48,17,25.21,-6.0699,142.754,"Tari, Papua New Guinea",Oceania,Papua New Guinea
-M 7.2,7.2,16-02-2018,11:39:00 PM,7,7,yellow,1,1384,0.142,82,22,16.3855,-97.9787,"Pinotepa de Don Luis, Mexico",North America,Mexico
-M 7.9,7.9,23-01-2018,9:31:00 AM,9,4,green,1,1870,2.585,30,14.06,56.0039,-149.166,"Chiniak, Alaska",North America,United States of America
-M 7.1,7.1,14-01-2018,9:18:00 AM,9,7,green,1,1075,4.29,23,39,-15.7675,-74.7092,"Atiquipa, Peru",South America,Peru
-M 7.5,7.5,10/1/2018,2:51:00 AM,8,5,green,1,1623,4.581,12,19,17.4825,-83.52,"Barra Patuca, Honduras",Central America,Honduras
-M 6.5,6.5,15-12-2017,4:47:00 PM,8,7,green,0,998,2.365,28,90,-7.4921,108.174,"Kawalu, Indonesia",Asia,Indonesia
-M 6.5,6.5,13-12-2017,6:03:00 PM,1,5,green,1,651,17.654,23,17,-54.2189,2.1628,Bouvet Island region,Europe,Norway
-M 7.0,7,19-11-2017,10:43:00 PM,4,6,green,1,771,0.617,14,10,-21.3246,168.671,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.6,6.6,19-11-2017,3:09:00 PM,4,5,green,1,676,0.529,21,13,-21.5027,168.598,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.5,6.5,13-11-2017,2:28:00 AM,8,8,yellow,1,1153,0.225,37,19.36,9.5147,-84.4865,"Parrita, Costa Rica",Central America,Costa Rica
-M 7.3,7.3,12/11/2017,6:18:00 AM,8,9,red,0,2790,0.284,33,19,34.9109,45.9592,"?alabja, Iraq",Asia,Iran
-M 6.5,6.5,7/11/2017,9:26:00 AM,6,5,green,1,661,4.449,10,110.57,-4.2433,143.485,"Angoram, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,4/11/2017,9:00:00 AM,5,5,green,1,727,4.852,21,10,-15.3197,-173.168,"Hihifo, Tonga",Oceania,Tonga
-M 6.6,6.6,1/11/2017,2:23:00 AM,3,5,green,1,674,0.788,29,22,-21.6484,168.859,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.7,6.7,31-10-2017,12:42:00 AM,3,4,green,1,691,1.062,55,24,-21.6971,169.148,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.7,6.7,24-10-2017,10:47:00 AM,3,3,green,0,694,1.634,16,553.81,-7.2168,123.074,"Maumere, Indonesia",Asia,Indonesia
-M 6.5,6.5,8/10/2017,10:34:00 AM,3,5,green,1,651,1.154,11,119,52.3909,176.769,"Attu Station, Alaska",North America,United States of America
-M 7.1,7.1,19-09-2017,6:14:00 PM,9,8,yellow,0,1686,0.984,23,48,18.5499,-98.4887,"Matzaco, Mexico",North America,Mexico
-M 8.2,8.2,8/9/2017,4:49:00 AM,9,7,red,1,2910,0.944,22,47.39,15.0222,-93.8993,"Chiapas, Mexico",North America,Mexico
-M 6.5,6.5,8/8/2017,1:19:00 AM,5,7,yellow,0,707,11.411,22,9,33.1926,103.855,"Mawu, China",Asia,People's Republic of China
-M 6.6,6.6,20-07-2017,10:31:00 PM,7,7,yellow,0,1064,0.913,16,7,36.9293,27.4139,"Kos, Greece",Asia,Turkey
-M 7.7,7.7,17-07-2017,11:34:00 PM,8,7,green,1,918,3.564,13,10,54.4434,168.857,"Komandorskiye Ostrova, Russia region",Asia,Russia
-M 6.6,6.6,11/7/2017,7:00:00 AM,5,4,green,1,704,3.773,37,10,-49.4837,164.016,"Auckland Islands, New Zealand region",Oceania,New Zealand
-M 6.5,6.5,6/7/2017,8:03:00 AM,9,8,yellow,1,740,4.139,30,9,11.1269,124.629,"Lim-oo, Philippines",Asia,Philippines
-M 6.8,6.8,22-06-2017,12:31:00 PM,6,6,yellow,1,1034,1.065,38,38.12,13.7174,-90.9718,"Puerto San José, Guatemala",Central America,Guatemala
-M 6.9,6.9,14-06-2017,7:29:00 AM,8,6,yellow,1,1188,0.247,35,93,14.9091,-92.0092,"San Pablo, Guatemala",Central America,Guatemala
-M 6.8,6.8,2/6/2017,10:24:00 AM,0,4,green,1,711,2.308,12,5,54.0312,170.92,"Attu Station, Alaska",North America,United States of America
-M 6.6,6.6,29-05-2017,2:35:00 PM,7,7,green,0,678,2.353,18,12,-1.2923,120.431,"Poso, Indonesia",Asia,Indonesia
+M 6.5,6.5,9/9/2018,7:31:00 AM,3,6,green,1,651,1.638,25,68,-10.0207,161.503,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 7.9,7.9,6/9/2018,3:49:00 AM,7,4,green,1,979,1.431,12,670.81,-18.4743,179.35,Levuka- Fiji,Oceania,Fiji
+M 6.6,6.6,5/9/2018,6:07:00 AM,8,9,orange,1,1075,1.13,32,35,42.6861,141.929,Chitose- Japan,Asia,Japan
+M 7.1,7.1,29/08/2018,3:51:00 AM,2,5,green,1,776,2.548,23,21.43,-22.0295,170.126,Tadine- New Caledonia,Oceania,New Caledonia
+M 7.1,7.1,24/08/2018,9:04:00 AM,0,3,green,0,776,3.77,12,630,-11.0355,-70.8284,IĄapari- Peru,South America,Peru
+M 6.5,6.5,21/08/2018,10:32:00 PM,6,7,green,1,652,4.797,10,9,-16.0315,168.143,Lakatoro- Vanuatu,Oceania,Vanuatu
+M 7.3,7.3,21/08/2018,9:31:00 PM,8,6,yellow,1,1570,1.822,15,146.82,10.7731,-62.9019,Carúpano- Venezuela,South America,Venezuela
+M 6.9,6.9,19/08/2018,2:56:00 PM,7,7,green,0,1206,2.453,31,21,-8.319,116.627,Labuan Lombok- Indonesia,Asia,Indonesia
+M 8.2,8.2,19/08/2018,12:19:00 AM,5,4,green,1,1050,3.63,13,600,-18.1125,-178.153,Levuka- Fiji,Oceania,Fiji
+M 6.5,6.5,17/08/2018,3:35:00 PM,5,3,green,0,743,2.719,23,529,-7.3718,119.802,Labuan Bajo- Indonesia,Asia,Indonesia
+M 6.5,6.5,15/08/2018,9:56:00 PM,6,6,green,1,655,0.576,22,33.93,51.4234,-178.026,Adak- Alaska,North America,United States of America
+M 6.9,6.9,5/8/2018,11:46:00 AM,9,8,orange,0,1704,2.271,15,34,-8.2581,116.438,Labuan Lombok- Indonesia,Asia,Indonesia
+M 6.9,6.9,4/5/2018,10:32:00 AM,7,8,yellow,1,1392,0.11,210,5.81,19.3182,-155,Leilani Estates- Hawaii,Oceania,United States of America
+M 6.8,6.8,2/4/2018,1:40:00 AM,5,3,green,0,733,5.32,16,559,-20.6588,-63.0058,Boyuibe- Bolivia,South America,Bolivia
+M 6.9,6.9,29/03/2018,9:25:00 PM,9,6,green,1,741,1.487,18,35,-5.5321,151.5,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,26/03/2018,9:51:00 AM,5,6,green,1,696,1.507,15,40,-5.5024,151.402,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,8/3/2018,5:39:00 AM,6,6,green,1,719,1.049,16,22.86,-4.3762,153.2,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,6/3/2018,2:13:00 AM,8,7,green,1,697,5.457,19,20.49,-6.3043,142.612,Tari- Papua New Guinea,Oceania,Papua New Guinea
+M 7.5,7.5,25/02/2018,5:44:00 PM,9,8,yellow,1,943,5.48,17,25.21,-6.0699,142.754,Tari- Papua New Guinea,Oceania,Papua New Guinea
+M 7.2,7.2,16/02/2018,11:39:00 PM,7,7,yellow,1,1384,0.142,82,22,16.3855,-97.9787,Pinotepa de Don Luis- Mexico,North America,Mexico
+M 7.9,7.9,23/01/2018,9:31:00 AM,9,4,green,1,1870,2.585,30,14.06,56.0039,-149.166,Chiniak- Alaska,North America,United States of America
+M 7.1,7.1,14/01/2018,9:18:00 AM,9,7,green,1,1075,4.29,23,39,-15.7675,-74.7092,Atiquipa- Peru,South America,Peru
+M 7.5,7.5,10/1/2018,2:51:00 AM,8,5,green,1,1623,4.581,12,19,17.4825,-83.52,Barra Patuca- Honduras,Central America,Honduras
+M 6.5,6.5,15/12/2017,4:47:00 PM,8,7,green,0,998,2.365,28,90,-7.4921,108.174,Kawalu- Indonesia,Asia,Indonesia
+M 6.5,6.5,13/12/2017,6:03:00 PM,1,5,green,1,651,17.654,23,17,-54.2189,2.1628,Bouvet Island region,Europe,Norway
+M 7.0,7,19/11/2017,10:43:00 PM,4,6,green,1,771,0.617,14,10,-21.3246,168.671,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.6,6.6,19/11/2017,3:09:00 PM,4,5,green,1,676,0.529,21,13,-21.5027,168.598,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.5,6.5,13/11/2017,2:28:00 AM,8,8,yellow,1,1153,0.225,37,19.36,9.5147,-84.4865,Parrita- Costa Rica,Central America,Costa Rica
+M 7.3,7.3,12/11/2017,6:18:00 AM,8,9,red,0,2790,0.284,33,19,34.9109,45.9592,?alabja- Iraq,Asia,Iran
+M 6.5,6.5,7/11/2017,9:26:00 AM,6,5,green,1,661,4.449,10,110.57,-4.2433,143.485,Angoram- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,4/11/2017,9:00:00 AM,5,5,green,1,727,4.852,21,10,-15.3197,-173.168,Hihifo- Tonga,Oceania,Tonga
+M 6.6,6.6,1/11/2017,2:23:00 AM,3,5,green,1,674,0.788,29,22,-21.6484,168.859,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.7,6.7,31/10/2017,12:42:00 AM,3,4,green,1,691,1.062,55,24,-21.6971,169.148,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.7,6.7,24/10/2017,10:47:00 AM,3,3,green,0,694,1.634,16,553.81,-7.2168,123.074,Maumere- Indonesia,Asia,Indonesia
+M 6.5,6.5,8/10/2017,10:34:00 AM,3,5,green,1,651,1.154,11,119,52.3909,176.769,Attu Station- Alaska,North America,United States of America
+M 7.1,7.1,19/09/2017,6:14:00 PM,9,8,yellow,0,1686,0.984,23,48,18.5499,-98.4887,Matzaco- Mexico,North America,Mexico
+M 8.2,8.2,8/9/2017,4:49:00 AM,9,7,red,1,2910,0.944,22,47.39,15.0222,-93.8993,Chiapas- Mexico,North America,Mexico
+M 6.5,6.5,8/8/2017,1:19:00 AM,5,7,yellow,0,707,11.411,22,9,33.1926,103.855,Mawu- China,Asia,People's Republic of China
+M 6.6,6.6,20/07/2017,10:31:00 PM,7,7,yellow,0,1064,0.913,16,7,36.9293,27.4139,Kos- Greece,Asia,Turkey
+M 7.7,7.7,17/07/2017,11:34:00 PM,8,7,green,1,918,3.564,13,10,54.4434,168.857,Komandorskiye Ostrova- Russia region,Asia,Russia
+M 6.6,6.6,11/7/2017,7:00:00 AM,5,4,green,1,704,3.773,37,10,-49.4837,164.016,Auckland Islands- New Zealand region,Oceania,New Zealand
+M 6.5,6.5,6/7/2017,8:03:00 AM,9,8,yellow,1,740,4.139,30,9,11.1269,124.629,Lim-oo- Philippines,Asia,Philippines
+M 6.8,6.8,22/06/2017,12:31:00 PM,6,6,yellow,1,1034,1.065,38,38.12,13.7174,-90.9718,Puerto San José- Guatemala,Central America,Guatemala
+M 6.9,6.9,14/06/2017,7:29:00 AM,8,6,yellow,1,1188,0.247,35,93,14.9091,-92.0092,San Pablo- Guatemala,Central America,Guatemala
+M 6.8,6.8,2/6/2017,10:24:00 AM,0,4,green,1,711,2.308,12,5,54.0312,170.92,Attu Station- Alaska,North America,United States of America
+M 6.6,6.6,29/05/2017,2:35:00 PM,7,7,green,0,678,2.353,18,12,-1.2923,120.431,Poso- Indonesia,Asia,Indonesia
 M 6.5,6.5,10/5/2017,11:23:00 AM,0,4,green,1,650,6.489,17,15,-56.414,-25.7432,South Sandwich Islands region,South America,South Georgia and the South Sandwich Islands
-M 6.8,6.8,9/5/2017,1:52:00 AM,6,5,green,1,713,7.495,19,169,-14.5884,167.377,"Port-Olry, Vanuatu",Oceania,Vanuatu
-M 6.9,6.9,28-04-2017,8:23:00 PM,9,6,green,1,814,1.636,14,26,5.5043,125.066,"Burias, Philippines",Asia,Philippines
-M 6.9,6.9,24-04-2017,9:38:00 PM,9,7,yellow,1,1642,0.356,39,28,-33.0375,-72.0617,"Valparaíso, Chile",South America,Chile
-M 6.5,6.5,3/4/2017,5:40:00 AM,7,8,green,0,1297,2.36,15,29,-22.6784,25.1558,"Moijabana, Botswana",Africa,Botswana
-M 6.6,6.6,29-03-2017,4:09:00 AM,6,7,yellow,1,671,4.591,14,17,56.9401,162.786,"Ust?-Kamchatsk Staryy, Russia",Asia,Russia
-M 6.9,6.9,24-02-2017,5:28:00 PM,2,3,green,1,733,6.012,19,414.5,-23.2593,-178.804,the Fiji Islands,Oceania,Fiji
-M 6.5,6.5,21-02-2017,2:09:00 PM,3,3,green,0,653,4.242,14,595.98,-19.2814,-63.9047,"Padilla, Bolivia",South America,Bolivia
-M 6.5,6.5,10/2/2017,2:03:00 AM,8,7,yellow,1,718,2.822,36,15,9.9071,125.452,"Mabua, Philippines",Asia,Philippines
-M 7.9,7.9,22-01-2017,4:30:00 AM,9,7,yellow,1,987,3.625,9,135,-6.2464,155.172,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,19-01-2017,11:04:00 PM,6,6,green,1,654,1.64,21,36,-10.3506,161.335,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 7.3,7.3,10/1/2017,6:13:00 AM,6,3,green,1,849,3.813,18,627.17,4.4782,122.617,"Tabiauan, Philippines",Asia,Philippines
-M 6.9,6.9,3/1/2017,9:52:00 AM,6,4,green,1,742,2.495,13,12,-19.3733,176.052,"Nadi, Fiji",Oceania,Fiji
-M 7.6,7.6,25-12-2016,2:22:00 PM,9,8,yellow,1,1152,0.355,29,38,-43.4064,-73.9413,"Quellón, Chile",South America,Chile
-M 6.7,6.7,21-12-2016,12:17:00 AM,5,5,green,0,726,3.38,17,152,-7.5082,127.921,"Lospalos, Timor Leste",Oceania,Indonesia
-M 7.9,7.9,17-12-2016,10:51:00 AM,9,7,yellow,1,972,1.389,13,94.54,-4.5049,153.522,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.9,6.9,9/12/2016,7:10:00 AM,8,6,green,1,737,1.747,26,19.73,-10.749,161.132,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,8/12/2016,9:56:00 AM,0,5,green,0,650,1.937,18,12.26,-10.8416,161.314,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 7.8,7.8,8/12/2016,5:38:00 AM,9,8,green,1,961,1.836,13,40,-10.6812,161.327,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,8/12/2016,2:49:00 AM,5,4,green,1,1120,1.405,55,8.45,40.4535,-126.194,"Ferndale, California",North America,United States of America
-M 6.5,6.5,6/12/2016,10:03:00 AM,9,8,yellow,0,731,0.778,27,13,5.2834,96.1678,"Reuleuet, Indonesia",Asia,Indonesia
-M 6.6,6.6,25-11-2016,2:24:00 PM,8,7,green,0,693,1.697,20,17,39.2732,73.9776,"Murghob, Tajikistan",Asia,People's Republic of China
-M 6.9,6.9,24-11-2016,6:43:00 PM,5,4,green,1,855,1.796,20,10,11.9097,-88.8968,"Puerto El Triunfo, El Salvador",Central America,El Salvador
-M 6.9,6.9,21-11-2016,8:59:00 PM,9,6,green,1,1144,0.671,10,9,37.3931,141.387,"Namie, Japan",Asia,Japan
-M 6.5,6.5,14-11-2016,12:34:00 AM,7,7,yellow,1,664,0.283,56,9,-42.6058,173.254,"Amberley, New Zealand",Oceania,New Zealand
-M 6.5,6.5,13-11-2016,11:32:00 AM,6,7,yellow,1,656,0.135,58,10,-42.3205,173.669,"Blenheim, New Zealand",Oceania,New Zealand
-M 7.8,7.8,13-11-2016,11:02:00 AM,9,9,orange,1,1545,0.481,21,15.11,-42.7373,173.054,"Amberley, New Zealand",Oceania,New Zealand
-M 6.6,6.6,30-10-2016,6:40:00 AM,9,8,red,0,2840,0.174,25,8,42.8621,13.0961,"Preci, Italy",Europe,Italy
-M 6.6,6.6,19-10-2016,12:26:00 AM,3,3,green,0,677,2.022,16,614,-4.8626,108.163,"Pamanukan, Indonesia",Asia,Indonesia
-M 6.8,6.8,17-10-2016,6:14:00 AM,3,6,green,1,716,3.727,11,42,-6.0033,148.887,"Kandrian, Papua New Guinea",Oceania,Papua New Guinea
-M 6.9,6.9,24-09-2016,9:28:00 PM,2,3,green,1,733,4.051,9,596.4,-19.7819,-178.244,Fiji region,Oceania,Fiji
-M 7.0,7,1/9/2016,4:37:00 AM,5,6,green,1,897,0.698,21,19,-37.3586,179.146,"Gisborne, New Zealand",Oceania,New Zealand
-M 6.8,6.8,31-08-2016,3:11:00 AM,4,3,green,1,713,0.803,12,476,-3.6849,152.792,"Rabaul, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,24-08-2016,10:34:00 AM,6,6,yellow,0,981,1.802,17,82,20.9228,94.569,"Chauk, Myanmar",Asia,Myanmar
+M 6.8,6.8,9/5/2017,1:52:00 AM,6,5,green,1,713,7.495,19,169,-14.5884,167.377,Port-Olry- Vanuatu,Oceania,Vanuatu
+M 6.9,6.9,28/04/2017,8:23:00 PM,9,6,green,1,814,1.636,14,26,5.5043,125.066,Burias- Philippines,Asia,Philippines
+M 6.9,6.9,24/04/2017,9:38:00 PM,9,7,yellow,1,1642,0.356,39,28,-33.0375,-72.0617,Valparaíso- Chile,South America,Chile
+M 6.5,6.5,3/4/2017,5:40:00 AM,7,8,green,0,1297,2.36,15,29,-22.6784,25.1558,Moijabana- Botswana,Africa,Botswana
+M 6.6,6.6,29/03/2017,4:09:00 AM,6,7,yellow,1,671,4.591,14,17,56.9401,162.786,Ust?-Kamchatsk Staryy- Russia,Asia,Russia
+M 6.9,6.9,24/02/2017,5:28:00 PM,2,3,green,1,733,6.012,19,414.5,-23.2593,-178.804,the Fiji Islands,Oceania,Fiji
+M 6.5,6.5,21/02/2017,2:09:00 PM,3,3,green,0,653,4.242,14,595.98,-19.2814,-63.9047,Padilla- Bolivia,South America,Bolivia
+M 6.5,6.5,10/2/2017,2:03:00 AM,8,7,yellow,1,718,2.822,36,15,9.9071,125.452,Mabua- Philippines,Asia,Philippines
+M 7.9,7.9,22/01/2017,4:30:00 AM,9,7,yellow,1,987,3.625,9,135,-6.2464,155.172,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,19/01/2017,11:04:00 PM,6,6,green,1,654,1.64,21,36,-10.3506,161.335,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 7.3,7.3,10/1/2017,6:13:00 AM,6,3,green,1,849,3.813,18,627.17,4.4782,122.617,Tabiauan- Philippines,Asia,Philippines
+M 6.9,6.9,3/1/2017,9:52:00 AM,6,4,green,1,742,2.495,13,12,-19.3733,176.052,Nadi- Fiji,Oceania,Fiji
+M 7.6,7.6,25/12/2016,2:22:00 PM,9,8,yellow,1,1152,0.355,29,38,-43.4064,-73.9413,Quellón- Chile,South America,Chile
+M 6.7,6.7,21/12/2016,12:17:00 AM,5,5,green,0,726,3.38,17,152,-7.5082,127.921,Lospalos- Timor Leste,Oceania,Indonesia
+M 7.9,7.9,17/12/2016,10:51:00 AM,9,7,yellow,1,972,1.389,13,94.54,-4.5049,153.522,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.9,6.9,9/12/2016,7:10:00 AM,8,6,green,1,737,1.747,26,19.73,-10.749,161.132,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,8/12/2016,9:56:00 AM,0,5,green,0,650,1.937,18,12.26,-10.8416,161.314,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 7.8,7.8,8/12/2016,5:38:00 AM,9,8,green,1,961,1.836,13,40,-10.6812,161.327,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,8/12/2016,2:49:00 AM,5,4,green,1,1120,1.405,55,8.45,40.4535,-126.194,Ferndale- California,North America,United States of America
+M 6.5,6.5,6/12/2016,10:03:00 AM,9,8,yellow,0,731,0.778,27,13,5.2834,96.1678,Reuleuet- Indonesia,Asia,Indonesia
+M 6.6,6.6,25/11/2016,2:24:00 PM,8,7,green,0,693,1.697,20,17,39.2732,73.9776,Murghob- Tajikistan,Asia,People's Republic of China
+M 6.9,6.9,24/11/2016,6:43:00 PM,5,4,green,1,855,1.796,20,10,11.9097,-88.8968,Puerto El Triunfo- El Salvador,Central America,El Salvador
+M 6.9,6.9,21/11/2016,8:59:00 PM,9,6,green,1,1144,0.671,10,9,37.3931,141.387,Namie- Japan,Asia,Japan
+M 6.5,6.5,14/11/2016,12:34:00 AM,7,7,yellow,1,664,0.283,56,9,-42.6058,173.254,Amberley- New Zealand,Oceania,New Zealand
+M 6.5,6.5,13/11/2016,11:32:00 AM,6,7,yellow,1,656,0.135,58,10,-42.3205,173.669,Blenheim- New Zealand,Oceania,New Zealand
+M 7.8,7.8,13/11/2016,11:02:00 AM,9,9,orange,1,1545,0.481,21,15.11,-42.7373,173.054,Amberley- New Zealand,Oceania,New Zealand
+M 6.6,6.6,30/10/2016,6:40:00 AM,9,8,red,0,2840,0.174,25,8,42.8621,13.0961,Preci- Italy,Europe,Italy
+M 6.6,6.6,19/10/2016,12:26:00 AM,3,3,green,0,677,2.022,16,614,-4.8626,108.163,Pamanukan- Indonesia,Asia,Indonesia
+M 6.8,6.8,17/10/2016,6:14:00 AM,3,6,green,1,716,3.727,11,42,-6.0033,148.887,Kandrian- Papua New Guinea,Oceania,Papua New Guinea
+M 6.9,6.9,24/09/2016,9:28:00 PM,2,3,green,1,733,4.051,9,596.4,-19.7819,-178.244,Fiji region,Oceania,Fiji
+M 7.0,7,1/9/2016,4:37:00 AM,5,6,green,1,897,0.698,21,19,-37.3586,179.146,Gisborne- New Zealand,Oceania,New Zealand
+M 6.8,6.8,31/08/2016,3:11:00 AM,4,3,green,1,713,0.803,12,476,-3.6849,152.792,Rabaul- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,24/08/2016,10:34:00 AM,6,6,yellow,0,981,1.802,17,82,20.9228,94.569,Chauk- Myanmar,Asia,Myanmar
 M 7.2,7.2,12/8/2016,1:26:00 AM,6,5,green,1,799,4.823,14,16.37,-22.4765,173.117,the Loyalty Islands,Oceania,New Caledonia
-M 7.7,7.7,29-07-2016,9:18:00 PM,5,6,green,1,971,3.294,14,196,18.5429,145.507,"Pagan region, Northern Mariana Islands",Oceania,Philippines
-M 6.6,6.6,1/6/2016,10:56:00 AM,4,6,green,0,671,2.435,16,50,-2.0967,100.665,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 7.2,7.2,28-05-2016,9:46:00 AM,1,6,green,1,798,5.803,24,78,-56.2409,-26.9353,South Sandwich Islands region,South America,South Georgia and the South Sandwich Islands
-M 6.9,6.9,18-05-2016,4:46:00 PM,8,7,green,1,780,1.192,17,29.95,0.4947,-79.616,"Rosa Zarate, Ecuador",South America,Ecuador
-M 6.7,6.7,18-05-2016,7:57:00 AM,5,7,green,1,744,1.352,21,16,0.4261,-79.7899,"Muisne, Ecuador",South America,Ecuador
-M 7.0,7,28-04-2016,7:33:00 PM,7,7,green,1,755,0.616,14,24,-16.0429,167.379,"Norsup, Vanuatu",Oceania,Vanuatu
-M 7.8,7.8,16-04-2016,11:58:00 PM,9,9,orange,1,1163,1.44,15,20.59,0.3819,-79.9218,"Muisne, Ecuador",South America,Ecuador
-M 7.0,7,15-04-2016,4:25:00 PM,9,9,red,1,2074,0.349,32,10,32.7906,130.754,"Kumamoto, Japan",Asia,Japan
-M 6.9,6.9,13-04-2016,1:55:00 PM,6,6,yellow,0,903,3.001,14,136,23.0944,94.8654,"Mawlaik, Myanmar",Asia,Myanmar
-M 6.6,6.6,10/4/2016,10:28:00 AM,6,4,green,0,738,0.789,17,212,36.4725,71.1311,"Ashk?sham, Afghanistan",Asia,Afghanistan
-M 6.7,6.7,7/4/2016,3:32:00 AM,7,5,green,1,692,6.787,25,27.59,-13.9805,166.594,"Sola, Vanuatu",Oceania,Vanuatu
-M 6.7,6.7,6/4/2016,6:58:00 AM,7,6,green,1,691,6.697,19,24,-14.0683,166.624,"Sola, Vanuatu",Oceania,Vanuatu
-M 6.9,6.9,3/4/2016,8:23:00 AM,7,6,green,1,734,1.166,25,26,-14.3235,166.855,"Port-Olry, Vanuatu",Oceania,Vanuatu
-M 7.8,7.8,2/3/2016,12:49:00 PM,4,3,green,0,948,7.009,20,24,-4.9521,94.3299,"Sumatra, Indonesia",Asia,Indonesia
-M 7.2,7.2,30-01-2016,3:25:00 AM,3,7,green,1,799,0.958,17,177,53.9776,158.546,"Mil?kovo, Russia",Asia,Russia
-M 7.1,7.1,24-01-2016,10:30:00 AM,7,7,green,1,1496,0,0,125.6,59.6204,-153.339,"Pedro Bay, Alaska",North America,United States of America
-M 6.6,6.6,21-01-2016,6:06:00 PM,3,4,green,1,673,2.413,74,10,18.8239,-106.934,"La Cruz de Loreto, Mexico",North America,Mexico
-M 6.7,6.7,14-01-2016,3:25:00 AM,5,6,green,1,717,0.281,22,46,41.9723,142.781,"Shizunai-furukawach?, Japan",Asia,Japan
-M 6.5,6.5,11/1/2016,4:38:00 AM,3,6,green,1,651,3.144,22,13,3.8965,126.862,"Sarangani, Philippines",Asia,Philippines
-M 6.7,6.7,3/1/2016,11:05:00 AM,8,7,orange,0,1515,1.794,16,55,24.8036,93.6505,"Imph?l, India",Asia,India
-M 6.6,6.6,17-12-2015,7:49:00 PM,8,6,green,1,765,0.41,35,85,15.8015,-93.633,"Manuel Ávila Camacho (Ponte Duro), Mexico",North America,Mexico
-M 6.9,6.9,9/12/2015,10:21:00 AM,8,5,green,0,738,2.979,14,21,-4.1064,129.508,"Amahai, Indonesia",Asia,Indonesia
-M 7.2,7.2,7/12/2015,7:50:00 AM,4,7,green,0,827,1.116,18,22,38.2107,72.7797,"Murghob, Tajikistan",Asia,Tajikistan
-M 6.7,6.7,26-11-2015,5:45:00 AM,2,3,green,0,691,2.033,19,602.75,-9.1825,-71.2574,"Tarauacá, Brazil",South America,Brazil
-M 7.6,7.6,24-11-2015,10:50:00 PM,5,4,green,0,896,2.852,10,620.56,-10.0598,-71.0184,"IĄapari, Peru",South America,Peru
-M 7.6,7.6,24-11-2015,10:45:00 PM,6,5,green,1,957,3.287,10,606.21,-10.5372,-70.9437,"IĄapari, Peru",South America,Peru
-M 6.8,6.8,18-11-2015,6:31:00 PM,5,6,green,1,715,1.599,19,12.59,-8.8994,158.422,"Buala, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,17-11-2015,7:10:00 AM,7,7,orange,0,1018,0,0,11,38.67,20.6,"Lefkáda, Greece",Europe,Greece
-M 6.7,6.7,13-11-2015,8:51:00 PM,5,4,green,0,702,1.444,17,12,31.0009,128.873,"Makurazaki, Japan",Asia,Japan
-M 6.9,6.9,11/11/2015,2:46:00 AM,5,6,green,0,744,0.821,43,10,-29.5097,-72.0585,"Coquimbo, Chile",South America,Chile
-M 6.9,6.9,11/11/2015,1:54:00 AM,6,6,green,1,761,0.784,32,12,-29.5067,-72.0068,"Coquimbo, Chile",South America,Chile
-M 6.6,6.6,8/11/2015,4:47:00 AM,7,4,green,0,675,2.792,31,10,6.8431,94.648,"Nicobar Islands, India region",Asia,India
-M 6.8,6.8,7/11/2015,7:31:00 AM,7,7,green,1,841,0.258,41,46,-30.8796,-71.4519,"Ovalle, Chile",South America,Chile
-M 6.5,6.5,4/11/2015,3:44:00 AM,5,7,green,0,657,1.53,21,20,-8.3381,124.875,"Maubara, Timor Leste",Oceania,Indonesia
-M 7.5,7.5,26-10-2015,9:09:00 AM,8,7,orange,0,1448,0.622,18,231,36.5244,70.3676,"Hindu Kush region, Afghanistan",Asia,Afghanistan
-M 7.1,7.1,20-10-2015,9:52:00 PM,6,6,green,1,780,0.592,11,135,-14.8595,167.303,"Port-Olry, Vanuatu",Oceania,Vanuatu
-M 6.6,6.6,24-09-2015,3:53:00 PM,7,7,green,0,671,2.486,13,18,-0.6212,131.262,"Sorong, Indonesia",Asia,Indonesia
-M 6.6,6.6,21-09-2015,5:40:00 PM,5,7,green,1,820,1.064,14,35,-31.7275,-71.3792,"Illapel, Chile",South America,Chile
-M 6.7,6.7,17-09-2015,4:10:00 AM,5,7,green,0,718,0.853,35,23,-31.5173,-71.804,"Illapel, Chile",South America,Chile
-M 6.5,6.5,17-09-2015,3:55:00 AM,6,7,green,0,657,0.749,62,27,-31.4244,-71.6876,"Illapel, Chile",South America,Chile
-M 7.0,7,16-09-2015,11:18:00 PM,8,7,green,0,799,0.903,13,28.41,-31.5622,-71.4262,"Illapel, Chile",South America,Chile
-M 8.3,8.3,16-09-2015,10:54:00 PM,9,8,orange,1,1960,0.684,19,22.44,-31.5729,-71.6744,"Illapel, Chile",South America,Chile
-M 6.7,6.7,13-09-2015,8:14:00 AM,5,5,green,1,708,1.256,123,10,24.913,-109.623,"Topolobampo, Mexico",North America,Mexico
-M 6.5,6.5,12/8/2015,6:49:00 AM,0,5,green,1,650,2.045,16,6.43,-9.3293,157.877,"Gizo, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,10/8/2015,4:12:00 AM,3,5,green,1,671,1.872,20,22,-9.3438,158.053,"Malango, Solomon Islands",Oceania,Solomon Islands
-M 7.0,7,27-07-2015,9:41:00 PM,9,7,green,1,762,6.278,12,48,-2.6286,138.528,"Abepura, Indonesia",Asia,Indonesia
-M 6.9,6.9,27-07-2015,4:49:00 AM,4,7,green,1,734,0.444,39,29,52.376,-169.446,"Fox Islands, Aleutian Islands, Alaska",North America,United States of America
-M 7.0,7,18-07-2015,2:27:00 AM,8,6,green,1,759,5.205,22,11,-10.4012,165.141,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,16-07-2015,3:16:00 PM,4,4,green,1,686,1.218,20,20,13.8672,-58.5479,"Bathsheba, Barbados",Central America,Barbados
-M 6.7,6.7,10/7/2015,4:12:00 AM,4,5,green,1,691,1.529,11,12,-9.307,158.403,"Malango, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,23-06-2015,12:18:00 PM,3,4,green,0,652,2.277,11,460,27.7375,139.725,"Bonin Islands, Japan region",Asia,Japan
-M 7.8,7.8,30-05-2015,11:23:00 AM,6,3,green,1,1151,1.675,12,664,27.8386,140.493,"Bonin Islands, Japan region",Asia,Japan
-M 6.8,6.8,29-05-2015,7:00:00 AM,5,6,green,1,762,0,0,72.6,56.594,-156.43,"Ugashik, Alaska",North America,United States of America
-M 6.8,6.8,22-05-2015,11:59:00 PM,1,5,green,1,711,3.619,18,10,-11.1093,163.215,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.9,6.9,22-05-2015,9:45:00 PM,1,4,green,1,732,4.024,22,11.19,-11.0559,163.696,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.8,6.8,20-05-2015,10:48:00 PM,1,4,green,1,711,4.395,15,11,-10.8759,164.169,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.8,6.8,12/5/2015,9:12:00 AM,8,6,green,1,831,1.422,8,35,38.9056,142.032,"?funato, Japan",Asia,Japan
+M 7.7,7.7,29/07/2016,9:18:00 PM,5,6,green,1,971,3.294,14,196,18.5429,145.507,Pagan region- Northern Mariana Islands,Oceania,Philippines
+M 6.6,6.6,1/6/2016,10:56:00 AM,4,6,green,0,671,2.435,16,50,-2.0967,100.665,Sungai Penuh- Indonesia,Asia,Indonesia
+M 7.2,7.2,28/05/2016,9:46:00 AM,1,6,green,1,798,5.803,24,78,-56.2409,-26.9353,South Sandwich Islands region,South America,South Georgia and the South Sandwich Islands
+M 6.9,6.9,18/05/2016,4:46:00 PM,8,7,green,1,780,1.192,17,29.95,0.4947,-79.616,Rosa Zarate- Ecuador,South America,Ecuador
+M 6.7,6.7,18/05/2016,7:57:00 AM,5,7,green,1,744,1.352,21,16,0.4261,-79.7899,Muisne- Ecuador,South America,Ecuador
+M 7.0,7,28/04/2016,7:33:00 PM,7,7,green,1,755,0.616,14,24,-16.0429,167.379,Norsup- Vanuatu,Oceania,Vanuatu
+M 7.8,7.8,16/04/2016,11:58:00 PM,9,9,orange,1,1163,1.44,15,20.59,0.3819,-79.9218,Muisne- Ecuador,South America,Ecuador
+M 7.0,7,15/04/2016,4:25:00 PM,9,9,red,1,2074,0.349,32,10,32.7906,130.754,Kumamoto- Japan,Asia,Japan
+M 6.9,6.9,13/04/2016,1:55:00 PM,6,6,yellow,0,903,3.001,14,136,23.0944,94.8654,Mawlaik- Myanmar,Asia,Myanmar
+M 6.6,6.6,10/4/2016,10:28:00 AM,6,4,green,0,738,0.789,17,212,36.4725,71.1311,Ashk?sham- Afghanistan,Asia,Afghanistan
+M 6.7,6.7,7/4/2016,3:32:00 AM,7,5,green,1,692,6.787,25,27.59,-13.9805,166.594,Sola- Vanuatu,Oceania,Vanuatu
+M 6.7,6.7,6/4/2016,6:58:00 AM,7,6,green,1,691,6.697,19,24,-14.0683,166.624,Sola- Vanuatu,Oceania,Vanuatu
+M 6.9,6.9,3/4/2016,8:23:00 AM,7,6,green,1,734,1.166,25,26,-14.3235,166.855,Port-Olry- Vanuatu,Oceania,Vanuatu
+M 7.8,7.8,2/3/2016,12:49:00 PM,4,3,green,0,948,7.009,20,24,-4.9521,94.3299,Sumatra- Indonesia,Asia,Indonesia
+M 7.2,7.2,30/01/2016,3:25:00 AM,3,7,green,1,799,0.958,17,177,53.9776,158.546,Mil?kovo- Russia,Asia,Russia
+M 7.1,7.1,24/01/2016,10:30:00 AM,7,7,green,1,1496,0,0,125.6,59.6204,-153.339,Pedro Bay- Alaska,North America,United States of America
+M 6.6,6.6,21/01/2016,6:06:00 PM,3,4,green,1,673,2.413,74,10,18.8239,-106.934,La Cruz de Loreto- Mexico,North America,Mexico
+M 6.7,6.7,14/01/2016,3:25:00 AM,5,6,green,1,717,0.281,22,46,41.9723,142.781,Shizunai-furukawach?- Japan,Asia,Japan
+M 6.5,6.5,11/1/2016,4:38:00 AM,3,6,green,1,651,3.144,22,13,3.8965,126.862,Sarangani- Philippines,Asia,Philippines
+M 6.7,6.7,3/1/2016,11:05:00 AM,8,7,orange,0,1515,1.794,16,55,24.8036,93.6505,Imph?l- India,Asia,India
+M 6.6,6.6,17/12/2015,7:49:00 PM,8,6,green,1,765,0.41,35,85,15.8015,-93.633,Manuel Ávila Camacho (Ponte Duro)- Mexico,North America,Mexico
+M 6.9,6.9,9/12/2015,10:21:00 AM,8,5,green,0,738,2.979,14,21,-4.1064,129.508,Amahai- Indonesia,Asia,Indonesia
+M 7.2,7.2,7/12/2015,7:50:00 AM,4,7,green,0,827,1.116,18,22,38.2107,72.7797,Murghob- Tajikistan,Asia,Tajikistan
+M 6.7,6.7,26/11/2015,5:45:00 AM,2,3,green,0,691,2.033,19,602.75,-9.1825,-71.2574,Tarauacá- Brazil,South America,Brazil
+M 7.6,7.6,24/11/2015,10:50:00 PM,5,4,green,0,896,2.852,10,620.56,-10.0598,-71.0184,IĄapari- Peru,South America,Peru
+M 7.6,7.6,24/11/2015,10:45:00 PM,6,5,green,1,957,3.287,10,606.21,-10.5372,-70.9437,IĄapari- Peru,South America,Peru
+M 6.8,6.8,18/11/2015,6:31:00 PM,5,6,green,1,715,1.599,19,12.59,-8.8994,158.422,Buala- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,17/11/2015,7:10:00 AM,7,7,orange,0,1018,0,0,11,38.67,20.6,Lefkáda- Greece,Europe,Greece
+M 6.7,6.7,13/11/2015,8:51:00 PM,5,4,green,0,702,1.444,17,12,31.0009,128.873,Makurazaki- Japan,Asia,Japan
+M 6.9,6.9,11/11/2015,2:46:00 AM,5,6,green,0,744,0.821,43,10,-29.5097,-72.0585,Coquimbo- Chile,South America,Chile
+M 6.9,6.9,11/11/2015,1:54:00 AM,6,6,green,1,761,0.784,32,12,-29.5067,-72.0068,Coquimbo- Chile,South America,Chile
+M 6.6,6.6,8/11/2015,4:47:00 AM,7,4,green,0,675,2.792,31,10,6.8431,94.648,Nicobar Islands- India region,Asia,India
+M 6.8,6.8,7/11/2015,7:31:00 AM,7,7,green,1,841,0.258,41,46,-30.8796,-71.4519,Ovalle- Chile,South America,Chile
+M 6.5,6.5,4/11/2015,3:44:00 AM,5,7,green,0,657,1.53,21,20,-8.3381,124.875,Maubara- Timor Leste,Oceania,Indonesia
+M 7.5,7.5,26/10/2015,9:09:00 AM,8,7,orange,0,1448,0.622,18,231,36.5244,70.3676,Hindu Kush region- Afghanistan,Asia,Afghanistan
+M 7.1,7.1,20/10/2015,9:52:00 PM,6,6,green,1,780,0.592,11,135,-14.8595,167.303,Port-Olry- Vanuatu,Oceania,Vanuatu
+M 6.6,6.6,24/09/2015,3:53:00 PM,7,7,green,0,671,2.486,13,18,-0.6212,131.262,Sorong- Indonesia,Asia,Indonesia
+M 6.6,6.6,21/09/2015,5:40:00 PM,5,7,green,1,820,1.064,14,35,-31.7275,-71.3792,Illapel- Chile,South America,Chile
+M 6.7,6.7,17/09/2015,4:10:00 AM,5,7,green,0,718,0.853,35,23,-31.5173,-71.804,Illapel- Chile,South America,Chile
+M 6.5,6.5,17/09/2015,3:55:00 AM,6,7,green,0,657,0.749,62,27,-31.4244,-71.6876,Illapel- Chile,South America,Chile
+M 7.0,7,16/09/2015,11:18:00 PM,8,7,green,0,799,0.903,13,28.41,-31.5622,-71.4262,Illapel- Chile,South America,Chile
+M 8.3,8.3,16/09/2015,10:54:00 PM,9,8,orange,1,1960,0.684,19,22.44,-31.5729,-71.6744,Illapel- Chile,South America,Chile
+M 6.7,6.7,13/09/2015,8:14:00 AM,5,5,green,1,708,1.256,123,10,24.913,-109.623,Topolobampo- Mexico,North America,Mexico
+M 6.5,6.5,12/8/2015,6:49:00 AM,0,5,green,1,650,2.045,16,6.43,-9.3293,157.877,Gizo- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,10/8/2015,4:12:00 AM,3,5,green,1,671,1.872,20,22,-9.3438,158.053,Malango- Solomon Islands,Oceania,Solomon Islands
+M 7.0,7,27/07/2015,9:41:00 PM,9,7,green,1,762,6.278,12,48,-2.6286,138.528,Abepura- Indonesia,Asia,Indonesia
+M 6.9,6.9,27/07/2015,4:49:00 AM,4,7,green,1,734,0.444,39,29,52.376,-169.446,Fox Islands- Aleutian Islands- Alaska,North America,United States of America
+M 7.0,7,18/07/2015,2:27:00 AM,8,6,green,1,759,5.205,22,11,-10.4012,165.141,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,16/07/2015,3:16:00 PM,4,4,green,1,686,1.218,20,20,13.8672,-58.5479,Bathsheba- Barbados,Central America,Barbados
+M 6.7,6.7,10/7/2015,4:12:00 AM,4,5,green,1,691,1.529,11,12,-9.307,158.403,Malango- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,23/06/2015,12:18:00 PM,3,4,green,0,652,2.277,11,460,27.7375,139.725,Bonin Islands- Japan region,Asia,Japan
+M 7.8,7.8,30/05/2015,11:23:00 AM,6,3,green,1,1151,1.675,12,664,27.8386,140.493,Bonin Islands- Japan region,Asia,Japan
+M 6.8,6.8,29/05/2015,7:00:00 AM,5,6,green,1,762,0,0,72.6,56.594,-156.43,Ugashik- Alaska,North America,United States of America
+M 6.8,6.8,22/05/2015,11:59:00 PM,1,5,green,1,711,3.619,18,10,-11.1093,163.215,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.9,6.9,22/05/2015,9:45:00 PM,1,4,green,1,732,4.024,22,11.19,-11.0559,163.696,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.8,6.8,20/05/2015,10:48:00 PM,1,4,green,1,711,4.395,15,11,-10.8759,164.169,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.8,6.8,12/5/2015,9:12:00 AM,8,6,green,1,831,1.422,8,35,38.9056,142.032,?funato- Japan,Asia,Japan
 M 7.3,7.3,12/5/2015,7:05:00 AM,8,7,orange,0,1563,0.677,11,15,27.8087,86.0655,Nepal,Asia,Nepal
-M 7.1,7.1,7/5/2015,7:10:00 AM,1,6,green,1,776,3.835,11,10,-7.2175,154.557,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 7.5,7.5,5/5/2015,1:44:00 AM,7,8,green,1,869,1.295,22,55,-5.4624,151.875,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,1/5/2015,8:06:00 AM,5,6,green,1,714,1.074,23,44,-5.2005,151.777,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,30-04-2015,10:45:00 AM,5,6,green,1,692,1.239,12,31,-5.375,151.771,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,26-04-2015,7:09:00 AM,7,7,yellow,0,1016,0.727,13,22.91,27.7711,86.0173,"Kod?ri??, Nepal",Asia,Nepal
-M 6.6,6.6,25-04-2015,6:45:00 AM,8,7,yellow,0,733,1.778,16,10,28.2244,84.8216,"Bharatpur, Nepal",Asia,Nepal
-M 7.8,7.8,25-04-2015,6:11:00 AM,8,9,red,0,2820,1.857,12,8.22,28.2305,84.7314,"Bharatpur, Nepal",Asia,Nepal
-M 6.5,6.5,17-04-2015,3:52:00 PM,0,5,green,1,650,3.702,42,10,-15.8815,-178.6,"Alo, Wallis and Futuna",Oceania,Wallis and Futuna
-M 6.5,6.5,30-03-2015,8:48:00 AM,2,5,green,1,650,4.629,36,11,-15.4994,-173.029,"Hihifo, Tonga",Oceania,Tonga
-M 7.5,7.5,29-03-2015,11:48:00 PM,6,7,green,1,872,0.666,19,41,-4.7294,152.562,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 7.0,7,27-02-2015,1:45:00 PM,4,6,green,0,760,1.362,12,552.06,-7.2968,122.535,"Maumere, Indonesia",Asia,Indonesia
-M 6.7,6.7,16-02-2015,11:06:00 PM,5,5,green,1,714,1.925,20,23,39.8558,142.881,"Miyako, Japan",Asia,Japan
-M 6.7,6.7,11/2/2015,6:57:00 AM,4,6,green,1,700,2.11,16,223,-23.1125,-66.688,"El Aguilar, Argentina",South America,Argentina
-M 6.8,6.8,23-01-2015,3:47:00 AM,1,4,green,1,711,2.019,13,219.96,-17.0309,168.52,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 6.5,6.5,7/1/2015,5:07:00 AM,1,4,green,1,650,4.318,61,8,5.9045,-82.6576,"Punta de Burica, Panama",Central America,Panama
-M 6.6,6.6,8/12/2014,8:54:00 AM,7,6,green,1,709,2.485,43,20,7.9401,-82.6865,"Punta de Burica, Panama",Central America,Panama
-M 6.6,6.6,7/12/2014,1:22:00 AM,1,5,green,1,670,3.246,12,23,-6.5108,154.46,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,2/12/2014,5:11:00 AM,1,3,green,0,670,2.6,9,614,6.1572,123.126,"Sangay, Philippines",Asia,Philippines
-M 6.8,6.8,26-11-2014,2:33:00 PM,6,5,green,1,713,1.421,19,39,1.9604,126.575,"Ternate, Indonesia",Asia,Indonesia
-M 6.5,6.5,21-11-2014,10:10:00 AM,5,5,green,1,652,1.549,9,35,2.2999,127.056,"Tobelo, Indonesia",Asia,Indonesia
-M 6.7,6.7,16-11-2014,10:33:00 PM,7,4,green,1,698,1.079,25,22,-37.6478,179.662,"Gisborne, New Zealand",Oceania,New Zealand
-M 7.1,7.1,15-11-2014,2:31:00 AM,4,6,green,1,779,1.397,18,45,1.8929,126.522,"Ternate, Indonesia",Asia,Indonesia
-M 6.6,6.6,7/11/2014,3:33:00 AM,2,6,green,1,671,3.557,13,53.19,-5.9873,148.232,"Finschhafen, Papua New Guinea",Oceania,Papua New Guinea
+M 7.1,7.1,7/5/2015,7:10:00 AM,1,6,green,1,776,3.835,11,10,-7.2175,154.557,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 7.5,7.5,5/5/2015,1:44:00 AM,7,8,green,1,869,1.295,22,55,-5.4624,151.875,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,1/5/2015,8:06:00 AM,5,6,green,1,714,1.074,23,44,-5.2005,151.777,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,30/04/2015,10:45:00 AM,5,6,green,1,692,1.239,12,31,-5.375,151.771,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,26/04/2015,7:09:00 AM,7,7,yellow,0,1016,0.727,13,22.91,27.7711,86.0173,Kod?ri??- Nepal,Asia,Nepal
+M 6.6,6.6,25/04/2015,6:45:00 AM,8,7,yellow,0,733,1.778,16,10,28.2244,84.8216,Bharatpur- Nepal,Asia,Nepal
+M 7.8,7.8,25/04/2015,6:11:00 AM,8,9,red,0,2820,1.857,12,8.22,28.2305,84.7314,Bharatpur- Nepal,Asia,Nepal
+M 6.5,6.5,17/04/2015,3:52:00 PM,0,5,green,1,650,3.702,42,10,-15.8815,-178.6,Alo- Wallis and Futuna,Oceania,Wallis and Futuna
+M 6.5,6.5,30/03/2015,8:48:00 AM,2,5,green,1,650,4.629,36,11,-15.4994,-173.029,Hihifo- Tonga,Oceania,Tonga
+M 7.5,7.5,29/03/2015,11:48:00 PM,6,7,green,1,872,0.666,19,41,-4.7294,152.562,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 7.0,7,27/02/2015,1:45:00 PM,4,6,green,0,760,1.362,12,552.06,-7.2968,122.535,Maumere- Indonesia,Asia,Indonesia
+M 6.7,6.7,16/02/2015,11:06:00 PM,5,5,green,1,714,1.925,20,23,39.8558,142.881,Miyako- Japan,Asia,Japan
+M 6.7,6.7,11/2/2015,6:57:00 AM,4,6,green,1,700,2.11,16,223,-23.1125,-66.688,El Aguilar- Argentina,South America,Argentina
+M 6.8,6.8,23/01/2015,3:47:00 AM,1,4,green,1,711,2.019,13,219.96,-17.0309,168.52,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 6.5,6.5,7/1/2015,5:07:00 AM,1,4,green,1,650,4.318,61,8,5.9045,-82.6576,Punta de Burica- Panama,Central America,Panama
+M 6.6,6.6,8/12/2014,8:54:00 AM,7,6,green,1,709,2.485,43,20,7.9401,-82.6865,Punta de Burica- Panama,Central America,Panama
+M 6.6,6.6,7/12/2014,1:22:00 AM,1,5,green,1,670,3.246,12,23,-6.5108,154.46,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,2/12/2014,5:11:00 AM,1,3,green,0,670,2.6,9,614,6.1572,123.126,Sangay- Philippines,Asia,Philippines
+M 6.8,6.8,26/11/2014,2:33:00 PM,6,5,green,1,713,1.421,19,39,1.9604,126.575,Ternate- Indonesia,Asia,Indonesia
+M 6.5,6.5,21/11/2014,10:10:00 AM,5,5,green,1,652,1.549,9,35,2.2999,127.056,Tobelo- Indonesia,Asia,Indonesia
+M 6.7,6.7,16/11/2014,10:33:00 PM,7,4,green,1,698,1.079,25,22,-37.6478,179.662,Gisborne- New Zealand,Oceania,New Zealand
+M 7.1,7.1,15/11/2014,2:31:00 AM,4,6,green,1,779,1.397,18,45,1.8929,126.522,Ternate- Indonesia,Asia,Indonesia
+M 6.6,6.6,7/11/2014,3:33:00 AM,2,6,green,1,671,3.557,13,53.19,-5.9873,148.232,Finschhafen- Papua New Guinea,Oceania,Papua New Guinea
 M 7.1,7.1,1/11/2014,6:57:00 AM,3,6,green,1,776,4.415,13,434,-19.6903,-177.759,Fiji region,Oceania,Fiji
-M 7.3,7.3,14-10-2014,3:51:00 AM,8,6,yellow,1,982,1.078,18,40,12.5262,-88.1225,"Intipucá, El Salvador",Central America,El Salvador
-M 6.7,6.7,17-09-2014,6:14:00 AM,5,5,green,1,724,0.46,11,130,13.7641,144.429,"Piti Village, Guam",Oceania,United States of America
-M 6.8,6.8,24-08-2014,11:21:00 PM,6,6,green,1,741,4.107,18,101,-14.598,-73.5714,"Aniso, Peru",South America,Peru
+M 7.3,7.3,14/10/2014,3:51:00 AM,8,6,yellow,1,982,1.078,18,40,12.5262,-88.1225,Intipucá- El Salvador,Central America,El Salvador
+M 6.7,6.7,17/09/2014,6:14:00 AM,5,5,green,1,724,0.46,11,130,13.7641,144.429,Piti Village- Guam,Oceania,United States of America
+M 6.8,6.8,24/08/2014,11:21:00 PM,6,6,green,1,741,4.107,18,101,-14.598,-73.5714,Aniso- Peru,South America,Peru
 M 6.9,6.9,3/8/2014,12:22:00 PM,0,4,green,1,732,6.393,12,13,0.8295,146.169,Micronesia region,Oceania,Micronesia
-M 6.9,6.9,21-07-2014,2:54:00 PM,0,6,green,1,732,3.934,15,615.42,-19.8015,-178.4,Fiji region,Oceania,Fiji
-M 6.5,6.5,11/7/2014,7:22:00 AM,5,4,green,1,706,2.421,9,20,37.0052,142.452,"Namie, Japan",Asia,Japan
-M 6.9,6.9,7/7/2014,11:23:00 AM,8,7,orange,1,1079,0.263,51,53,14.724,-92.4614,"Puerto Madero, Mexico",North America,Mexico
-M 6.5,6.5,4/7/2014,3:00:00 AM,0,4,green,1,650,2.124,15,20,-6.2304,152.807,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,29-06-2014,5:15:00 PM,0,5,green,1,691,6.713,45,18,-14.9831,-175.51,"Mata-Utu, Wallis and Futuna",Oceania,Wallis and Futuna
-M 6.9,6.9,29-06-2014,7:52:00 AM,0,5,green,1,732,4.838,25,8,-55.4703,-28.3669,South Sandwich Islands region,South America,South Georgia and the South Sandwich Islands
-M 7.9,7.9,23-06-2014,8:53:00 PM,6,8,green,1,963,0.133,22,109,51.8486,178.735,"Rat Islands, Aleutian Islands, Alaska",North America,United States of America
-M 6.7,6.7,23-06-2014,8:06:00 PM,0,5,green,0,691,0.748,43,26.59,-29.9414,-177.607,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 6.5,6.5,23-06-2014,7:21:00 PM,0,5,green,0,650,0.778,30,10,-29.9379,-177.516,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 6.9,6.9,23-06-2014,7:19:00 PM,0,5,green,1,732,0.751,35,20,-29.9772,-177.725,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 6.9,6.9,24-05-2014,9:25:00 AM,9,7,green,0,951,0.402,25,6.43,40.2893,25.3889,"Kamariótissa, Greece",Europe,Greece
-M 6.5,6.5,13-05-2014,6:35:00 AM,7,5,green,1,694,3.121,33,10,7.2096,-82.3045,"Punta de Burica, Panama",Central America,Panama
-M 6.6,6.6,1/5/2014,6:36:00 AM,0,5,green,1,670,3.34,10,106,-21.4542,170.355,"Isangel, Vanuatu",Oceania,Vanuatu
-M 6.5,6.5,24-04-2014,3:10:00 AM,4,6,green,1,838,0,0,10,49.6388,-127.732,"Vernon, Canada",North America,Canada
-M 7.5,7.5,19-04-2014,1:28:00 PM,0,6,green,1,865,3.82,16,43.37,-6.7547,155.024,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,19-04-2014,1:04:00 AM,0,6,green,1,670,3.803,11,29,-6.6558,155.087,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 7.2,7.2,18-04-2014,2:27:00 PM,8,7,yellow,1,1017,2.25,46,24,17.397,-100.972,"Coyuquilla Norte, Mexico",North America,Mexico
-M 6.6,6.6,13-04-2014,1:24:00 PM,0,6,green,0,670,2.666,22,10,-11.1284,162.052,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 7.4,7.4,13-04-2014,12:36:00 PM,0,6,green,1,842,2.885,17,39,-11.4633,162.051,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 7.6,7.6,12/4/2014,8:14:00 AM,0,7,green,1,889,2.828,13,22.56,-11.2701,162.148,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,11/4/2014,8:29:00 AM,6,5,green,1,677,0.761,20,135,11.642,-85.8779,"Belén, Nicaragua",Central America,Nicaragua
-M 6.5,6.5,11/4/2014,8:16:00 AM,0,6,green,1,650,3.787,16,20,-6.7878,154.95,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 7.1,7.1,11/4/2014,7:07:00 AM,0,7,green,1,776,3.729,21,60.53,-6.5858,155.048,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 7.7,7.7,3/4/2014,2:43:00 AM,8,9,yellow,1,1057,1.029,44,22.4,-20.5709,-70.4931,"Iquique, Chile",South America,Chile
-M 6.5,6.5,3/4/2014,1:58:00 AM,7,7,green,0,670,0.828,82,24.07,-20.3113,-70.5756,"Iquique, Chile",South America,Chile
-M 6.9,6.9,1/4/2014,11:57:00 AM,0,5,green,0,732,0.828,119,28.42,-19.8927,-70.9455,"Iquique, Chile",South America,Chile
-M 8.2,8.2,1/4/2014,11:46:00 AM,9,8,yellow,1,1332,0.609,23,25,-19.6097,-70.7691,"Iquique, Chile",South America,Chile
-M 6.7,6.7,16-03-2014,9:16:00 PM,7,7,green,1,718,1.008,44,20,-19.9807,-70.7022,"Iquique, Chile",South America,Chile
-M 6.8,6.8,10/3/2014,5:18:00 AM,5,5,green,1,1211,0.6568,229,16.441,40.8287,-125.134,"Indianola, California",North America,United States of America
-M 6.5,6.5,2/3/2014,8:11:00 AM,4,5,green,1,668,1.001,17,119,27.4312,127.367,"Nago, Japan",Asia,Japan
-M 6.5,6.5,18-02-2014,9:27:00 AM,5,4,green,1,681,1.635,30,14.83,14.6682,-58.9272,"Greenland, Barbados",Central America,Barbados
-M 6.9,6.9,12/2/2014,9:19:00 AM,3,8,yellow,0,733,7.496,18,10,35.9053,82.5864,"Hotan, China",Asia,People's Republic of China
-M 6.5,6.5,7/2/2014,8:40:00 AM,0,5,green,1,650,0.409,20,122,-15.0691,167.372,"Port-Olry, Vanuatu",Oceania,Vanuatu
+M 6.9,6.9,21/07/2014,2:54:00 PM,0,6,green,1,732,3.934,15,615.42,-19.8015,-178.4,Fiji region,Oceania,Fiji
+M 6.5,6.5,11/7/2014,7:22:00 AM,5,4,green,1,706,2.421,9,20,37.0052,142.452,Namie- Japan,Asia,Japan
+M 6.9,6.9,7/7/2014,11:23:00 AM,8,7,orange,1,1079,0.263,51,53,14.724,-92.4614,Puerto Madero- Mexico,North America,Mexico
+M 6.5,6.5,4/7/2014,3:00:00 AM,0,4,green,1,650,2.124,15,20,-6.2304,152.807,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,29/06/2014,5:15:00 PM,0,5,green,1,691,6.713,45,18,-14.9831,-175.51,Mata-Utu- Wallis and Futuna,Oceania,Wallis and Futuna
+M 6.9,6.9,29/06/2014,7:52:00 AM,0,5,green,1,732,4.838,25,8,-55.4703,-28.3669,South Sandwich Islands region,South America,South Georgia and the South Sandwich Islands
+M 7.9,7.9,23/06/2014,8:53:00 PM,6,8,green,1,963,0.133,22,109,51.8486,178.735,Rat Islands- Aleutian Islands- Alaska,North America,United States of America
+M 6.7,6.7,23/06/2014,8:06:00 PM,0,5,green,0,691,0.748,43,26.59,-29.9414,-177.607,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 6.5,6.5,23/06/2014,7:21:00 PM,0,5,green,0,650,0.778,30,10,-29.9379,-177.516,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 6.9,6.9,23/06/2014,7:19:00 PM,0,5,green,1,732,0.751,35,20,-29.9772,-177.725,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 6.9,6.9,24/05/2014,9:25:00 AM,9,7,green,0,951,0.402,25,6.43,40.2893,25.3889,Kamariótissa- Greece,Europe,Greece
+M 6.5,6.5,13/05/2014,6:35:00 AM,7,5,green,1,694,3.121,33,10,7.2096,-82.3045,Punta de Burica- Panama,Central America,Panama
+M 6.6,6.6,1/5/2014,6:36:00 AM,0,5,green,1,670,3.34,10,106,-21.4542,170.355,Isangel- Vanuatu,Oceania,Vanuatu
+M 6.5,6.5,24/04/2014,3:10:00 AM,4,6,green,1,838,0,0,10,49.6388,-127.732,Vernon- Canada,North America,Canada
+M 7.5,7.5,19/04/2014,1:28:00 PM,0,6,green,1,865,3.82,16,43.37,-6.7547,155.024,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,19/04/2014,1:04:00 AM,0,6,green,1,670,3.803,11,29,-6.6558,155.087,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 7.2,7.2,18/04/2014,2:27:00 PM,8,7,yellow,1,1017,2.25,46,24,17.397,-100.972,Coyuquilla Norte- Mexico,North America,Mexico
+M 6.6,6.6,13/04/2014,1:24:00 PM,0,6,green,0,670,2.666,22,10,-11.1284,162.052,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 7.4,7.4,13/04/2014,12:36:00 PM,0,6,green,1,842,2.885,17,39,-11.4633,162.051,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 7.6,7.6,12/4/2014,8:14:00 AM,0,7,green,1,889,2.828,13,22.56,-11.2701,162.148,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,11/4/2014,8:29:00 AM,6,5,green,1,677,0.761,20,135,11.642,-85.8779,Belén- Nicaragua,Central America,Nicaragua
+M 6.5,6.5,11/4/2014,8:16:00 AM,0,6,green,1,650,3.787,16,20,-6.7878,154.95,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 7.1,7.1,11/4/2014,7:07:00 AM,0,7,green,1,776,3.729,21,60.53,-6.5858,155.048,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 7.7,7.7,3/4/2014,2:43:00 AM,8,9,yellow,1,1057,1.029,44,22.4,-20.5709,-70.4931,Iquique- Chile,South America,Chile
+M 6.5,6.5,3/4/2014,1:58:00 AM,7,7,green,0,670,0.828,82,24.07,-20.3113,-70.5756,Iquique- Chile,South America,Chile
+M 6.9,6.9,1/4/2014,11:57:00 AM,0,5,green,0,732,0.828,119,28.42,-19.8927,-70.9455,Iquique- Chile,South America,Chile
+M 8.2,8.2,1/4/2014,11:46:00 AM,9,8,yellow,1,1332,0.609,23,25,-19.6097,-70.7691,Iquique- Chile,South America,Chile
+M 6.7,6.7,16/03/2014,9:16:00 PM,7,7,green,1,718,1.008,44,20,-19.9807,-70.7022,Iquique- Chile,South America,Chile
+M 6.8,6.8,10/3/2014,5:18:00 AM,5,5,green,1,1211,0.6568,229,16.441,40.8287,-125.134,Indianola- California,North America,United States of America
+M 6.5,6.5,2/3/2014,8:11:00 AM,4,5,green,1,668,1.001,17,119,27.4312,127.367,Nago- Japan,Asia,Japan
+M 6.5,6.5,18/02/2014,9:27:00 AM,5,4,green,1,681,1.635,30,14.83,14.6682,-58.9272,Greenland- Barbados,Central America,Barbados
+M 6.9,6.9,12/2/2014,9:19:00 AM,3,8,yellow,0,733,7.496,18,10,35.9053,82.5864,Hotan- China,Asia,People's Republic of China
+M 6.5,6.5,7/2/2014,8:40:00 AM,0,5,green,1,650,0.409,20,122,-15.0691,167.372,Port-Olry- Vanuatu,Oceania,Vanuatu
 M 6.5,6.5,2/2/2014,9:26:00 AM,0,3,green,1,650,3.651,22,44.26,-32.9076,-177.881,the Kermadec Islands,Oceania,New Zealand
-M 6.5,6.5,1/1/2014,4:03:00 AM,0,4,green,1,650,3.997,14,187,-13.8633,167.249,"Sola, Vanuatu",Oceania,Vanuatu
-M 6.5,6.5,23-11-2013,7:48:00 AM,3,4,green,0,651,5.194,22,371,-17.1171,-176.545,Fiji region,Oceania,Fiji
-M 7.7,7.7,17-11-2013,9:04:00 AM,1,8,green,1,912,8.05,23,10,-60.2738,-46.4011,Scotia Sea,Europe,United Kingdom of Great Britain and Northern Ireland (the)
-M 6.9,6.9,16-11-2013,3:34:00 AM,0,5,green,1,732,8.284,17,9.97,-60.2627,-47.0621,Scotia Sea,Europe,United Kingdom of Great Britain and Northern Ireland (the)
-M 6.6,6.6,31-10-2013,11:03:00 PM,6,7,green,1,723,0.636,31,27,-30.2921,-71.5215,"Coquimbo, Chile",South America,Chile
-M 7.1,7.1,25-10-2013,5:10:00 PM,6,4,green,1,872,3.968,10,35,37.1557,144.661,"off the east coast of Honshu, Japan",Asia,Japan
-M 6.6,6.6,19-10-2013,5:54:00 PM,8,5,green,1,692,1.98,44,9.45,26.0913,-110.321,"Etchoropo, Mexico",North America,Mexico
-M 6.8,6.8,16-10-2013,10:30:00 AM,0,6,green,1,711,5.79,9,35,-6.4456,154.931,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 7.1,7.1,15-10-2013,12:12:00 AM,9,8,orange,1,1092,3.144,12,19.04,9.8796,124.117,"Sagbayan, Philippines",Asia,Philippines
-M 6.6,6.6,12/10/2013,1:11:00 AM,5,6,yellow,0,691,1.984,40,40,35.5142,23.2523,"Kíssamos, Greece",Europe,Greece
+M 6.5,6.5,1/1/2014,4:03:00 AM,0,4,green,1,650,3.997,14,187,-13.8633,167.249,Sola- Vanuatu,Oceania,Vanuatu
+M 6.5,6.5,23/11/2013,7:48:00 AM,3,4,green,0,651,5.194,22,371,-17.1171,-176.545,Fiji region,Oceania,Fiji
+M 7.7,7.7,17/11/2013,9:04:00 AM,1,8,green,1,912,8.05,23,10,-60.2738,-46.4011,Scotia Sea,Europe,United Kingdom of Great Britain and Northern Ireland (the)
+M 6.9,6.9,16/11/2013,3:34:00 AM,0,5,green,1,732,8.284,17,9.97,-60.2627,-47.0621,Scotia Sea,Europe,United Kingdom of Great Britain and Northern Ireland (the)
+M 6.6,6.6,31/10/2013,11:03:00 PM,6,7,green,1,723,0.636,31,27,-30.2921,-71.5215,Coquimbo- Chile,South America,Chile
+M 7.1,7.1,25/10/2013,5:10:00 PM,6,4,green,1,872,3.968,10,35,37.1557,144.661,off the east coast of Honshu- Japan,Asia,Japan
+M 6.6,6.6,19/10/2013,5:54:00 PM,8,5,green,1,692,1.98,44,9.45,26.0913,-110.321,Etchoropo- Mexico,North America,Mexico
+M 6.8,6.8,16/10/2013,10:30:00 AM,0,6,green,1,711,5.79,9,35,-6.4456,154.931,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 7.1,7.1,15/10/2013,12:12:00 AM,9,8,orange,1,1092,3.144,12,19.04,9.8796,124.117,Sagbayan- Philippines,Asia,Philippines
+M 6.6,6.6,12/10/2013,1:11:00 AM,5,6,yellow,0,691,1.984,40,40,35.5142,23.2523,Kíssamos- Greece,Europe,Greece
 M 6.7,6.7,1/10/2013,3:38:00 AM,0,3,green,0,691,2.958,11,573,53.1995,152.786,Okhotsk,Asia,Russia
-M 6.5,6.5,30-09-2013,5:55:00 AM,0,4,green,1,650,1.709,21,41.54,-30.9255,-178.323,"Kermadec Islands, New Zealand",Oceania,New Zealand
-M 6.8,6.8,28-09-2013,7:34:00 AM,7,7,orange,0,1005,7.359,17,12,27.1825,65.5052,"Khuzdar, Pakistan",Asia,Pakistan
-M 7.1,7.1,25-09-2013,4:42:00 PM,8,7,green,1,843,4.446,17,40,-15.8385,-74.5112,"Atiquipa, Peru",South America,Peru
-M 7.7,7.7,24-09-2013,11:29:00 AM,5,8,red,0,2015,7.241,17,15,26.951,65.5009,"Bela, Pakistan",Asia,Pakistan
-M 6.5,6.5,4/9/2013,2:32:00 AM,0,6,green,1,650,0.735,24,20,51.5573,-174.767,"Atka, Alaska",North America,United States of America
-M 6.5,6.5,4/9/2013,12:18:00 PM,5,3,green,0,739,3.276,26,402,29.9377,138.833,"Izu Islands, Japan region",Asia,Japan
-M 6.5,6.5,1/9/2013,11:52:00 AM,4,5,green,0,668,3.097,11,112,-7.44,128.221,"Lospalos, Timor Leste",Oceania,Indonesia
-M 7.0,7,30-08-2013,4:25:00 PM,5,6,green,0,758,0.624,53,29,51.537,-175.23,"Atka, Alaska",North America,United States of America
-M 6.5,6.5,16-08-2013,2:31:00 AM,9,7,yellow,1,690,0,0,8.2,-41.734,174.152,"Blenheim, New Zealand",Oceania,New Zealand
-M 6.7,6.7,13-08-2013,3:43:00 PM,4,5,green,1,715,3.741,22,12,5.7732,-78.1999,"Bahía Solano, Colombia",South America,Colombia
-M 6.5,6.5,21-07-2013,5:09:00 AM,6,7,yellow,1,693,0,20,17,-41.704,174.337,"Blenheim, New Zealand",Oceania,New Zealand
-M 7.3,7.3,15-07-2013,2:03:00 PM,0,6,green,1,820,0,43,11,-60.857,-25.07,South Sandwich Islands region,Europe,United Kingdom of Great Britain and Northern Ireland (the)
-M 6.6,6.6,7/7/2013,8:30:00 AM,4,6,green,0,674,0,14,56,-6.029,149.706,"Kandrian, Papua New Guinea",Oceania,Papua New Guinea
-M 7.3,7.3,7/7/2013,6:35:00 AM,0,4,green,1,820,0,24,385.5,-3.917,153.927,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,15-06-2013,5:34:00 PM,5,6,green,1,679,0,27,30,11.763,-86.926,"Masachapa, Nicaragua",Central America,Nicaragua
-M 6.7,6.7,13-06-2013,4:47:00 PM,5,4,green,0,710,0,24,9,-10.004,107.236,"Java, Indonesia",Asia,Indonesia
-M 6.7,6.7,24-05-2013,2:56:00 PM,0,3,green,1,691,0,25.2,624,52.235,151.444,Okhotsk,Asia,Russia
-M 8.3,8.3,24-05-2013,5:44:00 AM,5,5,green,1,1115,0,10,598.1,54.892,153.221,Okhotsk,Asia,Russia
-M 7.4,7.4,23-05-2013,5:19:00 PM,0,6,green,1,842,0,16,173.7,-23.009,-177.232,"Vaini, Tonga",Oceania,Tonga
-M 6.8,6.8,14-05-2013,12:32:00 AM,0,3,green,0,711,0,18,602.2,18.728,145.288,"Pagan region, Northern Mariana Islands",Oceania,Philippines
-M 6.5,6.5,23-04-2013,11:14:00 PM,0,6,green,1,650,0,16.6,10,-3.898,152.127,"Rabaul, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,20-04-2013,12:02:00 AM,8,8,red,0,2083,0,12.6,14,30.308,102.888,"Linqiong, China",Asia,People's Republic of China
-M 7.2,7.2,19-04-2013,3:05:00 AM,5,7,green,1,804,0,10.1,110,46.221,150.788,"Kuril?sk, Russia",Asia,Russia
-M 6.6,6.6,16-04-2013,10:55:00 PM,7,7,green,1,672,0,11,13,-3.214,142.542,"Aitape, Papua New Guinea",Oceania,Papua New Guinea
-M 7.7,7.7,16-04-2013,10:44:00 AM,8,8,yellow,0,1421,0,26.6,80,28.033,61.996,"Kh?sh, Iran",Asia,Iran
-M 6.6,6.6,14-04-2013,1:32:00 AM,0,5,green,1,670,0,11.5,31,-6.475,154.607,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 7.0,7,6/4/2013,4:42:00 AM,3,7,green,1,755,0,11.4,66,-3.517,138.476,"Abepura, Indonesia",Asia,Indonesia
-M 6.5,6.5,10/3/2013,10:51:00 AM,0,6,green,1,650,0,14.2,28,-6.598,148.174,"Finschhafen, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,1/3/2013,1:20:00 AM,3,6,green,0,651,0,20.7,29,50.958,157.408,"Ozernovskiy, Russia",Asia,Russia
-M 6.9,6.9,28-02-2013,2:05:00 PM,5,6,green,1,736,0,20.7,41,50.954,157.283,"Ozernovskiy, Russia",Asia,Russia
-M 6.6,6.6,14-02-2013,1:13:00 PM,0,7,green,1,670,0,15.3,11,67.631,142.508,"Belaya Gora, Russia",Asia,Russia
-M 6.6,6.6,9/2/2013,9:02:00 AM,0,6,green,1,670,0,16.6,18,-10.994,165.741,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.9,6.9,9/2/2013,2:16:00 AM,5,5,green,1,904,0,23.7,145,1.135,-77.393,"Yacuanquer, Colombia",South America,Colombia
-M 7.1,7.1,8/2/2013,3:26:00 AM,9,6,green,1,780,0,16.5,21,-10.928,166.018,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.8,6.8,8/2/2013,11:12:00 AM,0,7,green,1,711,0,17.5,12,-10.838,165.969,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.7,6.7,7/2/2013,6:59:00 AM,0,6,green,1,691,0,26.5,11,-10.997,165.655,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 7.0,7,6/2/2013,1:54:00 AM,0,6,green,0,754,0,17.5,8.8,-10.499,165.588,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 7.1,7.1,6/2/2013,1:23:00 AM,0,5,green,0,776,0,18.4,10,-11.183,164.882,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 8.0,8,6/2/2013,1:12:00 AM,8,7,green,1,993,0,20.9,24,-10.799,165.114,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.9,6.9,2/2/2013,2:17:00 AM,6,7,yellow,0,814,0,28,107,42.77,143.092,"Obihiro, Japan",Asia,Japan
-M 6.8,6.8,30-01-2013,8:15:00 PM,6,7,green,0,771,0,19.3,45,-28.094,-70.653,"Vallenar, Chile",South America,Chile
-M 7.5,7.5,5/1/2013,8:58:00 AM,6,6,green,0,1425,0,0,8.7,55.228,-134.859,"Edna Bay, Alaska",North America,United States of America
-M 6.7,6.7,21-12-2012,10:28:00 PM,0,4,green,0,691,0,13.7,200.7,-14.344,167.286,"Sola, Vanuatu",Oceania,Vanuatu
+M 6.5,6.5,30/09/2013,5:55:00 AM,0,4,green,1,650,1.709,21,41.54,-30.9255,-178.323,Kermadec Islands- New Zealand,Oceania,New Zealand
+M 6.8,6.8,28/09/2013,7:34:00 AM,7,7,orange,0,1005,7.359,17,12,27.1825,65.5052,Khuzdar- Pakistan,Asia,Pakistan
+M 7.1,7.1,25/09/2013,4:42:00 PM,8,7,green,1,843,4.446,17,40,-15.8385,-74.5112,Atiquipa- Peru,South America,Peru
+M 7.7,7.7,24/09/2013,11:29:00 AM,5,8,red,0,2015,7.241,17,15,26.951,65.5009,Bela- Pakistan,Asia,Pakistan
+M 6.5,6.5,4/9/2013,2:32:00 AM,0,6,green,1,650,0.735,24,20,51.5573,-174.767,Atka- Alaska,North America,United States of America
+M 6.5,6.5,4/9/2013,12:18:00 PM,5,3,green,0,739,3.276,26,402,29.9377,138.833,Izu Islands- Japan region,Asia,Japan
+M 6.5,6.5,1/9/2013,11:52:00 AM,4,5,green,0,668,3.097,11,112,-7.44,128.221,Lospalos- Timor Leste,Oceania,Indonesia
+M 7.0,7,30/08/2013,4:25:00 PM,5,6,green,0,758,0.624,53,29,51.537,-175.23,Atka- Alaska,North America,United States of America
+M 6.5,6.5,16/08/2013,2:31:00 AM,9,7,yellow,1,690,0,0,8.2,-41.734,174.152,Blenheim- New Zealand,Oceania,New Zealand
+M 6.7,6.7,13/08/2013,3:43:00 PM,4,5,green,1,715,3.741,22,12,5.7732,-78.1999,Bahía Solano- Colombia,South America,Colombia
+M 6.5,6.5,21/07/2013,5:09:00 AM,6,7,yellow,1,693,0,20,17,-41.704,174.337,Blenheim- New Zealand,Oceania,New Zealand
+M 7.3,7.3,15/07/2013,2:03:00 PM,0,6,green,1,820,0,43,11,-60.857,-25.07,South Sandwich Islands region,Europe,United Kingdom of Great Britain and Northern Ireland (the)
+M 6.6,6.6,7/7/2013,8:30:00 AM,4,6,green,0,674,0,14,56,-6.029,149.706,Kandrian- Papua New Guinea,Oceania,Papua New Guinea
+M 7.3,7.3,7/7/2013,6:35:00 AM,0,4,green,1,820,0,24,385.5,-3.917,153.927,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,15/06/2013,5:34:00 PM,5,6,green,1,679,0,27,30,11.763,-86.926,Masachapa- Nicaragua,Central America,Nicaragua
+M 6.7,6.7,13/06/2013,4:47:00 PM,5,4,green,0,710,0,24,9,-10.004,107.236,Java- Indonesia,Asia,Indonesia
+M 6.7,6.7,24/05/2013,2:56:00 PM,0,3,green,1,691,0,25.2,624,52.235,151.444,Okhotsk,Asia,Russia
+M 8.3,8.3,24/05/2013,5:44:00 AM,5,5,green,1,1115,0,10,598.1,54.892,153.221,Okhotsk,Asia,Russia
+M 7.4,7.4,23/05/2013,5:19:00 PM,0,6,green,1,842,0,16,173.7,-23.009,-177.232,Vaini- Tonga,Oceania,Tonga
+M 6.8,6.8,14/05/2013,12:32:00 AM,0,3,green,0,711,0,18,602.2,18.728,145.288,Pagan region- Northern Mariana Islands,Oceania,Philippines
+M 6.5,6.5,23/04/2013,11:14:00 PM,0,6,green,1,650,0,16.6,10,-3.898,152.127,Rabaul- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,20/04/2013,12:02:00 AM,8,8,red,0,2083,0,12.6,14,30.308,102.888,Linqiong- China,Asia,People's Republic of China
+M 7.2,7.2,19/04/2013,3:05:00 AM,5,7,green,1,804,0,10.1,110,46.221,150.788,Kuril?sk- Russia,Asia,Russia
+M 6.6,6.6,16/04/2013,10:55:00 PM,7,7,green,1,672,0,11,13,-3.214,142.542,Aitape- Papua New Guinea,Oceania,Papua New Guinea
+M 7.7,7.7,16/04/2013,10:44:00 AM,8,8,yellow,0,1421,0,26.6,80,28.033,61.996,Kh?sh- Iran,Asia,Iran
+M 6.6,6.6,14/04/2013,1:32:00 AM,0,5,green,1,670,0,11.5,31,-6.475,154.607,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 7.0,7,6/4/2013,4:42:00 AM,3,7,green,1,755,0,11.4,66,-3.517,138.476,Abepura- Indonesia,Asia,Indonesia
+M 6.5,6.5,10/3/2013,10:51:00 AM,0,6,green,1,650,0,14.2,28,-6.598,148.174,Finschhafen- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,1/3/2013,1:20:00 AM,3,6,green,0,651,0,20.7,29,50.958,157.408,Ozernovskiy- Russia,Asia,Russia
+M 6.9,6.9,28/02/2013,2:05:00 PM,5,6,green,1,736,0,20.7,41,50.954,157.283,Ozernovskiy- Russia,Asia,Russia
+M 6.6,6.6,14/02/2013,1:13:00 PM,0,7,green,1,670,0,15.3,11,67.631,142.508,Belaya Gora- Russia,Asia,Russia
+M 6.6,6.6,9/2/2013,9:02:00 AM,0,6,green,1,670,0,16.6,18,-10.994,165.741,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.9,6.9,9/2/2013,2:16:00 AM,5,5,green,1,904,0,23.7,145,1.135,-77.393,Yacuanquer- Colombia,South America,Colombia
+M 7.1,7.1,8/2/2013,3:26:00 AM,9,6,green,1,780,0,16.5,21,-10.928,166.018,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.8,6.8,8/2/2013,11:12:00 AM,0,7,green,1,711,0,17.5,12,-10.838,165.969,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.7,6.7,7/2/2013,6:59:00 AM,0,6,green,1,691,0,26.5,11,-10.997,165.655,Lata- Solomon Islands,Oceania,Solomon Islands
+M 7.0,7,6/2/2013,1:54:00 AM,0,6,green,0,754,0,17.5,8.8,-10.499,165.588,Lata- Solomon Islands,Oceania,Solomon Islands
+M 7.1,7.1,6/2/2013,1:23:00 AM,0,5,green,0,776,0,18.4,10,-11.183,164.882,Lata- Solomon Islands,Oceania,Solomon Islands
+M 8.0,8,6/2/2013,1:12:00 AM,8,7,green,1,993,0,20.9,24,-10.799,165.114,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.9,6.9,2/2/2013,2:17:00 AM,6,7,yellow,0,814,0,28,107,42.77,143.092,Obihiro- Japan,Asia,Japan
+M 6.8,6.8,30/01/2013,8:15:00 PM,6,7,green,0,771,0,19.3,45,-28.094,-70.653,Vallenar- Chile,South America,Chile
+M 7.5,7.5,5/1/2013,8:58:00 AM,6,6,green,0,1425,0,0,8.7,55.228,-134.859,Edna Bay- Alaska,North America,United States of America
+M 6.7,6.7,21/12/2012,10:28:00 PM,0,4,green,0,691,0,13.7,200.7,-14.344,167.286,Sola- Vanuatu,Oceania,Vanuatu
 M 7.1,7.1,10/12/2012,4:53:00 AM,5,5,green,0,843,0,8.7,155,-6.533,129.825,Banda Sea,Asia,Indonesia
-M 7.3,7.3,7/12/2012,8:18:00 AM,6,5,green,0,1014,0,14.8,31,37.89,143.949,"?funato, Japan",Asia,Japan
-M 6.5,6.5,11/11/2012,10:14:00 AM,4,5,green,0,708,0,57.3,20,14.129,-92.164,"Champerico, Guatemala",Central America,Guatemala
-M 6.8,6.8,11/11/2012,1:12:00 AM,7,6,green,0,795,0,13.7,13.7,23.005,95.885,"Shwebo, Myanmar",Asia,Myanmar
-M 7.4,7.4,7/11/2012,4:35:00 AM,8,7,yellow,0,1455,0,25.5,24,13.988,-91.895,"Champerico, Guatemala",Central America,Guatemala
-M 7.8,7.8,28-10-2012,3:04:00 AM,8,7,green,0,1726,0,42.7,14,52.788,-132.101,"Prince Rupert, Canada",North America,Canada
-M 6.5,6.5,24-10-2012,12:45:00 AM,6,6,green,0,745,0,34.4,17,10.086,-85.298,Costa Rica,Central America,Costa Rica
-M 6.6,6.6,12/10/2012,12:31:00 PM,3,5,green,0,675,0,17.7,13,-4.892,134.03,"Tual, Indonesia",Asia,Indonesia
-M 7.3,7.3,30-09-2012,4:31:00 PM,7,6,green,0,1221,0,15.5,170,1.929,-76.362,"San Agustín, Colombia",South America,Colombia
-M 7.6,7.6,5/9/2012,2:42:00 AM,8,7,green,0,1555,0,34.3,35,10.085,-85.315,"Hojancha, Costa Rica",Central America,Costa Rica
-M 7.6,7.6,31-08-2012,12:47:00 PM,8,5,green,0,1115,0,10.2,28,10.811,126.638,"Sulangan, Philippines",Asia,Philippines
-M 7.3,7.3,27-08-2012,4:37:00 AM,5,5,green,0,994,0,37,28,12.139,-88.59,"Puerto El Triunfo, El Salvador",Central America,El Salvador
-M 6.6,6.6,26-08-2012,3:05:00 PM,4,5,green,0,678,0,14.6,91.1,2.19,126.837,"Tobelo, Indonesia",Asia,Indonesia
-M 7.7,7.7,14-08-2012,2:59:00 AM,7,4,green,0,941,0,13.8,583.2,49.8,145.064,"Poronaysk, Russia",Asia,Russia
-M 6.5,6.5,28-07-2012,8:03:00 PM,5,6,green,0,653,0,11.7,41,-4.651,153.173,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,28-04-2012,10:08:00 AM,4,5,green,0,675,0,15.7,134.7,-18.685,-174.705,"Neiafu, Tonga",Oceania,Tonga
-M 6.7,6.7,21-04-2012,1:16:00 AM,0,7,green,0,691,0,15.4,16,-1.617,134.276,"Manokwari, Indonesia",Asia,Indonesia
-M 6.8,6.8,17-04-2012,7:13:00 AM,6,5,green,0,732,0,12.6,198,-5.462,147.117,"Lae, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,17-04-2012,3:50:00 AM,0,7,green,0,691,0,26.9,29,-32.625,-71.365,"Hacienda La Calera, Chile",South America,Chile
-M 7.0,7,12/4/2012,7:15:00 AM,7,7,yellow,0,1000,0,95.9,13,28.696,-113.104,"San Luis, Mexico",North America,Mexico
-M 6.5,6.5,11/4/2012,10:55:00 AM,7,6,green,0,1171,0,54.1,20,18.229,-102.689,"El Habillal, Mexico",North America,Mexico
+M 7.3,7.3,7/12/2012,8:18:00 AM,6,5,green,0,1014,0,14.8,31,37.89,143.949,?funato- Japan,Asia,Japan
+M 6.5,6.5,11/11/2012,10:14:00 AM,4,5,green,0,708,0,57.3,20,14.129,-92.164,Champerico- Guatemala,Central America,Guatemala
+M 6.8,6.8,11/11/2012,1:12:00 AM,7,6,green,0,795,0,13.7,13.7,23.005,95.885,Shwebo- Myanmar,Asia,Myanmar
+M 7.4,7.4,7/11/2012,4:35:00 AM,8,7,yellow,0,1455,0,25.5,24,13.988,-91.895,Champerico- Guatemala,Central America,Guatemala
+M 7.8,7.8,28/10/2012,3:04:00 AM,8,7,green,0,1726,0,42.7,14,52.788,-132.101,Prince Rupert- Canada,North America,Canada
+M 6.5,6.5,24/10/2012,12:45:00 AM,6,6,green,0,745,0,34.4,17,10.086,-85.298,Costa Rica,Central America,Costa Rica
+M 6.6,6.6,12/10/2012,12:31:00 PM,3,5,green,0,675,0,17.7,13,-4.892,134.03,Tual- Indonesia,Asia,Indonesia
+M 7.3,7.3,30/09/2012,4:31:00 PM,7,6,green,0,1221,0,15.5,170,1.929,-76.362,San Agustín- Colombia,South America,Colombia
+M 7.6,7.6,5/9/2012,2:42:00 AM,8,7,green,0,1555,0,34.3,35,10.085,-85.315,Hojancha- Costa Rica,Central America,Costa Rica
+M 7.6,7.6,31/08/2012,12:47:00 PM,8,5,green,0,1115,0,10.2,28,10.811,126.638,Sulangan- Philippines,Asia,Philippines
+M 7.3,7.3,27/08/2012,4:37:00 AM,5,5,green,0,994,0,37,28,12.139,-88.59,Puerto El Triunfo- El Salvador,Central America,El Salvador
+M 6.6,6.6,26/08/2012,3:05:00 PM,4,5,green,0,678,0,14.6,91.1,2.19,126.837,Tobelo- Indonesia,Asia,Indonesia
+M 7.7,7.7,14/08/2012,2:59:00 AM,7,4,green,0,941,0,13.8,583.2,49.8,145.064,Poronaysk- Russia,Asia,Russia
+M 6.5,6.5,28/07/2012,8:03:00 PM,5,6,green,0,653,0,11.7,41,-4.651,153.173,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,28/04/2012,10:08:00 AM,4,5,green,0,675,0,15.7,134.7,-18.685,-174.705,Neiafu- Tonga,Oceania,Tonga
+M 6.7,6.7,21/04/2012,1:16:00 AM,0,7,green,0,691,0,15.4,16,-1.617,134.276,Manokwari- Indonesia,Asia,Indonesia
+M 6.8,6.8,17/04/2012,7:13:00 AM,6,5,green,0,732,0,12.6,198,-5.462,147.117,Lae- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,17/04/2012,3:50:00 AM,0,7,green,0,691,0,26.9,29,-32.625,-71.365,Hacienda La Calera- Chile,South America,Chile
+M 7.0,7,12/4/2012,7:15:00 AM,7,7,yellow,0,1000,0,95.9,13,28.696,-113.104,San Luis- Mexico,North America,Mexico
+M 6.5,6.5,11/4/2012,10:55:00 AM,7,6,green,0,1171,0,54.1,20,18.229,-102.689,El Habillal- Mexico,North America,Mexico
 M 8.2,8.2,11/4/2012,10:43:00 AM,9,6,green,0,1213,0,14.9,25.1,0.802,92.463,off the west coast of northern Sumatra,Asia,Indonesia
 M 8.6,8.6,11/4/2012,8:38:00 AM,9,7,yellow,0,2048,0,16.6,20,2.327,93.063,off the west coast of northern Sumatra,Asia,Indonesia
-M 7.1,7.1,25-03-2012,10:37:00 PM,7,7,yellow,0,1496,0,15.2,40.7,-35.2,-72.217,"Constitución, Chile",South America,Chile
-M 6.6,6.6,21-03-2012,10:15:00 PM,6,6,green,0,709,0,10.1,118,-6.242,145.955,"Kainantu, Papua New Guinea",Oceania,Papua New Guinea
-M 7.4,7.4,20-03-2012,6:02:00 PM,9,8,yellow,0,1752,0,37.9,20,16.493,-98.231,"Santiago Llano Grande, Mexico",North America,Mexico
-M 6.7,6.7,26-02-2012,6:17:00 AM,7,7,yellow,0,833,0,13.4,12,51.708,95.991,"Saryg-Sep, Russia",Asia,Russia
-M 6.7,6.7,6/2/2012,3:49:00 AM,9,7,green,0,1551,0,11.1,11,9.999,123.206,"Jimalalud, Philippines",Asia,Philippines
-M 7.1,7.1,2/2/2012,1:34:00 AM,5,5,green,0,793,0,12,23,-17.827,167.133,"Port-Vila, Vanuatu",Oceania,Vanuatu
+M 7.1,7.1,25/03/2012,10:37:00 PM,7,7,yellow,0,1496,0,15.2,40.7,-35.2,-72.217,Constitución- Chile,South America,Chile
+M 6.6,6.6,21/03/2012,10:15:00 PM,6,6,green,0,709,0,10.1,118,-6.242,145.955,Kainantu- Papua New Guinea,Oceania,Papua New Guinea
+M 7.4,7.4,20/03/2012,6:02:00 PM,9,8,yellow,0,1752,0,37.9,20,16.493,-98.231,Santiago Llano Grande- Mexico,North America,Mexico
+M 6.7,6.7,26/02/2012,6:17:00 AM,7,7,yellow,0,833,0,13.4,12,51.708,95.991,Saryg-Sep- Russia,Asia,Russia
+M 6.7,6.7,6/2/2012,3:49:00 AM,9,7,green,0,1551,0,11.1,11,9.999,123.206,Jimalalud- Philippines,Asia,Philippines
+M 7.1,7.1,2/2/2012,1:34:00 AM,5,5,green,0,793,0,12,23,-17.827,167.133,Port-Vila- Vanuatu,Oceania,Vanuatu
 M 7.2,7.2,10/1/2012,6:36:00 AM,4,4,green,0,838,0,17,19,2.433,93.21,off the west coast of northern Sumatra,Asia,Indonesia
-M 6.6,6.6,27-12-2011,3:21:00 PM,0,7,green,0,670,0,17.6,15,51.842,95.911,"Saryg-Sep, Russia",Asia,Russia
-M 7.1,7.1,14-12-2011,5:04:00 AM,6,6,green,0,834,0,10.6,135,-7.551,146.809,"Wau, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,11/12/2011,1:47:00 AM,8,7,yellow,0,1400,0,38.6,59,17.986,-99.789,"Nuevo Balsas, Mexico",North America,Mexico
-M 6.9,6.9,28-10-2011,6:54:00 PM,6,7,yellow,0,847,0,46.5,24,-14.438,-75.966,"Santiago, Peru",South America,Peru
-M 7.1,7.1,23-10-2011,10:41:00 AM,9,9,red,0,1096,0,19.7,18,38.721,43.508,"Van, Turkey",Asia,Turkey
-M 6.5,6.5,14-10-2011,3:35:00 AM,3,6,green,0,655,0,12.6,37,-6.57,147.881,"Finschhafen, Papua New Guinea",Oceania,Papua New Guinea
-M 6.9,6.9,18-09-2011,12:40:00 PM,8,8,orange,0,1562,0,13,50,27.73,88.155,"Mangan, India",Asia,India
-M 6.7,6.7,16-09-2011,7:26:00 PM,5,5,green,0,712,0,10.9,30,40.273,142.779,"Miyako, Japan",Asia,Japan
-M 6.7,6.7,5/9/2011,5:55:00 AM,5,6,green,0,915,0,15.3,91,2.965,97.893,"Kabanjahe, Indonesia",Asia,Indonesia
-M 7.0,7,3/9/2011,10:55:00 AM,7,5,green,0,761,0,15.3,185.1,-20.671,169.716,"Isangel, Vanuatu",Oceania,Vanuatu
-M 7.0,7,24-08-2011,5:46:00 PM,6,6,green,0,913,0,26.9,147,-7.641,-74.525,"Contamana, Peru",South America,Peru
-M 7.1,7.1,20-08-2011,6:19:00 PM,5,6,green,0,787,0,12.3,28,-18.311,168.218,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 6.5,6.5,20-08-2011,5:13:00 PM,0,5,green,0,650,0,15,35,-18.308,168.156,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 7.2,7.2,20-08-2011,4:55:00 PM,8,6,green,0,813,0,18.4,32,-18.365,168.143,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 6.6,6.6,31-07-2011,11:38:00 PM,3,6,green,0,674,0,16.6,10,-3.518,144.828,"Angoram, Papua New Guinea",Oceania,Papua New Guinea
+M 6.6,6.6,27/12/2011,3:21:00 PM,0,7,green,0,670,0,17.6,15,51.842,95.911,Saryg-Sep- Russia,Asia,Russia
+M 7.1,7.1,14/12/2011,5:04:00 AM,6,6,green,0,834,0,10.6,135,-7.551,146.809,Wau- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,11/12/2011,1:47:00 AM,8,7,yellow,0,1400,0,38.6,59,17.986,-99.789,Nuevo Balsas- Mexico,North America,Mexico
+M 6.9,6.9,28/10/2011,6:54:00 PM,6,7,yellow,0,847,0,46.5,24,-14.438,-75.966,Santiago- Peru,South America,Peru
+M 7.1,7.1,23/10/2011,10:41:00 AM,9,9,red,0,1096,0,19.7,18,38.721,43.508,Van- Turkey,Asia,Turkey
+M 6.5,6.5,14/10/2011,3:35:00 AM,3,6,green,0,655,0,12.6,37,-6.57,147.881,Finschhafen- Papua New Guinea,Oceania,Papua New Guinea
+M 6.9,6.9,18/09/2011,12:40:00 PM,8,8,orange,0,1562,0,13,50,27.73,88.155,Mangan- India,Asia,India
+M 6.7,6.7,16/09/2011,7:26:00 PM,5,5,green,0,712,0,10.9,30,40.273,142.779,Miyako- Japan,Asia,Japan
+M 6.7,6.7,5/9/2011,5:55:00 AM,5,6,green,0,915,0,15.3,91,2.965,97.893,Kabanjahe- Indonesia,Asia,Indonesia
+M 7.0,7,3/9/2011,10:55:00 AM,7,5,green,0,761,0,15.3,185.1,-20.671,169.716,Isangel- Vanuatu,Oceania,Vanuatu
+M 7.0,7,24/08/2011,5:46:00 PM,6,6,green,0,913,0,26.9,147,-7.641,-74.525,Contamana- Peru,South America,Peru
+M 7.1,7.1,20/08/2011,6:19:00 PM,5,6,green,0,787,0,12.3,28,-18.311,168.218,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 6.5,6.5,20/08/2011,5:13:00 PM,0,5,green,0,650,0,15,35,-18.308,168.156,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 7.2,7.2,20/08/2011,4:55:00 PM,8,6,green,0,813,0,18.4,32,-18.365,168.143,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 6.6,6.6,31/07/2011,11:38:00 PM,3,6,green,0,674,0,16.6,10,-3.518,144.828,Angoram- Papua New Guinea,Oceania,Papua New Guinea
 M 7.6,7.6,6/7/2011,7:03:00 AM,3,7,green,0,893,0,33.5,17,-29.539,-176.34,Kermadec Islands region,Oceania,New Zealand
-M 6.7,6.7,22-06-2011,9:50:00 PM,6,6,green,0,749,0,24.9,33,39.955,142.205,"Miyako, Japan",Asia,Japan
-M 6.8,6.8,10/5/2011,8:55:00 AM,4,5,green,0,734,0,12.5,11,-20.244,168.226,"Wé, New Caledonia",Oceania,New Caledonia
-M 6.8,6.8,23-04-2011,4:16:00 AM,5,6,green,0,719,0,13,79,-10.375,161.2,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,11/4/2011,8:16:00 AM,7,7,yellow,0,822,0,10.1,11,37.001,140.401,"Ishikawa, Japan",Asia,Japan
-M 7.1,7.1,7/4/2011,2:32:00 AM,8,8,yellow,0,1114,0,17.7,42,38.276,141.588,"Ishinomaki, Japan",Asia,Japan
-M 6.6,6.6,7/4/2011,1:11:00 AM,7,6,green,0,897,0,37.2,166.2,17.208,-94.338,"Helio García Alfaro, Mexico",North America,Mexico
-M 6.9,6.9,24-03-2011,1:55:00 PM,7,9,yellow,0,1154,0,18.2,8,20.687,99.822,"Tachilek, Myanmar",Asia,Myanmar
-M 6.6,6.6,11/3/2011,11:36:00 AM,6,5,green,0,673,0,9.5,25.7,39.241,142.463,"?tsuchi, Japan",Asia,Japan
-M 6.5,6.5,11/3/2011,8:19:00 AM,0,4,green,0,650,0,18.7,6.8,36.166,141.562,"Hasaki, Japan",Asia,Japan
-M 7.7,7.7,11/3/2011,6:25:00 AM,7,4,green,0,931,0,10.8,18.6,38.058,144.59,"Kamaishi, Japan",Asia,Japan
-M 7.9,7.9,11/3/2011,6:15:00 AM,8,7,yellow,0,1140,0,48.4,42.6,36.281,141.111,"?arai, Japan",Asia,Japan
-M 9.1,9.1,11/3/2011,5:46:00 AM,9,8,orange,0,2184,0,9.5,29,38.297,142.373,"2011 Great Tohoku Earthquake, Japan",Asia,Japan
-M 7.3,7.3,9/3/2011,2:45:00 AM,5,5,green,0,972,0,17.4,32,38.435,142.842,"?funato, Japan",Asia,Japan
-M 6.7,6.7,14-02-2011,3:40:00 AM,5,6,green,0,731,0,33.9,21,-35.38,-72.834,"Constitución, Chile",South America,Chile
-M 6.9,6.9,11/2/2011,8:05:00 AM,7,7,yellow,0,988,0,34.7,26,-36.422,-72.96,"Tomé, Chile",South America,Chile
-M 7.2,7.2,18-01-2011,8:23:00 PM,7,7,yellow,0,1449,0,25.3,68,28.777,63.951,"Dalbandin, Pakistan",Asia,Pakistan
-M 7.0,7,13-01-2011,4:16:00 PM,2,5,green,0,755,0,13.3,9,-20.628,168.471,"Tadine, New Caledonia",Oceania,New Caledonia
-M 7.2,7.2,2/1/2011,8:20:00 AM,8,7,yellow,0,1054,0,30.1,24,-38.355,-73.326,"Carahue, Chile",South America,Chile
-M 7.3,7.3,25-12-2010,1:16:00 PM,0,5,green,0,820,0,12,16,-19.702,167.947,"Isangel, Vanuatu",Oceania,Vanuatu
-M 6.7,6.7,20-12-2010,6:41:00 PM,3,7,green,0,708,0,24.3,12,28.412,59.18,"Bam, Iran",Asia,Iran
-M 6.6,6.6,2/12/2010,3:12:00 AM,0,6,green,0,670,0,18.5,33,-6.001,149.977,"Kandrian, Papua New Guinea",Oceania,Papua New Guinea
-M 7.8,7.8,25-10-2010,2:42:00 PM,4,7,green,0,946,0,23,20.1,-3.487,100.082,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 6.7,6.7,21-10-2010,5:53:00 PM,5,5,green,0,776,0,50.3,13,24.696,-109.156,"El Huitusi, Mexico",North America,Mexico
-M 7.0,7,29-09-2010,5:11:00 PM,8,5,green,0,772,0,15.1,26,-4.963,133.76,"Papua, Indonesia",Asia,Indonesia
-M 7.0,7,3/9/2010,4:35:00 AM,8,8,yellow,0,1245,0,15.8,12,-43.522,171.83,"Methven, New Zealand",Oceania,New Zealand
+M 6.7,6.7,22/06/2011,9:50:00 PM,6,6,green,0,749,0,24.9,33,39.955,142.205,Miyako- Japan,Asia,Japan
+M 6.8,6.8,10/5/2011,8:55:00 AM,4,5,green,0,734,0,12.5,11,-20.244,168.226,Wé- New Caledonia,Oceania,New Caledonia
+M 6.8,6.8,23/04/2011,4:16:00 AM,5,6,green,0,719,0,13,79,-10.375,161.2,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,11/4/2011,8:16:00 AM,7,7,yellow,0,822,0,10.1,11,37.001,140.401,Ishikawa- Japan,Asia,Japan
+M 7.1,7.1,7/4/2011,2:32:00 AM,8,8,yellow,0,1114,0,17.7,42,38.276,141.588,Ishinomaki- Japan,Asia,Japan
+M 6.6,6.6,7/4/2011,1:11:00 AM,7,6,green,0,897,0,37.2,166.2,17.208,-94.338,Helio García Alfaro- Mexico,North America,Mexico
+M 6.9,6.9,24/03/2011,1:55:00 PM,7,9,yellow,0,1154,0,18.2,8,20.687,99.822,Tachilek- Myanmar,Asia,Myanmar
+M 6.6,6.6,11/3/2011,11:36:00 AM,6,5,green,0,673,0,9.5,25.7,39.241,142.463,?tsuchi- Japan,Asia,Japan
+M 6.5,6.5,11/3/2011,8:19:00 AM,0,4,green,0,650,0,18.7,6.8,36.166,141.562,Hasaki- Japan,Asia,Japan
+M 7.7,7.7,11/3/2011,6:25:00 AM,7,4,green,0,931,0,10.8,18.6,38.058,144.59,Kamaishi- Japan,Asia,Japan
+M 7.9,7.9,11/3/2011,6:15:00 AM,8,7,yellow,0,1140,0,48.4,42.6,36.281,141.111,?arai- Japan,Asia,Japan
+M 9.1,9.1,11/3/2011,5:46:00 AM,9,8,orange,0,2184,0,9.5,29,38.297,142.373,2011 Great Tohoku Earthquake- Japan,Asia,Japan
+M 7.3,7.3,9/3/2011,2:45:00 AM,5,5,green,0,972,0,17.4,32,38.435,142.842,?funato- Japan,Asia,Japan
+M 6.7,6.7,14/02/2011,3:40:00 AM,5,6,green,0,731,0,33.9,21,-35.38,-72.834,Constitución- Chile,South America,Chile
+M 6.9,6.9,11/2/2011,8:05:00 AM,7,7,yellow,0,988,0,34.7,26,-36.422,-72.96,Tomé- Chile,South America,Chile
+M 7.2,7.2,18/01/2011,8:23:00 PM,7,7,yellow,0,1449,0,25.3,68,28.777,63.951,Dalbandin- Pakistan,Asia,Pakistan
+M 7.0,7,13/01/2011,4:16:00 PM,2,5,green,0,755,0,13.3,9,-20.628,168.471,Tadine- New Caledonia,Oceania,New Caledonia
+M 7.2,7.2,2/1/2011,8:20:00 AM,8,7,yellow,0,1054,0,30.1,24,-38.355,-73.326,Carahue- Chile,South America,Chile
+M 7.3,7.3,25/12/2010,1:16:00 PM,0,5,green,0,820,0,12,16,-19.702,167.947,Isangel- Vanuatu,Oceania,Vanuatu
+M 6.7,6.7,20/12/2010,6:41:00 PM,3,7,green,0,708,0,24.3,12,28.412,59.18,Bam- Iran,Asia,Iran
+M 6.6,6.6,2/12/2010,3:12:00 AM,0,6,green,0,670,0,18.5,33,-6.001,149.977,Kandrian- Papua New Guinea,Oceania,Papua New Guinea
+M 7.8,7.8,25/10/2010,2:42:00 PM,4,7,green,0,946,0,23,20.1,-3.487,100.082,Sungai Penuh- Indonesia,Asia,Indonesia
+M 6.7,6.7,21/10/2010,5:53:00 PM,5,5,green,0,776,0,50.3,13,24.696,-109.156,El Huitusi- Mexico,North America,Mexico
+M 7.0,7,29/09/2010,5:11:00 PM,8,5,green,0,772,0,15.1,26,-4.963,133.76,Papua- Indonesia,Asia,Indonesia
+M 7.0,7,3/9/2010,4:35:00 AM,8,8,yellow,0,1245,0,15.8,12,-43.522,171.83,Methven- New Zealand,Oceania,New Zealand
 M 7.1,7.1,12/8/2010,11:54:00 AM,6,5,green,0,945,0,12.4,206.7,-1.266,-77.306,Ecuador,South America,Ecuador
-M 7.3,7.3,10/8/2010,5:23:00 AM,7,7,yellow,0,850,0,20.2,25,-17.541,168.069,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 7.0,7,4/8/2010,10:01:00 AM,4,6,green,0,757,0,12.7,44,-5.746,150.765,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,4/8/2010,7:15:00 AM,5,4,green,0,659,0,11.1,220,-5.486,146.822,"Madang, Papua New Guinea",Oceania,Papua New Guinea
-M 7.6,7.6,23-07-2010,10:51:00 PM,5,3,green,0,902,0,15.1,578,6.497,123.48,"Bantogon, Philippines",Asia,Philippines
-M 7.3,7.3,18-07-2010,1:34:00 PM,8,7,yellow,0,831,0,18.2,35,-5.931,150.59,"New Britain region, Papua New Guinea",Oceania,Papua New Guinea
-M 6.9,6.9,18-07-2010,1:04:00 PM,4,7,green,0,737,0,15.7,28,-5.966,150.428,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,14-07-2010,8:32:00 AM,6,7,yellow,0,753,0,52.8,22,-38.067,-73.31,"CaĄete, Chile",South America,Chile
-M 6.7,6.7,26-06-2010,5:30:00 AM,5,6,green,0,696,0,18.7,35,-10.627,161.447,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,16-06-2010,3:58:00 AM,0,7,green,0,670,0,25,10.5,-2.329,136.484,"Biak, Indonesia",Asia,Indonesia
-M 7.0,7,16-06-2010,3:16:00 AM,3,7,green,0,755,0,18.1,18,-2.174,136.543,"Biak, Indonesia",Asia,Indonesia
-M 7.5,7.5,12/6/2010,7:26:00 AM,6,5,green,0,1144,0,18.6,35,7.881,91.936,"Nicobar Islands, India region",Asia,India
-M 7.2,7.2,27-05-2010,5:14:00 PM,5,6,green,0,804,0,11.7,31,-13.698,166.643,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.2,7.2,9/5/2010,5:59:00 AM,5,6,green,0,918,0,20.6,38,3.748,96.018,"Meulaboh, Indonesia",Asia,Indonesia
-M 6.9,6.9,13-04-2010,11:49:00 PM,6,9,yellow,0,773,0,14.9,17,33.165,96.548,"Qamdo, China",Asia,People's Republic of China
-M 6.9,6.9,11/4/2010,9:40:00 AM,4,5,green,0,740,0,12.1,21,-10.878,161.116,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 7.8,7.8,6/4/2010,10:15:00 AM,0,7,green,0,936,0,19.2,31,2.383,97.048,"Sinabang, Indonesia",Asia,Indonesia
-M 7.2,7.2,4/4/2010,10:40:00 AM,9,9,red,0,2910,0.5137,239,9.987,32.2862,-115.295,"Delta, B.C., MX",North America,Mexico
-M 6.6,6.6,30-03-2010,4:54:00 PM,5,6,yellow,0,701,0,16.7,34,13.667,92.831,"Bamboo Flat, India",Asia,India
-M 6.7,6.7,16-03-2010,2:21:00 AM,5,6,green,0,856,0,34.7,18,-36.217,-73.257,"Tomé, Chile",South America,Chile
-M 6.5,6.5,14-03-2010,8:08:00 AM,6,5,green,0,810,0,27,32,37.745,141.59,"Namie, Japan",Asia,Japan
-M 7.0,7,11/3/2010,2:55:00 AM,7,7,yellow,0,874,0,17.1,18,-34.326,-71.799,"Santa Cruz, Chile",South America,Chile
-M 6.9,6.9,11/3/2010,2:39:00 AM,7,7,yellow,0,1280,0,12.5,11,-34.29,-71.891,"Santa Cruz, Chile",South America,Chile
-M 6.8,6.8,5/3/2010,4:07:00 AM,4,6,green,0,717,0,23.2,26,-3.762,100.991,"Bengkulu, Indonesia",Asia,Indonesia
-M 6.6,6.6,5/3/2010,11:47:00 AM,7,7,yellow,0,736,0,27.8,18,-36.665,-73.374,"Talcahuano, Chile",South America,Chile
-M 6.5,6.5,4/3/2010,2:02:00 AM,0,4,green,0,650,0,18.7,176,-13.571,167.227,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.4,7.4,27-02-2010,8:01:00 AM,0,5,green,0,842,0,17.6,35,-37.773,-75.048,"Lebu, Chile",South America,Chile
-M 8.8,8.8,27-02-2010,6:34:00 AM,8,8,yellow,0,1991,0,17.8,22.9,-36.122,-72.898,"Quirihue, Chile",South America,Chile
-M 7.0,7,26-02-2010,8:31:00 PM,6,6,green,0,1180,0,15.7,25,25.93,128.425,"Katsuren-haebaru, Japan",Asia,Japan
-M 7.0,7,12/1/2010,9:53:00 AM,9,9,yellow,0,1623,0,22.7,13,18.443,-72.571,"Léogâne, Haiti",North America,Haiti
-M 6.5,6.5,10/1/2010,12:27:00 PM,7,7,yellow,0,1360,0.3225,220,28.737,40.652,-124.692,"Ferndale, California",North America,United States of America
-M 6.8,6.8,5/1/2010,12:15:00 PM,3,6,green,0,713,0,15,15.4,-9.019,157.551,"Gizo, Solomon Islands",Oceania,Solomon Islands
-M 7.1,7.1,3/1/2010,10:36:00 AM,5,7,green,0,780,0,15,10,-8.783,157.354,"Gizo, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,3/1/2010,9:48:00 AM,5,7,yellow,0,672,0,16.6,10,-8.726,157.487,"Gizo, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,13-11-2009,3:05:00 AM,6,7,yellow,0,698,0,17.7,27,-19.394,-70.321,"Iquique, Chile",South America,Chile
-M 7.3,7.3,9/11/2009,10:44:00 AM,0,4,green,0,820,0,15,595,-17.239,178.331,"Ba, Fiji",Oceania,Fiji
-M 6.6,6.6,8/11/2009,7:41:00 AM,7,6,green,0,677,0,20.4,18,-8.207,118.631,"Bima, Indonesia",Asia,Indonesia
-M 6.8,6.8,30-10-2009,7:03:00 AM,0,6,green,0,711,0,21.4,34,29.218,129.782,"Naze, Japan",Asia,Japan
-M 6.9,6.9,24-10-2009,2:40:00 PM,4,6,green,0,972,0,11,130,-6.133,130.385,"Tual, Indonesia",Asia,Indonesia
-M 6.8,6.8,8/10/2009,8:28:00 AM,0,5,green,0,711,0,30.2,35,-13.298,165.91,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.4,7.4,7/10/2009,11:13:00 AM,0,7,green,0,842,0,20.2,31.1,-13.093,166.497,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.8,7.8,7/10/2009,10:18:00 AM,0,6,green,0,936,0,20.3,35,-12.517,166.382,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.7,7.7,7/10/2009,10:03:00 AM,4,7,yellow,0,916,0,23.2,45,-13.006,166.51,"Sola, Vanuatu",Oceania,Vanuatu
-M 6.6,6.6,1/10/2009,1:52:00 AM,7,7,yellow,0,787,0,30.1,9,-2.482,101.524,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 7.6,7.6,30-09-2009,10:16:00 AM,8,8,yellow,0,1639,0,14,81,-0.72,99.867,"Pariaman, Indonesia",Asia,Indonesia
-M 8.1,8.1,29-09-2009,5:48:00 PM,7,6,yellow,0,1055,0,20.8,18,-15.489,-172.095,"Matavai, Samoa",Oceania,Samoa
-M 7.0,7,2/9/2009,7:55:00 AM,7,7,yellow,0,1175,0,16.3,46,-7.782,107.297,"Banjar, Indonesia",Asia,Indonesia
-M 6.7,6.7,16-08-2009,7:38:00 AM,5,6,green,0,753,0,14.9,20,-1.479,99.49,"Padang, Indonesia",Asia,Indonesia
-M 6.6,6.6,12/8/2009,10:48:00 AM,4,5,green,0,703,0,14.1,53,32.821,140.395,"Tateyama, Japan",Asia,Japan
-M 7.5,7.5,10/8/2009,7:55:00 AM,7,6,green,0,1248,0,18.2,24,14.099,92.902,"Bamboo Flat, India",Asia,India
-M 7.1,7.1,9/8/2009,10:55:00 AM,5,4,green,0,1005,0,14.2,292,33.167,137.944,"?yama, Japan",Asia,Japan
-M 6.9,6.9,3/8/2009,5:59:00 AM,5,7,green,0,1202,0,35,10,29.039,-112.903,"Bahía de Kino, Mexico",North America,Mexico
-M 7.8,7.8,15-07-2009,9:22:00 AM,6,8,green,0,1165,0,16.8,12,-45.762,166.562,"Te Anau, New Zealand",Oceania,New Zealand
-M 6.7,6.7,23-06-2009,2:19:00 PM,5,5,green,0,693,0,13.8,64,-5.157,153.782,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 7.3,7.3,28-05-2009,8:24:00 AM,7,8,yellow,0,1560,0,27.2,19,16.731,-86.217,"Guanaja, Honduras",Central America,Honduras
-M 7.6,7.6,19-03-2009,6:17:00 PM,7,5,green,0,916,0,14,31,-23.043,-174.66,"?Ohonua, Tonga",Oceania,Tonga
-M 7.2,7.2,11/2/2009,5:34:00 AM,3,7,green,0,802,0,18.6,20,3.886,126.387,"Sarangani, Philippines",Asia,Philippines
-M 7.4,7.4,3/1/2009,10:33:00 AM,7,7,yellow,0,846,0,21.1,23,-0.691,133.305,"Manokwari, Indonesia",Asia,Indonesia
-M 6.6,6.6,3/1/2009,8:23:00 AM,5,4,green,0,765,0,22.6,204.8,36.419,70.743,"Jurm, Afghanistan",Asia,Afghanistan
-M 7.7,7.7,3/1/2009,7:43:00 AM,5,7,green,0,918,0,29.8,17,-0.414,132.885,"Manokwari, Indonesia",Asia,Indonesia
-M 7.4,7.4,16-11-2008,5:02:00 PM,9,7,yellow,0,848,0,33.7,30,1.271,122.091,"Gorontalo, Indonesia",Asia,Indonesia
-M 6.7,6.7,16-10-2008,7:41:00 PM,5,6,green,0,731,0,28.6,24,14.423,-92.364,"Brisas Barra de Suchiate, Mexico",North America,Mexico
-M 6.7,6.7,5/10/2008,3:52:00 AM,0,6,green,0,691,0,22.3,27.4,39.533,73.824,"Nookat, Kyrgyzstan",Asia,Kyrgyzstan
-M 6.8,6.8,11/9/2008,12:20:00 PM,0,6,green,0,711,0,22.2,25,41.892,143.754,"Obihiro, Japan",Asia,Japan
-M 6.6,6.6,11/9/2008,12:00:00 PM,0,6,green,0,670,0,14.1,96,1.885,127.363,"Tobelo, Indonesia",Asia,Indonesia
-M 6.9,6.9,8/9/2008,6:52:00 AM,0,6,green,0,732,0,14.9,110,-13.501,166.967,"Sola, Vanuatu",Oceania,Vanuatu
-M 6.7,6.7,25-08-2008,1:21:00 PM,4,7,green,0,692,0,28,12,30.901,83.52,"Jumla, Nepal",Asia,People's Republic of China
-M 6.8,6.8,23-07-2008,3:26:00 PM,8,7,yellow,0,1046,0,20.2,108,39.802,141.464,"Morioka, Japan",Asia,Japan
-M 7.0,7,19-07-2008,2:39:00 AM,5,5,green,0,840,0,18.2,22,37.552,142.214,"Namie, Japan",Asia,Japan
-M 6.9,6.9,19-07-2008,2:39:00 AM,5,5,green,0,825,0,0,25.5,37.55,142.714,"Namie, Japan",Asia,Japan
-M 6.6,6.6,27-06-2008,11:40:00 AM,4,5,green,0,680,0,18.4,17,11.005,91.824,"Bamboo Flat, India",Asia,India
-M 6.9,6.9,13-06-2008,11:43:00 PM,7,8,yellow,0,888,0,17.1,7.8,39.03,140.881,"Mizusawa, Japan",Asia,Japan
-M 7.9,7.9,12/5/2008,6:28:00 AM,9,9,yellow,0,1870,0,11.3,19,31.002,103.322,"Tianpeng, China",Asia,People's Republic of China
-M 6.9,6.9,7/5/2008,4:45:00 AM,5,5,green,0,910,0,21.1,27,36.164,141.526,"Hasaki, Japan",Asia,Japan
-M 7.3,7.3,9/4/2008,12:46:00 PM,0,6,green,0,820,0,13.4,33,-20.071,168.892,"Isangel, Vanuatu",Oceania,Vanuatu
-M 7.2,7.2,20-03-2008,10:32:00 PM,0,7,green,0,798,0,25.9,10,35.49,81.467,"Hotan, China",Asia,People's Republic of China
+M 7.3,7.3,10/8/2010,5:23:00 AM,7,7,yellow,0,850,0,20.2,25,-17.541,168.069,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 7.0,7,4/8/2010,10:01:00 AM,4,6,green,0,757,0,12.7,44,-5.746,150.765,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,4/8/2010,7:15:00 AM,5,4,green,0,659,0,11.1,220,-5.486,146.822,Madang- Papua New Guinea,Oceania,Papua New Guinea
+M 7.6,7.6,23/07/2010,10:51:00 PM,5,3,green,0,902,0,15.1,578,6.497,123.48,Bantogon- Philippines,Asia,Philippines
+M 7.3,7.3,18/07/2010,1:34:00 PM,8,7,yellow,0,831,0,18.2,35,-5.931,150.59,New Britain region- Papua New Guinea,Oceania,Papua New Guinea
+M 6.9,6.9,18/07/2010,1:04:00 PM,4,7,green,0,737,0,15.7,28,-5.966,150.428,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,14/07/2010,8:32:00 AM,6,7,yellow,0,753,0,52.8,22,-38.067,-73.31,CaĄete- Chile,South America,Chile
+M 6.7,6.7,26/06/2010,5:30:00 AM,5,6,green,0,696,0,18.7,35,-10.627,161.447,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,16/06/2010,3:58:00 AM,0,7,green,0,670,0,25,10.5,-2.329,136.484,Biak- Indonesia,Asia,Indonesia
+M 7.0,7,16/06/2010,3:16:00 AM,3,7,green,0,755,0,18.1,18,-2.174,136.543,Biak- Indonesia,Asia,Indonesia
+M 7.5,7.5,12/6/2010,7:26:00 AM,6,5,green,0,1144,0,18.6,35,7.881,91.936,Nicobar Islands- India region,Asia,India
+M 7.2,7.2,27/05/2010,5:14:00 PM,5,6,green,0,804,0,11.7,31,-13.698,166.643,Sola- Vanuatu,Oceania,Vanuatu
+M 7.2,7.2,9/5/2010,5:59:00 AM,5,6,green,0,918,0,20.6,38,3.748,96.018,Meulaboh- Indonesia,Asia,Indonesia
+M 6.9,6.9,13/04/2010,11:49:00 PM,6,9,yellow,0,773,0,14.9,17,33.165,96.548,Qamdo- China,Asia,People's Republic of China
+M 6.9,6.9,11/4/2010,9:40:00 AM,4,5,green,0,740,0,12.1,21,-10.878,161.116,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 7.8,7.8,6/4/2010,10:15:00 AM,0,7,green,0,936,0,19.2,31,2.383,97.048,Sinabang- Indonesia,Asia,Indonesia
+M 7.2,7.2,4/4/2010,10:40:00 AM,9,9,red,0,2910,0.5137,239,9.987,32.2862,-115.295,Delta- B.C.- MX,North America,Mexico
+M 6.6,6.6,30/03/2010,4:54:00 PM,5,6,yellow,0,701,0,16.7,34,13.667,92.831,Bamboo Flat- India,Asia,India
+M 6.7,6.7,16/03/2010,2:21:00 AM,5,6,green,0,856,0,34.7,18,-36.217,-73.257,Tomé- Chile,South America,Chile
+M 6.5,6.5,14/03/2010,8:08:00 AM,6,5,green,0,810,0,27,32,37.745,141.59,Namie- Japan,Asia,Japan
+M 7.0,7,11/3/2010,2:55:00 AM,7,7,yellow,0,874,0,17.1,18,-34.326,-71.799,Santa Cruz- Chile,South America,Chile
+M 6.9,6.9,11/3/2010,2:39:00 AM,7,7,yellow,0,1280,0,12.5,11,-34.29,-71.891,Santa Cruz- Chile,South America,Chile
+M 6.8,6.8,5/3/2010,4:07:00 AM,4,6,green,0,717,0,23.2,26,-3.762,100.991,Bengkulu- Indonesia,Asia,Indonesia
+M 6.6,6.6,5/3/2010,11:47:00 AM,7,7,yellow,0,736,0,27.8,18,-36.665,-73.374,Talcahuano- Chile,South America,Chile
+M 6.5,6.5,4/3/2010,2:02:00 AM,0,4,green,0,650,0,18.7,176,-13.571,167.227,Sola- Vanuatu,Oceania,Vanuatu
+M 7.4,7.4,27/02/2010,8:01:00 AM,0,5,green,0,842,0,17.6,35,-37.773,-75.048,Lebu- Chile,South America,Chile
+M 8.8,8.8,27/02/2010,6:34:00 AM,8,8,yellow,0,1991,0,17.8,22.9,-36.122,-72.898,Quirihue- Chile,South America,Chile
+M 7.0,7,26/02/2010,8:31:00 PM,6,6,green,0,1180,0,15.7,25,25.93,128.425,Katsuren-haebaru- Japan,Asia,Japan
+M 7.0,7,12/1/2010,9:53:00 AM,9,9,yellow,0,1623,0,22.7,13,18.443,-72.571,Léogâne- Haiti,North America,Haiti
+M 6.5,6.5,10/1/2010,12:27:00 PM,7,7,yellow,0,1360,0.3225,220,28.737,40.652,-124.692,Ferndale- California,North America,United States of America
+M 6.8,6.8,5/1/2010,12:15:00 PM,3,6,green,0,713,0,15,15.4,-9.019,157.551,Gizo- Solomon Islands,Oceania,Solomon Islands
+M 7.1,7.1,3/1/2010,10:36:00 AM,5,7,green,0,780,0,15,10,-8.783,157.354,Gizo- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,3/1/2010,9:48:00 AM,5,7,yellow,0,672,0,16.6,10,-8.726,157.487,Gizo- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,13/11/2009,3:05:00 AM,6,7,yellow,0,698,0,17.7,27,-19.394,-70.321,Iquique- Chile,South America,Chile
+M 7.3,7.3,9/11/2009,10:44:00 AM,0,4,green,0,820,0,15,595,-17.239,178.331,Ba- Fiji,Oceania,Fiji
+M 6.6,6.6,8/11/2009,7:41:00 AM,7,6,green,0,677,0,20.4,18,-8.207,118.631,Bima- Indonesia,Asia,Indonesia
+M 6.8,6.8,30/10/2009,7:03:00 AM,0,6,green,0,711,0,21.4,34,29.218,129.782,Naze- Japan,Asia,Japan
+M 6.9,6.9,24/10/2009,2:40:00 PM,4,6,green,0,972,0,11,130,-6.133,130.385,Tual- Indonesia,Asia,Indonesia
+M 6.8,6.8,8/10/2009,8:28:00 AM,0,5,green,0,711,0,30.2,35,-13.298,165.91,Sola- Vanuatu,Oceania,Vanuatu
+M 7.4,7.4,7/10/2009,11:13:00 AM,0,7,green,0,842,0,20.2,31.1,-13.093,166.497,Sola- Vanuatu,Oceania,Vanuatu
+M 7.8,7.8,7/10/2009,10:18:00 AM,0,6,green,0,936,0,20.3,35,-12.517,166.382,Sola- Vanuatu,Oceania,Vanuatu
+M 7.7,7.7,7/10/2009,10:03:00 AM,4,7,yellow,0,916,0,23.2,45,-13.006,166.51,Sola- Vanuatu,Oceania,Vanuatu
+M 6.6,6.6,1/10/2009,1:52:00 AM,7,7,yellow,0,787,0,30.1,9,-2.482,101.524,Sungai Penuh- Indonesia,Asia,Indonesia
+M 7.6,7.6,30/09/2009,10:16:00 AM,8,8,yellow,0,1639,0,14,81,-0.72,99.867,Pariaman- Indonesia,Asia,Indonesia
+M 8.1,8.1,29/09/2009,5:48:00 PM,7,6,yellow,0,1055,0,20.8,18,-15.489,-172.095,Matavai- Samoa,Oceania,Samoa
+M 7.0,7,2/9/2009,7:55:00 AM,7,7,yellow,0,1175,0,16.3,46,-7.782,107.297,Banjar- Indonesia,Asia,Indonesia
+M 6.7,6.7,16/08/2009,7:38:00 AM,5,6,green,0,753,0,14.9,20,-1.479,99.49,Padang- Indonesia,Asia,Indonesia
+M 6.6,6.6,12/8/2009,10:48:00 AM,4,5,green,0,703,0,14.1,53,32.821,140.395,Tateyama- Japan,Asia,Japan
+M 7.5,7.5,10/8/2009,7:55:00 AM,7,6,green,0,1248,0,18.2,24,14.099,92.902,Bamboo Flat- India,Asia,India
+M 7.1,7.1,9/8/2009,10:55:00 AM,5,4,green,0,1005,0,14.2,292,33.167,137.944,?yama- Japan,Asia,Japan
+M 6.9,6.9,3/8/2009,5:59:00 AM,5,7,green,0,1202,0,35,10,29.039,-112.903,Bahía de Kino- Mexico,North America,Mexico
+M 7.8,7.8,15/07/2009,9:22:00 AM,6,8,green,0,1165,0,16.8,12,-45.762,166.562,Te Anau- New Zealand,Oceania,New Zealand
+M 6.7,6.7,23/06/2009,2:19:00 PM,5,5,green,0,693,0,13.8,64,-5.157,153.782,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 7.3,7.3,28/05/2009,8:24:00 AM,7,8,yellow,0,1560,0,27.2,19,16.731,-86.217,Guanaja- Honduras,Central America,Honduras
+M 7.6,7.6,19/03/2009,6:17:00 PM,7,5,green,0,916,0,14,31,-23.043,-174.66,?Ohonua- Tonga,Oceania,Tonga
+M 7.2,7.2,11/2/2009,5:34:00 AM,3,7,green,0,802,0,18.6,20,3.886,126.387,Sarangani- Philippines,Asia,Philippines
+M 7.4,7.4,3/1/2009,10:33:00 AM,7,7,yellow,0,846,0,21.1,23,-0.691,133.305,Manokwari- Indonesia,Asia,Indonesia
+M 6.6,6.6,3/1/2009,8:23:00 AM,5,4,green,0,765,0,22.6,204.8,36.419,70.743,Jurm- Afghanistan,Asia,Afghanistan
+M 7.7,7.7,3/1/2009,7:43:00 AM,5,7,green,0,918,0,29.8,17,-0.414,132.885,Manokwari- Indonesia,Asia,Indonesia
+M 7.4,7.4,16/11/2008,5:02:00 PM,9,7,yellow,0,848,0,33.7,30,1.271,122.091,Gorontalo- Indonesia,Asia,Indonesia
+M 6.7,6.7,16/10/2008,7:41:00 PM,5,6,green,0,731,0,28.6,24,14.423,-92.364,Brisas Barra de Suchiate- Mexico,North America,Mexico
+M 6.7,6.7,5/10/2008,3:52:00 AM,0,6,green,0,691,0,22.3,27.4,39.533,73.824,Nookat- Kyrgyzstan,Asia,Kyrgyzstan
+M 6.8,6.8,11/9/2008,12:20:00 PM,0,6,green,0,711,0,22.2,25,41.892,143.754,Obihiro- Japan,Asia,Japan
+M 6.6,6.6,11/9/2008,12:00:00 PM,0,6,green,0,670,0,14.1,96,1.885,127.363,Tobelo- Indonesia,Asia,Indonesia
+M 6.9,6.9,8/9/2008,6:52:00 AM,0,6,green,0,732,0,14.9,110,-13.501,166.967,Sola- Vanuatu,Oceania,Vanuatu
+M 6.7,6.7,25/08/2008,1:21:00 PM,4,7,green,0,692,0,28,12,30.901,83.52,Jumla- Nepal,Asia,People's Republic of China
+M 6.8,6.8,23/07/2008,3:26:00 PM,8,7,yellow,0,1046,0,20.2,108,39.802,141.464,Morioka- Japan,Asia,Japan
+M 7.0,7,19/07/2008,2:39:00 AM,5,5,green,0,840,0,18.2,22,37.552,142.214,Namie- Japan,Asia,Japan
+M 6.9,6.9,19/07/2008,2:39:00 AM,5,5,green,0,825,0,0,25.5,37.55,142.714,Namie- Japan,Asia,Japan
+M 6.6,6.6,27/06/2008,11:40:00 AM,4,5,green,0,680,0,18.4,17,11.005,91.824,Bamboo Flat- India,Asia,India
+M 6.9,6.9,13/06/2008,11:43:00 PM,7,8,yellow,0,888,0,17.1,7.8,39.03,140.881,Mizusawa- Japan,Asia,Japan
+M 7.9,7.9,12/5/2008,6:28:00 AM,9,9,yellow,0,1870,0,11.3,19,31.002,103.322,Tianpeng- China,Asia,People's Republic of China
+M 6.9,6.9,7/5/2008,4:45:00 AM,5,5,green,0,910,0,21.1,27,36.164,141.526,Hasaki- Japan,Asia,Japan
+M 7.3,7.3,9/4/2008,12:46:00 PM,0,6,green,0,820,0,13.4,33,-20.071,168.892,Isangel- Vanuatu,Oceania,Vanuatu
+M 7.2,7.2,20/03/2008,10:32:00 PM,0,7,green,0,798,0,25.9,10,35.49,81.467,Hotan- China,Asia,People's Republic of China
 M 6.9,6.9,3/3/2008,2:11:00 AM,4,5,green,0,740,0,25.9,24,13.351,125.63,Philippine Islands region,Oceania,Philippines
-M 6.7,6.7,25-02-2008,9:02:00 PM,5,6,green,0,696,0,15.1,25,-2.245,99.808,"Padang, Indonesia",Asia,Indonesia
-M 6.6,6.6,25-02-2008,6:06:00 PM,4,6,green,0,674,0,17.7,25,-2.332,99.891,"Padang, Indonesia",Asia,Indonesia
-M 7.2,7.2,25-02-2008,8:36:00 AM,4,7,green,0,832,0,18.4,25,-2.486,99.972,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 6.5,6.5,24-02-2008,2:46:00 PM,4,6,green,0,654,0,28.3,22,-2.405,99.931,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 7.4,7.4,20-02-2008,8:08:00 AM,5,7,green,0,914,0,16.4,26,2.768,95.964,"Sinabang, Indonesia",Asia,Indonesia
-M 6.5,6.5,14-02-2008,12:08:00 PM,8,5,green,0,692,0,30.7,28,36.345,21.863,"Koróni, Greece",Europe,Greece
-M 6.9,6.9,14-02-2008,10:09:00 AM,6,6,yellow,0,941,0,30.6,29,36.501,21.67,"Methóni, Greece",Europe,Greece
-M 6.5,6.5,12/2/2008,12:50:00 PM,7,6,green,0,723,0,27.6,83,16.357,-94.304,"General Pascual Fentes, Mexico",North America,Mexico
-M 6.6,6.6,20-12-2007,7:55:00 AM,7,6,green,0,808,0,18.8,20,-39.011,178.291,"Gisborne, New Zealand",Oceania,New Zealand
-M 6.7,6.7,16-12-2007,8:09:00 AM,5,7,green,0,704,0,30.3,45,-22.954,-70.182,Ant,South America,Chile
-M 7.4,7.4,29-11-2007,7:00:00 PM,7,7,yellow,0,1542,0,13.4,156,14.944,-61.274,"Basse-Pointe, Martinique",Central America,Martinique
-M 6.6,6.6,27-11-2007,11:49:00 AM,3,6,green,0,672,0,26.9,16,-10.95,162.149,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,25-11-2007,7:53:00 PM,5,7,yellow,0,653,0,27.6,18,-8.224,118.467,"Dompu, Indonesia",Asia,Indonesia
-M 6.5,6.5,25-11-2007,4:02:00 PM,7,7,yellow,0,657,0,27.5,20,-8.292,118.37,"Dompu, Indonesia",Asia,Indonesia
-M 6.8,6.8,22-11-2007,8:48:00 AM,6,6,yellow,0,722,0,15.9,53,-5.757,147.098,"Lae, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,16-11-2007,3:13:00 AM,7,6,green,0,790,0,27,122.9,-2.312,-77.838,"Macas, Ecuador",South America,Ecuador
-M 6.8,6.8,15-11-2007,3:05:00 PM,6,7,yellow,0,716,0,40.1,26,-22.925,-70.237,Ant,South America,Chile
-M 7.7,7.7,14-11-2007,3:40:00 PM,8,7,green,0,995,0,22.4,40,-22.247,-69.89,"Tocopilla, Chile",South America,Chile
-M 6.8,6.8,24-10-2007,9:02:00 PM,3,5,green,0,713,0,23.9,21,-3.899,101.02,"Bengkulu, Indonesia",Asia,Indonesia
-M 6.8,6.8,15-10-2007,12:29:00 PM,4,7,green,0,744,0,19,18,-44.796,167.553,"Te Anau, New Zealand",Oceania,New Zealand
-M 6.8,6.8,26-09-2007,12:36:00 PM,4,5,green,0,713,0,15.5,40,-4.99,153.5,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,20-09-2007,8:31:00 AM,3,5,green,0,696,0,26.9,30,-1.999,100.141,"Padang, Indonesia",Asia,Indonesia
-M 7.0,7,13-09-2007,3:35:00 AM,4,7,green,0,768,0,23.1,22,-2.13,99.627,"Padang, Indonesia",Asia,Indonesia
-M 6.5,6.5,13-09-2007,2:30:00 AM,0,5,green,0,650,0,26.2,28.9,-1.689,99.668,"Kepulauan Mentawai region, Indonesia",Asia,Indonesia
-M 7.9,7.9,12/9/2007,11:49:00 AM,8,7,yellow,0,1133,0,29.1,35,-2.625,100.841,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 7.8,7.8,12/9/2007,11:49:00 AM,7,8,green,0,1152,0,0,40.5,-2.52,100.139,"Sungai Penuh, Indonesia",Asia,Indonesia
-M 8.4,8.4,12/9/2007,11:10:00 AM,0,6,green,0,1086,0,32.3,34,-4.438,101.367,"Bengkulu, Indonesia",Asia,Indonesia
-M 6.8,6.8,10/9/2007,1:49:00 AM,5,6,green,0,747,0,17.6,15,2.966,-77.963,"Timbiquí, Colombia",South America,Colombia
-M 7.2,7.2,2/9/2007,1:05:00 AM,0,5,green,0,798,0,21.3,35,-11.61,165.762,"Lata, Solomon Islands",Oceania,Solomon Islands
-M 6.5,6.5,16-08-2007,8:39:00 AM,5,6,green,0,675,0,12.8,15,-9.834,159.465,"Malango, Solomon Islands",Oceania,Solomon Islands
-M 8.0,8,15-08-2007,11:40:00 PM,9,8,yellow,0,1385,0,25.7,39,-13.386,-76.603,"San Vicente de CaĄete, Peru",South America,Peru
-M 7.5,7.5,8/8/2007,5:05:00 AM,0,5,green,0,865,0,30.7,280,-5.859,107.419,"Rengasdengklok, Indonesia",Asia,Indonesia
-M 7.2,7.2,1/8/2007,5:08:00 AM,7,7,yellow,0,803,0,20.4,120,-15.595,167.68,"Luganville, Vanuatu",Oceania,Vanuatu
-M 6.9,6.9,26-07-2007,5:40:00 AM,3,5,green,0,734,0,24.1,25,2.872,127.464,"Tobelo, Indonesia",Asia,Indonesia
-M 6.8,6.8,16-07-2007,2:17:00 PM,5,4,green,0,779,0,18.2,350.4,36.808,134.85,"Mikuni, Japan",Asia,Japan
-M 6.6,6.6,16-07-2007,1:13:00 AM,8,8,orange,0,831,0,16.7,12,37.535,138.446,"Kashiwazaki, Japan",Asia,Japan
-M 6.7,6.7,13-06-2007,7:29:00 PM,6,6,green,0,972,0,37.7,23,13.554,-90.618,"Iztapa, Guatemala",Central America,Guatemala
-M 6.9,6.9,1/4/2007,9:11:00 AM,0,7,green,0,732,0,15.3,10,-7.306,155.741,"Panguna, Papua New Guinea",Oceania,Solomon Islands
-M 6.6,6.6,1/4/2007,8:47:00 AM,0,7,green,0,670,0,16,10,-7.169,155.777,"Panguna, Papua New Guinea",Oceania,Solomon Islands
-M 8.1,8.1,1/4/2007,8:39:00 AM,9,8,yellow,0,1025,0,14.7,24,-8.466,157.043,"Gizo, Solomon Islands",Oceania,Solomon Islands
-M 6.7,6.7,25-03-2007,12:41:00 AM,7,8,yellow,0,782,0,23.9,8,37.336,136.588,"Nanao, Japan",Asia,Japan
-M 7.1,7.1,25-03-2007,12:40:00 AM,3,6,green,0,779,0,25.3,34,-20.617,169.357,"Isangel, Vanuatu",Oceania,Vanuatu
-M 6.7,6.7,20-02-2007,8:04:00 AM,0,6,green,0,691,0,40.3,12,-1.034,126.976,S,Asia,Indonesia
-M 7.5,7.5,21-01-2007,11:27:00 AM,6,5,green,0,874,0,21.6,22,1.065,126.282,"Ternate, Indonesia",Asia,Indonesia
-M 8.1,8.1,13-01-2007,4:23:00 AM,4,5,green,0,1034,0,14,10,46.243,154.524,the Kuril Islands,Asia,Russia
-M 6.9,6.9,26-12-2006,12:34:00 PM,6,7,yellow,0,798,0,31.6,10,21.974,120.493,"Hengchun, Taiwan",Asia,Taiwan
-M 7.1,7.1,26-12-2006,12:26:00 PM,8,7,yellow,0,1023,0,29.1,10,21.799,120.547,"Hengchun, Taiwan",Asia,Taiwan
-M 8.3,8.3,15-11-2006,11:14:00 AM,4,7,green,0,1064,0,20.9,10,46.592,153.266,Kuril Islands,Asia,Russia
-M 6.6,6.6,7/11/2006,5:38:00 AM,0,6,green,0,670,0,18.6,11,-6.482,151.195,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,20-10-2006,10:48:00 AM,5,6,green,0,732,0,53.4,23,-13.457,-76.677,"San Vicente de CaĄete, Peru",South America,Peru
-M 6.7,6.7,17-10-2006,1:25:00 AM,5,6,green,0,692,0,15.6,32,-5.881,150.982,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,15-10-2006,5:07:00 PM,8,9,orange,0,1481,0,124,38.182,19.877,-155.935,"Puako, Hawaii",Oceania,United States of America
-M 6.9,6.9,28-09-2006,6:22:00 AM,3,3,green,0,737,0,20.9,28,-16.592,-172.033,"Hihifo, Tonga",Oceania,Tonga
-M 6.8,6.8,1/9/2006,10:18:00 AM,0,6,green,0,711,0,28.4,38,-6.759,155.512,"Panguna, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,24-08-2006,9:50:00 PM,0,6,green,0,650,0,47.4,43,51.148,157.522,"Ozernovskiy, Russia",Asia,Russia
-M 6.8,6.8,7/8/2006,10:18:00 AM,5,5,green,0,713,0,26.2,150,-15.798,167.789,"Norsup, Vanuatu",Oceania,Vanuatu
-M 7.7,7.7,17-07-2006,8:19:00 AM,7,5,green,0,947,0,36.8,20,-9.284,107.419,"Singaparna, Indonesia",Asia,Indonesia
-M 6.5,6.5,28-05-2006,3:12:00 AM,0,6,green,0,650,0,20.3,34,-5.724,151.133,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,22-05-2006,11:12:00 AM,0,7,green,0,670,0,28,19,60.772,165.743,"Tilichiki, Russia",Asia,Russia
-M 6.8,6.8,16-05-2006,3:28:00 PM,4,5,green,0,719,0,16.3,12,0.093,97.05,"Singkil, Indonesia",Asia,Indonesia
-M 8.0,8,3/5/2006,3:26:00 AM,7,7,yellow,0,1013,0,20.7,55,-20.187,-174.123,"Pangai, Tonga",Oceania,Tonga
-M 8.0,8,3/5/2006,3:26:00 AM,8,9,yellow,0,1026,0,0,60.5,-19.99,-173.907,"Pangai, Tonga",Oceania,Tonga
-M 6.5,6.5,30-04-2006,9:40:00 PM,7,7,yellow,0,653,0,46.3,12,-27.211,-71.056,"Copiapó, Chile",South America,Chile
-M 6.7,6.7,30-04-2006,7:17:00 PM,6,7,yellow,0,696,0,25.6,12,-27.017,-71.022,"Copiapó, Chile",South America,Chile
-M 6.6,6.6,29-04-2006,4:58:00 PM,0,8,green,0,670,0,28.4,11,60.491,167.516,"Tilichiki, Russia",Asia,Russia
-M 7.6,7.6,20-04-2006,11:25:00 PM,0,8,green,0,889,0,18.5,22,60.949,167.089,"Tilichiki, Russia",Asia,Russia
-M 6.5,6.5,7/4/2006,8:30:00 AM,3,5,green,0,654,0,25.5,14,-16.527,176.989,"Lautoka, Fiji",Oceania,Fiji
-M 6.7,6.7,14-03-2006,6:57:00 AM,0,7,green,0,691,0,21.3,30.1,-3.595,127.214,"Ambon, Indonesia",Asia,Indonesia
-M 7.0,7,22-02-2006,10:19:00 PM,5,9,green,0,891,0,23.2,11,-21.324,33.583,"Chipinge, Zimbabwe",Africa,Mozambique
-M 6.7,6.7,8/1/2006,11:34:00 AM,7,6,green,0,934,0,19.7,66,36.311,23.212,"Kýthira, Greece",Europe,Greece
-M 6.6,6.6,4/1/2006,8:32:00 AM,7,6,green,0,703,0,48.2,14,28.164,-112.117,"Bahía de Kino, Mexico",North America,Mexico
-M 6.5,6.5,12/12/2005,9:47:00 AM,6,5,green,0,721,0,20.5,224.6,36.357,71.093,"Ashk?sham, Afghanistan",Asia,Afghanistan
-M 6.8,6.8,5/12/2005,12:19:00 PM,5,7,green,0,744,0,20,22,-6.224,29.83,"Kalemie, Democratic Republic",Africa,Tanzania
-M 6.5,6.5,2/12/2005,1:13:00 AM,4,5,green,0,683,0,48.8,29,38.089,142.122,"Ishinomaki, Japan",Asia,Japan
-M 6.5,6.5,19-11-2005,2:10:00 PM,3,6,green,0,651,0,20.7,21,2.164,96.786,"Sinabang, Indonesia",Asia,Indonesia
-M 6.8,6.8,17-11-2005,7:26:00 PM,0,6,green,0,711,0,30.1,147,-22.361,-67.895,"San Pedro de Atacama, Chile",South America,Bolivia
-M 7.6,7.6,8/10/2005,3:50:00 AM,9,9,orange,0,1267,0,21.1,26,34.539,73.588,"Muzaffar?b?d, Pakistan",Asia,Pakistan
-M 6.6,6.6,29-09-2005,3:50:00 PM,0,6,green,0,670,0,17.7,25,-5.437,151.84,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 7.5,7.5,26-09-2005,1:55:00 AM,8,7,yellow,0,1018,0,26.2,115,-5.678,-76.398,"Yurimaguas, Peru",South America,Peru
-M 7.6,7.6,9/9/2005,7:26:00 AM,5,7,green,0,891,0,20,90,-4.539,153.474,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 7.2,7.2,16-08-2005,2:46:00 AM,7,7,yellow,0,1104,0,19.6,36,38.276,142.039,"Ishinomaki, Japan",Asia,Japan
-M 7.2,7.2,24-07-2005,3:42:00 PM,4,5,green,0,808,0,26.4,16,7.92,92.19,"Nicobar Islands, India region",Asia,India
-M 6.7,6.7,5/7/2005,1:52:00 AM,3,6,green,0,693,0,22.3,21,1.819,97.082,"Singkil, Indonesia",Asia,Indonesia
-M 6.6,6.6,2/7/2005,2:16:00 AM,6,5,green,0,719,0,21.1,27,11.245,-86.172,"San Juan del Sur, Nicaragua",Central America,Nicaragua
-M 7.2,7.2,15-06-2005,2:50:00 AM,5,4,green,0,1318,0,31.4,16,41.292,-125.953,"Big Lagoon, California",North America,United States of America
-M 7.8,7.8,13-06-2005,10:44:00 PM,8,7,green,0,1020,0,16.1,115.6,-19.987,-69.197,"Iquique, Chile",South America,Chile
-M 6.9,6.9,19-05-2005,1:54:00 AM,5,7,green,0,740,0,26,30,1.989,97.041,"Singkil, Indonesia",Asia,Indonesia
-M 6.7,6.7,14-05-2005,5:05:00 AM,6,5,green,0,731,0,20.9,34,0.587,98.459,"Padangsidempuan, Indonesia",Asia,Indonesia
-M 6.5,6.5,10/4/2005,11:14:00 AM,3,6,green,0,657,0,21.2,30,-1.714,99.779,"Padang, Indonesia",Asia,Indonesia
-M 6.7,6.7,10/4/2005,10:29:00 AM,5,6,green,0,717,0,21.2,19,-1.644,99.607,"Padang, Indonesia",Asia,Indonesia
-M 8.6,8.6,28-03-2005,4:09:00 PM,0,8,green,0,1138,0,22.1,30,2.085,97.108,"Singkil, Indonesia",Asia,Indonesia
-M 6.6,6.6,20-03-2005,1:53:00 AM,8,7,orange,0,805,0,22.9,10,33.807,130.131,"Maebaru-ch??, Japan",Asia,Japan
+M 6.7,6.7,25/02/2008,9:02:00 PM,5,6,green,0,696,0,15.1,25,-2.245,99.808,Padang- Indonesia,Asia,Indonesia
+M 6.6,6.6,25/02/2008,6:06:00 PM,4,6,green,0,674,0,17.7,25,-2.332,99.891,Padang- Indonesia,Asia,Indonesia
+M 7.2,7.2,25/02/2008,8:36:00 AM,4,7,green,0,832,0,18.4,25,-2.486,99.972,Sungai Penuh- Indonesia,Asia,Indonesia
+M 6.5,6.5,24/02/2008,2:46:00 PM,4,6,green,0,654,0,28.3,22,-2.405,99.931,Sungai Penuh- Indonesia,Asia,Indonesia
+M 7.4,7.4,20/02/2008,8:08:00 AM,5,7,green,0,914,0,16.4,26,2.768,95.964,Sinabang- Indonesia,Asia,Indonesia
+M 6.5,6.5,14/02/2008,12:08:00 PM,8,5,green,0,692,0,30.7,28,36.345,21.863,Koróni- Greece,Europe,Greece
+M 6.9,6.9,14/02/2008,10:09:00 AM,6,6,yellow,0,941,0,30.6,29,36.501,21.67,Methóni- Greece,Europe,Greece
+M 6.5,6.5,12/2/2008,12:50:00 PM,7,6,green,0,723,0,27.6,83,16.357,-94.304,General Pascual Fentes- Mexico,North America,Mexico
+M 6.6,6.6,20/12/2007,7:55:00 AM,7,6,green,0,808,0,18.8,20,-39.011,178.291,Gisborne- New Zealand,Oceania,New Zealand
+M 6.7,6.7,16/12/2007,8:09:00 AM,5,7,green,0,704,0,30.3,45,-22.954,-70.182,Ant,South America,Chile
+M 7.4,7.4,29/11/2007,7:00:00 PM,7,7,yellow,0,1542,0,13.4,156,14.944,-61.274,Basse-Pointe- Martinique,Central America,Martinique
+M 6.6,6.6,27/11/2007,11:49:00 AM,3,6,green,0,672,0,26.9,16,-10.95,162.149,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,25/11/2007,7:53:00 PM,5,7,yellow,0,653,0,27.6,18,-8.224,118.467,Dompu- Indonesia,Asia,Indonesia
+M 6.5,6.5,25/11/2007,4:02:00 PM,7,7,yellow,0,657,0,27.5,20,-8.292,118.37,Dompu- Indonesia,Asia,Indonesia
+M 6.8,6.8,22/11/2007,8:48:00 AM,6,6,yellow,0,722,0,15.9,53,-5.757,147.098,Lae- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,16/11/2007,3:13:00 AM,7,6,green,0,790,0,27,122.9,-2.312,-77.838,Macas- Ecuador,South America,Ecuador
+M 6.8,6.8,15/11/2007,3:05:00 PM,6,7,yellow,0,716,0,40.1,26,-22.925,-70.237,Ant,South America,Chile
+M 7.7,7.7,14/11/2007,3:40:00 PM,8,7,green,0,995,0,22.4,40,-22.247,-69.89,Tocopilla- Chile,South America,Chile
+M 6.8,6.8,24/10/2007,9:02:00 PM,3,5,green,0,713,0,23.9,21,-3.899,101.02,Bengkulu- Indonesia,Asia,Indonesia
+M 6.8,6.8,15/10/2007,12:29:00 PM,4,7,green,0,744,0,19,18,-44.796,167.553,Te Anau- New Zealand,Oceania,New Zealand
+M 6.8,6.8,26/09/2007,12:36:00 PM,4,5,green,0,713,0,15.5,40,-4.99,153.5,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,20/09/2007,8:31:00 AM,3,5,green,0,696,0,26.9,30,-1.999,100.141,Padang- Indonesia,Asia,Indonesia
+M 7.0,7,13/09/2007,3:35:00 AM,4,7,green,0,768,0,23.1,22,-2.13,99.627,Padang- Indonesia,Asia,Indonesia
+M 6.5,6.5,13/09/2007,2:30:00 AM,0,5,green,0,650,0,26.2,28.9,-1.689,99.668,Kepulauan Mentawai region- Indonesia,Asia,Indonesia
+M 7.9,7.9,12/9/2007,11:49:00 AM,8,7,yellow,0,1133,0,29.1,35,-2.625,100.841,Sungai Penuh- Indonesia,Asia,Indonesia
+M 7.8,7.8,12/9/2007,11:49:00 AM,7,8,green,0,1152,0,0,40.5,-2.52,100.139,Sungai Penuh- Indonesia,Asia,Indonesia
+M 8.4,8.4,12/9/2007,11:10:00 AM,0,6,green,0,1086,0,32.3,34,-4.438,101.367,Bengkulu- Indonesia,Asia,Indonesia
+M 6.8,6.8,10/9/2007,1:49:00 AM,5,6,green,0,747,0,17.6,15,2.966,-77.963,Timbiquí- Colombia,South America,Colombia
+M 7.2,7.2,2/9/2007,1:05:00 AM,0,5,green,0,798,0,21.3,35,-11.61,165.762,Lata- Solomon Islands,Oceania,Solomon Islands
+M 6.5,6.5,16/08/2007,8:39:00 AM,5,6,green,0,675,0,12.8,15,-9.834,159.465,Malango- Solomon Islands,Oceania,Solomon Islands
+M 8.0,8,15/08/2007,11:40:00 PM,9,8,yellow,0,1385,0,25.7,39,-13.386,-76.603,San Vicente de CaĄete- Peru,South America,Peru
+M 7.5,7.5,8/8/2007,5:05:00 AM,0,5,green,0,865,0,30.7,280,-5.859,107.419,Rengasdengklok- Indonesia,Asia,Indonesia
+M 7.2,7.2,1/8/2007,5:08:00 AM,7,7,yellow,0,803,0,20.4,120,-15.595,167.68,Luganville- Vanuatu,Oceania,Vanuatu
+M 6.9,6.9,26/07/2007,5:40:00 AM,3,5,green,0,734,0,24.1,25,2.872,127.464,Tobelo- Indonesia,Asia,Indonesia
+M 6.8,6.8,16/07/2007,2:17:00 PM,5,4,green,0,779,0,18.2,350.4,36.808,134.85,Mikuni- Japan,Asia,Japan
+M 6.6,6.6,16/07/2007,1:13:00 AM,8,8,orange,0,831,0,16.7,12,37.535,138.446,Kashiwazaki- Japan,Asia,Japan
+M 6.7,6.7,13/06/2007,7:29:00 PM,6,6,green,0,972,0,37.7,23,13.554,-90.618,Iztapa- Guatemala,Central America,Guatemala
+M 6.9,6.9,1/4/2007,9:11:00 AM,0,7,green,0,732,0,15.3,10,-7.306,155.741,Panguna- Papua New Guinea,Oceania,Solomon Islands
+M 6.6,6.6,1/4/2007,8:47:00 AM,0,7,green,0,670,0,16,10,-7.169,155.777,Panguna- Papua New Guinea,Oceania,Solomon Islands
+M 8.1,8.1,1/4/2007,8:39:00 AM,9,8,yellow,0,1025,0,14.7,24,-8.466,157.043,Gizo- Solomon Islands,Oceania,Solomon Islands
+M 6.7,6.7,25/03/2007,12:41:00 AM,7,8,yellow,0,782,0,23.9,8,37.336,136.588,Nanao- Japan,Asia,Japan
+M 7.1,7.1,25/03/2007,12:40:00 AM,3,6,green,0,779,0,25.3,34,-20.617,169.357,Isangel- Vanuatu,Oceania,Vanuatu
+M 6.7,6.7,20/02/2007,8:04:00 AM,0,6,green,0,691,0,40.3,12,-1.034,126.976,S,Asia,Indonesia
+M 7.5,7.5,21/01/2007,11:27:00 AM,6,5,green,0,874,0,21.6,22,1.065,126.282,Ternate- Indonesia,Asia,Indonesia
+M 8.1,8.1,13/01/2007,4:23:00 AM,4,5,green,0,1034,0,14,10,46.243,154.524,the Kuril Islands,Asia,Russia
+M 6.9,6.9,26/12/2006,12:34:00 PM,6,7,yellow,0,798,0,31.6,10,21.974,120.493,Hengchun- Taiwan,Asia,Taiwan
+M 7.1,7.1,26/12/2006,12:26:00 PM,8,7,yellow,0,1023,0,29.1,10,21.799,120.547,Hengchun- Taiwan,Asia,Taiwan
+M 8.3,8.3,15/11/2006,11:14:00 AM,4,7,green,0,1064,0,20.9,10,46.592,153.266,Kuril Islands,Asia,Russia
+M 6.6,6.6,7/11/2006,5:38:00 AM,0,6,green,0,670,0,18.6,11,-6.482,151.195,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,20/10/2006,10:48:00 AM,5,6,green,0,732,0,53.4,23,-13.457,-76.677,San Vicente de CaĄete- Peru,South America,Peru
+M 6.7,6.7,17/10/2006,1:25:00 AM,5,6,green,0,692,0,15.6,32,-5.881,150.982,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,15/10/2006,5:07:00 PM,8,9,orange,0,1481,0,124,38.182,19.877,-155.935,Puako- Hawaii,Oceania,United States of America
+M 6.9,6.9,28/09/2006,6:22:00 AM,3,3,green,0,737,0,20.9,28,-16.592,-172.033,Hihifo- Tonga,Oceania,Tonga
+M 6.8,6.8,1/9/2006,10:18:00 AM,0,6,green,0,711,0,28.4,38,-6.759,155.512,Panguna- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,24/08/2006,9:50:00 PM,0,6,green,0,650,0,47.4,43,51.148,157.522,Ozernovskiy- Russia,Asia,Russia
+M 6.8,6.8,7/8/2006,10:18:00 AM,5,5,green,0,713,0,26.2,150,-15.798,167.789,Norsup- Vanuatu,Oceania,Vanuatu
+M 7.7,7.7,17/07/2006,8:19:00 AM,7,5,green,0,947,0,36.8,20,-9.284,107.419,Singaparna- Indonesia,Asia,Indonesia
+M 6.5,6.5,28/05/2006,3:12:00 AM,0,6,green,0,650,0,20.3,34,-5.724,151.133,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,22/05/2006,11:12:00 AM,0,7,green,0,670,0,28,19,60.772,165.743,Tilichiki- Russia,Asia,Russia
+M 6.8,6.8,16/05/2006,3:28:00 PM,4,5,green,0,719,0,16.3,12,0.093,97.05,Singkil- Indonesia,Asia,Indonesia
+M 8.0,8,3/5/2006,3:26:00 AM,7,7,yellow,0,1013,0,20.7,55,-20.187,-174.123,Pangai- Tonga,Oceania,Tonga
+M 8.0,8,3/5/2006,3:26:00 AM,8,9,yellow,0,1026,0,0,60.5,-19.99,-173.907,Pangai- Tonga,Oceania,Tonga
+M 6.5,6.5,30/04/2006,9:40:00 PM,7,7,yellow,0,653,0,46.3,12,-27.211,-71.056,Copiapó- Chile,South America,Chile
+M 6.7,6.7,30/04/2006,7:17:00 PM,6,7,yellow,0,696,0,25.6,12,-27.017,-71.022,Copiapó- Chile,South America,Chile
+M 6.6,6.6,29/04/2006,4:58:00 PM,0,8,green,0,670,0,28.4,11,60.491,167.516,Tilichiki- Russia,Asia,Russia
+M 7.6,7.6,20/04/2006,11:25:00 PM,0,8,green,0,889,0,18.5,22,60.949,167.089,Tilichiki- Russia,Asia,Russia
+M 6.5,6.5,7/4/2006,8:30:00 AM,3,5,green,0,654,0,25.5,14,-16.527,176.989,Lautoka- Fiji,Oceania,Fiji
+M 6.7,6.7,14/03/2006,6:57:00 AM,0,7,green,0,691,0,21.3,30.1,-3.595,127.214,Ambon- Indonesia,Asia,Indonesia
+M 7.0,7,22/02/2006,10:19:00 PM,5,9,green,0,891,0,23.2,11,-21.324,33.583,Chipinge- Zimbabwe,Africa,Mozambique
+M 6.7,6.7,8/1/2006,11:34:00 AM,7,6,green,0,934,0,19.7,66,36.311,23.212,Kýthira- Greece,Europe,Greece
+M 6.6,6.6,4/1/2006,8:32:00 AM,7,6,green,0,703,0,48.2,14,28.164,-112.117,Bahía de Kino- Mexico,North America,Mexico
+M 6.5,6.5,12/12/2005,9:47:00 AM,6,5,green,0,721,0,20.5,224.6,36.357,71.093,Ashk?sham- Afghanistan,Asia,Afghanistan
+M 6.8,6.8,5/12/2005,12:19:00 PM,5,7,green,0,744,0,20,22,-6.224,29.83,Kalemie- Democratic Republic,Africa,Tanzania
+M 6.5,6.5,2/12/2005,1:13:00 AM,4,5,green,0,683,0,48.8,29,38.089,142.122,Ishinomaki- Japan,Asia,Japan
+M 6.5,6.5,19/11/2005,2:10:00 PM,3,6,green,0,651,0,20.7,21,2.164,96.786,Sinabang- Indonesia,Asia,Indonesia
+M 6.8,6.8,17/11/2005,7:26:00 PM,0,6,green,0,711,0,30.1,147,-22.361,-67.895,San Pedro de Atacama- Chile,South America,Bolivia
+M 7.6,7.6,8/10/2005,3:50:00 AM,9,9,orange,0,1267,0,21.1,26,34.539,73.588,Muzaffar?b?d- Pakistan,Asia,Pakistan
+M 6.6,6.6,29/09/2005,3:50:00 PM,0,6,green,0,670,0,17.7,25,-5.437,151.84,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 7.5,7.5,26/09/2005,1:55:00 AM,8,7,yellow,0,1018,0,26.2,115,-5.678,-76.398,Yurimaguas- Peru,South America,Peru
+M 7.6,7.6,9/9/2005,7:26:00 AM,5,7,green,0,891,0,20,90,-4.539,153.474,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 7.2,7.2,16/08/2005,2:46:00 AM,7,7,yellow,0,1104,0,19.6,36,38.276,142.039,Ishinomaki- Japan,Asia,Japan
+M 7.2,7.2,24/07/2005,3:42:00 PM,4,5,green,0,808,0,26.4,16,7.92,92.19,Nicobar Islands- India region,Asia,India
+M 6.7,6.7,5/7/2005,1:52:00 AM,3,6,green,0,693,0,22.3,21,1.819,97.082,Singkil- Indonesia,Asia,Indonesia
+M 6.6,6.6,2/7/2005,2:16:00 AM,6,5,green,0,719,0,21.1,27,11.245,-86.172,San Juan del Sur- Nicaragua,Central America,Nicaragua
+M 7.2,7.2,15/06/2005,2:50:00 AM,5,4,green,0,1318,0,31.4,16,41.292,-125.953,Big Lagoon- California,North America,United States of America
+M 7.8,7.8,13/06/2005,10:44:00 PM,8,7,green,0,1020,0,16.1,115.6,-19.987,-69.197,Iquique- Chile,South America,Chile
+M 6.9,6.9,19/05/2005,1:54:00 AM,5,7,green,0,740,0,26,30,1.989,97.041,Singkil- Indonesia,Asia,Indonesia
+M 6.7,6.7,14/05/2005,5:05:00 AM,6,5,green,0,731,0,20.9,34,0.587,98.459,Padangsidempuan- Indonesia,Asia,Indonesia
+M 6.5,6.5,10/4/2005,11:14:00 AM,3,6,green,0,657,0,21.2,30,-1.714,99.779,Padang- Indonesia,Asia,Indonesia
+M 6.7,6.7,10/4/2005,10:29:00 AM,5,6,green,0,717,0,21.2,19,-1.644,99.607,Padang- Indonesia,Asia,Indonesia
+M 8.6,8.6,28/03/2005,4:09:00 PM,0,8,green,0,1138,0,22.1,30,2.085,97.108,Singkil- Indonesia,Asia,Indonesia
+M 6.6,6.6,20/03/2005,1:53:00 AM,8,7,orange,0,805,0,22.9,10,33.807,130.131,Maebaru-ch??- Japan,Asia,Japan
 M 7.1,7.1,2/3/2005,10:42:00 AM,0,5,green,0,776,0,18.1,201.7,-6.527,129.933,Banda Sea,Asia,Indonesia
-M 6.8,6.8,26-02-2005,12:56:00 PM,0,6,green,0,711,0,33.8,36,2.908,95.592,"Sinabang, Indonesia",Asia,Indonesia
-M 6.5,6.5,19-02-2005,12:04:00 AM,0,7,green,0,650,0,31.8,10,-5.562,122.129,"Katabu, Indonesia",Asia,Indonesia
-M 6.5,6.5,15-02-2005,2:42:00 PM,3,5,green,0,652,0,47.3,39.7,4.756,126.421,"Pulau-Pulau Talaud, Indonesia",Asia,Indonesia
-M 6.7,6.7,8/2/2005,2:48:00 AM,0,4,green,0,691,0,30.2,206.3,-14.252,167.259,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.1,7.1,5/2/2005,12:23:00 PM,7,3,green,0,782,0,26.4,525,5.293,123.337,"Palimbang, Philippines",Asia,Philippines
-M 6.6,6.6,19-01-2005,6:11:00 AM,6,4,green,0,676,0,78.5,27.8,34.064,141.491,"Katsuura, Japan",Asia,Japan
-M 6.6,6.6,26-12-2004,9:20:00 AM,0,5,green,0,670,0,31.9,16.1,8.879,92.375,"Nicobar Islands, India region",Asia,India
-M 7.2,7.2,26-12-2004,4:21:00 AM,5,6,green,0,802,0,27.9,39.2,6.91,92.958,"Sabang, Indonesia",Asia,Indonesia
-M 9.1,9.1,26-12-2004,12:58:00 AM,0,8,green,0,1274,0,22,30,3.295,95.982,2004 Sumatra - Andaman Islands Earthquake,Asia,Indonesia
-M 8.1,8.1,23-12-2004,2:59:00 PM,0,5,green,0,1009,0,59.3,10,-49.312,161.345,Macquarie Island,Oceania,New Zealand
-M 6.8,6.8,14-12-2004,11:20:00 PM,5,6,green,0,858,0,21.8,10,18.958,-81.409,"George Town, Cayman Islands",Central America,Cayman Islands
-M 6.8,6.8,6/12/2004,2:15:00 AM,4,7,green,0,724,0,23.6,35,42.9,145.228,"Nemuro, Japan",Asia,Japan
-M 7.0,7,28-11-2004,6:32:00 PM,4,7,green,0,771,0,23.9,39,43.006,145.119,"Nemuro, Japan",Asia,Japan
-M 7.1,7.1,26-11-2004,2:25:00 AM,0,7,green,0,776,0,28.8,10,-3.609,135.404,"Nabire, Indonesia",Asia,Indonesia
-M 7.1,7.1,22-11-2004,8:26:00 PM,5,5,green,0,782,0,14.7,10,-46.676,164.721,"Riverton, New Zealand",Oceania,New Zealand
-M 7.2,7.2,15-11-2004,9:06:00 AM,8,8,yellow,0,820,0,50.2,15,4.695,-77.508,"Pizarro, Colombia",South America,Colombia
-M 7.5,7.5,11/11/2004,9:26:00 AM,5,7,green,0,870,0,33.8,10,-8.152,124.868,"Maubara, Timor Leste",Oceania,Indonesia
-M 6.7,6.7,11/11/2004,5:34:00 AM,0,6,green,0,691,0,21.5,10,-11.128,162.208,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.7,6.7,2/11/2004,10:02:00 AM,7,4,green,0,703,0,37.3,10,49.277,-128.772,"Port McNeill, Canada",North America,Canada
-M 6.6,6.6,22-11-2022,2:04:00 AM,0,8,green,0,670,0,37,16,37.226,138.779,"Ojiya, Japan",Asia,Japan
-M 6.7,6.7,18-11-2022,1:38:00 PM,5,6,green,0,705,0,24.7,94,24.53,122.694,"Yonakuni, Japan",Asia,Japan
-M 7.0,7,11/11/2022,10:48:00 AM,0,6,green,0,754,0,32.2,35,11.422,-86.665,"Masachapa, Nicaragua",Central America,Nicaragua
-M 6.5,6.5,9/11/2022,9:51:00 AM,5,5,green,0,665,0,18.3,105,13.925,120.534,"Talisay, Philippines",Asia,Philippines
-M 6.8,6.8,9/11/2022,9:38:00 AM,0,6,green,0,711,0,15.7,36,-10.951,162.161,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.6,6.6,20-10-2022,11:58:00 AM,0,4,green,0,670,0,29.8,10,33.205,137.227,"Shing?, Japan",Asia,Japan
-M 7.4,7.4,22-09-2022,6:17:00 AM,0,5,green,0,842,0,27.5,10,33.184,137.071,"Shing?, Japan",Asia,Japan
-M 7.2,7.2,19-09-2022,6:06:00 PM,0,5,green,0,798,0,28.4,14,33.07,136.618,"Shing?, Japan",Asia,Japan
-M 6.5,6.5,18-09-2022,6:45:00 AM,0,7,green,0,650,0,30.1,5,-35.173,-70.525,"Teno, Chile",South America,Chile
-M 6.5,6.5,17-09-2022,1:42:00 PM,0,7,green,0,650,0,39,13.4,-0.443,133.091,"Manokwari, Indonesia",Asia,Indonesia
-M 6.9,6.9,14-09-2022,11:05:00 AM,0,5,green,0,732,0,31.2,188.6,55.682,160.003,"Atlasovo, Russia",Asia,Russia
-M 6.6,6.6,12/8/2021,9:57:00 AM,0,7,green,0,670,0,46.9,21,-37.695,-73.406,"CaĄete, Chile",South America,Chile
-M 6.7,6.7,7/7/2021,3:02:00 AM,0,5,green,0,691,0,27.6,65.8,-9.362,122.839,"Naisano Dua, Indonesia",Asia,Indonesia
-M 6.5,6.5,14-08-2022,1:45:00 PM,0,4,green,0,650,0,29.9,228.4,-13.174,167.198,"Sola, Vanuatu",Oceania,Vanuatu
-M 6.6,6.6,27-07-2022,12:44:00 AM,0,4,green,0,670,0,18.3,187.1,36.512,71.029,Afghanistan-Tajikistan-Pakistan region,Asia,Afghanistan
-M 6.7,6.7,8/7/2022,12:55:00 PM,0,7,green,0,691,0,33.3,25.7,-3.665,135.339,"Nabire, Indonesia",Asia,Indonesia
-M 7.3,7.3,26-05-2022,12:03:00 PM,0,7,green,0,820,0,23,10,-4.003,135.023,"Papua, Indonesia",Asia,Indonesia
-M 7.0,7,10/6/2022,11:06:00 AM,0,7,green,0,754,0,33,16.6,-3.615,135.538,"Nabire, Indonesia",Asia,Indonesia
-M 6.7,6.7,21-04-2022,7:43:00 AM,0,6,green,0,691,0,42.5,17.4,-3.12,127.4,"Ambon, Indonesia",Asia,Indonesia
-M 7.3,7.3,31-03-2022,5:45:00 AM,0,4,green,0,820,0,46.6,10,-22.015,169.766,"Tadine, New Caledonia",Oceania,New Caledonia
-M 6.6,6.6,30-03-2022,8:57:00 PM,0,9,green,0,670,0,44.8,10,28.995,58.311,"Bam, Iran",Asia,Iran
-M 6.5,6.5,22-03-2022,5:42:00 PM,0,6,green,0,650,0,48.4,33,8.416,-82.824,"Progreso, Panama",Central America,Panama
-M 6.5,6.5,16-03-2022,2:37:00 PM,7,9,yellow,0,1390,0.04685,71,8.382,35.7005,-121.101,"San Simeon, California",North America,United States of America
-M 6.8,6.8,13-03-2022,9:10:00 PM,0,7,green,0,711,0,27.7,10,23.039,121.362,"Yujing, Taiwan",Asia,Taiwan
-M 6.6,6.6,2/4/2022,12:52:00 PM,0,6,green,0,670,0,25.1,35,-5.581,150.88,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,16-02-2022,8:22:00 PM,0,6,green,0,650,0,45.9,35,12.025,125.416,"Can-Avid, Philippines",Asia,Philippines
-M 6.6,6.6,3/3/2022,3:58:00 AM,0,5,green,0,670,0,26.2,113.7,-19.262,168.892,"Isangel, Vanuatu",Oceania,Vanuatu
-M 7.0,7,29-01-2022,2:47:00 AM,0,5,green,0,754,0,61.2,10,37.812,142.619,"Ishinomaki, Japan",Asia,Japan
-M 6.7,6.7,14-01-2022,9:06:00 AM,0,6,green,0,691,0,55.4,32,42.648,144.57,"Kushiro, Japan",Asia,Japan
-M 6.7,6.7,11/1/2022,12:39:00 PM,0,7,green,0,691,0,24.5,10,50.211,87.721,"Aktash, Russia",Asia,Russia
-M 6.5,6.5,11/1/2022,12:39:00 PM,0,5,green,0,650,0,71.3,25,42.45,144.38,"Kushiro, Japan",Asia,Japan
-M 7.3,7.3,11/1/2022,12:39:00 PM,0,7,green,0,820,0,24.5,16,50.038,87.813,"Aktash, Russia",Asia,Russia
-M 7.4,7.4,11/1/2022,11:35:00 AM,0,7,green,0,842,0,78.8,33,41.774,143.593,"Shizunai-furukawach?, Japan",Asia,Japan
-M 8.2,8.16,11/1/2022,11:35:00 AM,0,9,green,0,1024,0,0,27,41.815,143.91,"Kushiro, Japan",Asia,Japan
-M 6.6,6.6,11/1/2022,11:35:00 AM,0,7,green,0,670,0,24.7,10,19.917,95.672,"Taungdwingyi, Myanmar",Asia,Myanmar
-M 7.2,7.2,11/1/2022,1:07:00 AM,0,7,green,0,798,0,17.5,28,-45.104,167.144,"Te Anau, New Zealand",Oceania,New Zealand
+M 6.8,6.8,26/02/2005,12:56:00 PM,0,6,green,0,711,0,33.8,36,2.908,95.592,Sinabang- Indonesia,Asia,Indonesia
+M 6.5,6.5,19/02/2005,12:04:00 AM,0,7,green,0,650,0,31.8,10,-5.562,122.129,Katabu- Indonesia,Asia,Indonesia
+M 6.5,6.5,15/02/2005,2:42:00 PM,3,5,green,0,652,0,47.3,39.7,4.756,126.421,Pulau-Pulau Talaud- Indonesia,Asia,Indonesia
+M 6.7,6.7,8/2/2005,2:48:00 AM,0,4,green,0,691,0,30.2,206.3,-14.252,167.259,Sola- Vanuatu,Oceania,Vanuatu
+M 7.1,7.1,5/2/2005,12:23:00 PM,7,3,green,0,782,0,26.4,525,5.293,123.337,Palimbang- Philippines,Asia,Philippines
+M 6.6,6.6,19/01/2005,6:11:00 AM,6,4,green,0,676,0,78.5,27.8,34.064,141.491,Katsuura- Japan,Asia,Japan
+M 6.6,6.6,26/12/2004,9:20:00 AM,0,5,green,0,670,0,31.9,16.1,8.879,92.375,Nicobar Islands- India region,Asia,India
+M 7.2,7.2,26/12/2004,4:21:00 AM,5,6,green,0,802,0,27.9,39.2,6.91,92.958,Sabang- Indonesia,Asia,Indonesia
+M 9.1,9.1,26/12/2004,12:58:00 AM,0,8,green,0,1274,0,22,30,3.295,95.982,2004 Sumatra - Andaman Islands Earthquake,Asia,Indonesia
+M 8.1,8.1,23/12/2004,2:59:00 PM,0,5,green,0,1009,0,59.3,10,-49.312,161.345,Macquarie Island,Oceania,New Zealand
+M 6.8,6.8,14/12/2004,11:20:00 PM,5,6,green,0,858,0,21.8,10,18.958,-81.409,George Town- Cayman Islands,Central America,Cayman Islands
+M 6.8,6.8,6/12/2004,2:15:00 AM,4,7,green,0,724,0,23.6,35,42.9,145.228,Nemuro- Japan,Asia,Japan
+M 7.0,7,28/11/2004,6:32:00 PM,4,7,green,0,771,0,23.9,39,43.006,145.119,Nemuro- Japan,Asia,Japan
+M 7.1,7.1,26/11/2004,2:25:00 AM,0,7,green,0,776,0,28.8,10,-3.609,135.404,Nabire- Indonesia,Asia,Indonesia
+M 7.1,7.1,22/11/2004,8:26:00 PM,5,5,green,0,782,0,14.7,10,-46.676,164.721,Riverton- New Zealand,Oceania,New Zealand
+M 7.2,7.2,15/11/2004,9:06:00 AM,8,8,yellow,0,820,0,50.2,15,4.695,-77.508,Pizarro- Colombia,South America,Colombia
+M 7.5,7.5,11/11/2004,9:26:00 AM,5,7,green,0,870,0,33.8,10,-8.152,124.868,Maubara- Timor Leste,Oceania,Indonesia
+M 6.7,6.7,11/11/2004,5:34:00 AM,0,6,green,0,691,0,21.5,10,-11.128,162.208,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.7,6.7,2/11/2004,10:02:00 AM,7,4,green,0,703,0,37.3,10,49.277,-128.772,Port McNeill- Canada,North America,Canada
+M 6.6,6.6,22/11/2022,2:04:00 AM,0,8,green,0,670,0,37,16,37.226,138.779,Ojiya- Japan,Asia,Japan
+M 6.7,6.7,18/11/2022,1:38:00 PM,5,6,green,0,705,0,24.7,94,24.53,122.694,Yonakuni- Japan,Asia,Japan
+M 7.0,7,11/11/2022,10:48:00 AM,0,6,green,0,754,0,32.2,35,11.422,-86.665,Masachapa- Nicaragua,Central America,Nicaragua
+M 6.5,6.5,9/11/2022,9:51:00 AM,5,5,green,0,665,0,18.3,105,13.925,120.534,Talisay- Philippines,Asia,Philippines
+M 6.8,6.8,9/11/2022,9:38:00 AM,0,6,green,0,711,0,15.7,36,-10.951,162.161,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.6,6.6,20/10/2022,11:58:00 AM,0,4,green,0,670,0,29.8,10,33.205,137.227,Shing?- Japan,Asia,Japan
+M 7.4,7.4,22/09/2022,6:17:00 AM,0,5,green,0,842,0,27.5,10,33.184,137.071,Shing?- Japan,Asia,Japan
+M 7.2,7.2,19/09/2022,6:06:00 PM,0,5,green,0,798,0,28.4,14,33.07,136.618,Shing?- Japan,Asia,Japan
+M 6.5,6.5,18/09/2022,6:45:00 AM,0,7,green,0,650,0,30.1,5,-35.173,-70.525,Teno- Chile,South America,Chile
+M 6.5,6.5,17/09/2022,1:42:00 PM,0,7,green,0,650,0,39,13.4,-0.443,133.091,Manokwari- Indonesia,Asia,Indonesia
+M 6.9,6.9,14/09/2022,11:05:00 AM,0,5,green,0,732,0,31.2,188.6,55.682,160.003,Atlasovo- Russia,Asia,Russia
+M 6.6,6.6,12/8/2021,9:57:00 AM,0,7,green,0,670,0,46.9,21,-37.695,-73.406,CaĄete- Chile,South America,Chile
+M 6.7,6.7,7/7/2021,3:02:00 AM,0,5,green,0,691,0,27.6,65.8,-9.362,122.839,Naisano Dua- Indonesia,Asia,Indonesia
+M 6.5,6.5,14/08/2022,1:45:00 PM,0,4,green,0,650,0,29.9,228.4,-13.174,167.198,Sola- Vanuatu,Oceania,Vanuatu
+M 6.6,6.6,27/07/2022,12:44:00 AM,0,4,green,0,670,0,18.3,187.1,36.512,71.029,Afghanistan-Tajikistan-Pakistan region,Asia,Afghanistan
+M 6.7,6.7,8/7/2022,12:55:00 PM,0,7,green,0,691,0,33.3,25.7,-3.665,135.339,Nabire- Indonesia,Asia,Indonesia
+M 7.3,7.3,26/05/2022,12:03:00 PM,0,7,green,0,820,0,23,10,-4.003,135.023,Papua- Indonesia,Asia,Indonesia
+M 7.0,7,10/6/2022,11:06:00 AM,0,7,green,0,754,0,33,16.6,-3.615,135.538,Nabire- Indonesia,Asia,Indonesia
+M 6.7,6.7,21/04/2022,7:43:00 AM,0,6,green,0,691,0,42.5,17.4,-3.12,127.4,Ambon- Indonesia,Asia,Indonesia
+M 7.3,7.3,31/03/2022,5:45:00 AM,0,4,green,0,820,0,46.6,10,-22.015,169.766,Tadine- New Caledonia,Oceania,New Caledonia
+M 6.6,6.6,30/03/2022,8:57:00 PM,0,9,green,0,670,0,44.8,10,28.995,58.311,Bam- Iran,Asia,Iran
+M 6.5,6.5,22/03/2022,5:42:00 PM,0,6,green,0,650,0,48.4,33,8.416,-82.824,Progreso- Panama,Central America,Panama
+M 6.5,6.5,16/03/2022,2:37:00 PM,7,9,yellow,0,1390,0.04685,71,8.382,35.7005,-121.101,San Simeon- California,North America,United States of America
+M 6.8,6.8,13/03/2022,9:10:00 PM,0,7,green,0,711,0,27.7,10,23.039,121.362,Yujing- Taiwan,Asia,Taiwan
+M 6.6,6.6,2/4/2022,12:52:00 PM,0,6,green,0,670,0,25.1,35,-5.581,150.88,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,16/02/2022,8:22:00 PM,0,6,green,0,650,0,45.9,35,12.025,125.416,Can-Avid- Philippines,Asia,Philippines
+M 6.6,6.6,3/3/2022,3:58:00 AM,0,5,green,0,670,0,26.2,113.7,-19.262,168.892,Isangel- Vanuatu,Oceania,Vanuatu
+M 7.0,7,29/01/2022,2:47:00 AM,0,5,green,0,754,0,61.2,10,37.812,142.619,Ishinomaki- Japan,Asia,Japan
+M 6.7,6.7,14/01/2022,9:06:00 AM,0,6,green,0,691,0,55.4,32,42.648,144.57,Kushiro- Japan,Asia,Japan
+M 6.7,6.7,11/1/2022,12:39:00 PM,0,7,green,0,691,0,24.5,10,50.211,87.721,Aktash- Russia,Asia,Russia
+M 6.5,6.5,11/1/2022,12:39:00 PM,0,5,green,0,650,0,71.3,25,42.45,144.38,Kushiro- Japan,Asia,Japan
+M 7.3,7.3,11/1/2022,12:39:00 PM,0,7,green,0,820,0,24.5,16,50.038,87.813,Aktash- Russia,Asia,Russia
+M 7.4,7.4,11/1/2022,11:35:00 AM,0,7,green,0,842,0,78.8,33,41.774,143.593,Shizunai-furukawach?- Japan,Asia,Japan
+M 8.2,8.16,11/1/2022,11:35:00 AM,0,9,green,0,1024,0,0,27,41.815,143.91,Kushiro- Japan,Asia,Japan
+M 6.6,6.6,11/1/2022,11:35:00 AM,0,7,green,0,670,0,24.7,10,19.917,95.672,Taungdwingyi- Myanmar,Asia,Myanmar
+M 7.2,7.2,11/1/2022,1:07:00 AM,0,7,green,0,798,0,17.5,28,-45.104,167.144,Te Anau- New Zealand,Oceania,New Zealand
 M 7.6,7.6,7/1/2022,5:45:00 AM,0,6,green,0,889,0,25.2,10,-60.532,-43.411,Scotia Sea,Europe,United Kingdom of Great Britain and Northern Ireland (the)
-M 6.5,6.5,29-12-2021,6:26:00 PM,0,6,green,0,650,0,31.4,33,-3.828,152.174,"Rabaul, Papua New Guinea",Oceania,Papua New Guinea
-M 6.8,6.8,14-12-2021,3:21:00 AM,0,7,green,0,711,0,39.1,33,-30.608,-71.637,"Ovalle, Chile",South America,Chile
-M 6.9,6.9,28-11-2021,10:53:00 AM,0,5,green,0,732,0,26.7,174.8,55.492,159.999,"Atlasovo, Russia",Asia,Russia
-M 6.6,6.6,10/11/2021,3:45:00 AM,0,6,green,0,670,0,27.8,33,-5.095,152.502,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 7.0,7,11/10/2021,9:10:00 AM,0,6,green,0,754,0,30.3,31,2.354,128.855,"Tobelo, Indonesia",Asia,Indonesia
-M 7.0,7,9/10/2021,10:58:00 AM,0,7,green,0,754,0,19.1,68,38.849,141.568,"?funato, Japan",Asia,Japan
-M 6.8,6.8,2/10/2021,6:29:00 AM,0,9,green,0,711,0,19.4,12,36.964,3.634,"Dellys, Algeria",Africa,Algeria
-M 6.5,6.5,22-09-2021,9:58:00 AM,0,7,green,0,650,0,28.7,33,-8.294,120.743,"Ruteng, Indonesia",Asia,Indonesia
-M 6.8,6.8,8/10/2021,1:47:00 AM,0,7,green,0,711,0,38.4,40.2,-4.694,153.238,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 7.6,7.6,22-08-2021,9:34:00 PM,0,7,green,0,889,0,0,24,18.77,-104.104,"Cuyutlán, Mexico",North America,Mexico
-M 6.5,6.5,22-08-2021,12:46:00 AM,0,6,green,0,650,0,0,24,13.626,-90.774,"Puerto San José, Guatemala",Central America,Guatemala
-M 7.3,7.3,18-08-2021,10:11:00 AM,0,6,green,0,820,0,0,33,-10.491,160.77,"Kirakira, Solomon Islands",Oceania,Solomon Islands
-M 6.7,6.7,16-08-2021,11:11:00 AM,0,5,green,0,691,0,0,71.9,-5.311,153.701,"Kokopo, Papua New Guinea",Oceania,Papua New Guinea
-M 6.7,6.7,14-08-2021,12:30:00 PM,0,6,green,0,691,0,0,34,-4.786,153.275,"New Ireland region, Papua New Guinea",Oceania,Papua New Guinea
-M 7.9,7.9,14-08-2021,11:57:00 AM,8,9,yellow,0,1750,0,0,4.2,63.5141,-147.453,"Cantwell, Alaska",North America,United States of America
-M 7.4,7.4,14-08-2021,11:57:00 AM,0,7,green,0,842,0,0,30,2.824,96.085,"Sinabang, Indonesia",Asia,Indonesia
-M 6.6,6.6,12/8/2021,6:35:00 AM,0,7,green,0,670,0,0,4.2,63.5144,-147.912,"Cantwell, Alaska",North America,United States of America
-M 6.7,6.7,12/8/2021,6:32:00 AM,0,7,green,0,691,0,0,10,-1.511,133.973,"Manokwari, Indonesia",Asia,Indonesia
-M 7.6,7.6,11/8/2021,5:46:00 AM,0,7,green,0,889,0,0,10,-1.757,134.297,"Manokwari, Indonesia",Asia,Indonesia
-M 6.5,6.5,29-07-2021,6:15:00 AM,0,6,green,0,650,0,0,21,13.036,93.068,"Bamboo Flat, India",Asia,India
-M 7.6,7.6,29-07-2021,6:15:00 AM,0,7,green,0,889,0,0,13,-3.302,142.945,"Aitape, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,23-07-2021,8:49:00 PM,0,4,green,0,650,0,0,30,14.101,146.199,"San Jose Village, Northern Mariana Islands",Oceania,Guam
-M 6.5,6.5,21-07-2021,9:16:00 PM,0,7,green,0,650,0,0,10,7.929,-82.793,"Punta de Burica, Panama",Central America,Panama
-M 6.5,6.5,20-06-2021,5:06:00 PM,0,8,green,0,650,0,0,10,35.626,49.047,"Abhar, Iran",Asia,Iran
-M 6.6,6.6,21-05-2021,10:14:00 PM,0,7,green,0,670,0,0,54,-30.805,-71.124,"Monte Patria, Chile",South America,Chile
-M 6.7,6.7,21-05-2021,6:05:00 PM,0,5,green,0,691,0,0,33,-12.592,166.383,"Sola, Vanuatu",Oceania,Vanuatu
-M 7.1,7.1,14-05-2021,6:34:00 AM,0,7,green,0,776,0,0,85.7,13.088,144.619,"Merizo Village, Guam",Oceania,United States of America
-M 6.7,6.7,12/6/2021,2:05:00 AM,0,7,green,0,691,0,0,62,-27.535,-70.586,"Copiapó, Chile",South America,Chile
-M 6.8,6.8,25-04-2021,10:29:00 PM,0,6,green,0,711,0,0,24.9,16.985,-100.865,"Nuxco, Mexico",North America,Mexico
-M 7.1,7.1,24-04-2021,12:24:00 AM,0,6,green,0,776,0,0,32.8,24.279,122.179,"Hualien City, Taiwan",Asia,Taiwan
-M 6.5,6.5,20-03-2021,9:10:00 AM,0,5,green,0,650,0,0,125.1,-21.663,-68.329,"Calama, Chile",South America,Chile
-M 7.5,7.5,16-03-2021,6:39:00 PM,0,7,green,0,865,0,0,31,6.033,124.249,"Mindanao, Philippines",Asia,Philippines
-M 7.4,7.4,4/3/2021,11:12:00 AM,0,5,green,0,842,0,0,225.6,36.502,70.482,"Jurm, Afghanistan",Asia,Afghanistan
-M 6.6,6.6,4/3/2021,11:12:00 AM,0,6,green,0,670,0,0,39,-5.345,151.248,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 6.5,6.5,4/3/2021,11:12:00 AM,0,7,green,0,650,0,0,5,38.573,31.271,"Sultanda??, Turkey",Asia,Turkey
-M 6.7,6.7,4/3/2021,11:12:00 AM,0,8,green,0,691,0,0,11,-3.212,142.427,"Aitape, Papua New Guinea",Oceania,Papua New Guinea
-M 6.6,6.6,13-02-2021,2:08:00 PM,0,6,green,0,670,0,0,10,-17.664,168.004,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 7.2,7.2,10/3/2021,1:19:00 AM,0,6,green,0,798,0,0,21,-17.6,167.856,"Port-Vila, Vanuatu",Oceania,Vanuatu
-M 6.8,6.8,23-01-2021,11:37:00 PM,0,7,green,0,711,0,0,16,-9.613,159.53,"Malango, Solomon Islands",Oceania,Solomon Islands
-M 6.8,6.8,21-01-2021,12:24:00 PM,0,5,green,0,711,0,0,14,23.954,122.734,"Yonakuni, Japan",Asia,Japan
-M 6.5,6.5,11/2/2021,9:32:00 AM,0,5,green,0,650,0,0,123.8,39.402,141.089,"Hanamaki, Japan",Asia,Japan
-M 7.8,7.8,27-12-2020,9:40:00 PM,0,9,green,0,936,0,0,10,35.946,90.541,"Southern Qinghai, China",Asia,People's Republic of China
-M 7.0,7,30-10-2020,11:52:00 AM,0,7,green,0,754,0,0,33,-5.912,150.196,"Kimbe, Papua New Guinea",Oceania,Papua New Guinea
-M 7.5,7.5,19-10-2020,8:55:00 PM,0,6,green,0,865,0,0,33,-4.102,123.907,"Kendari, Indonesia",Asia,Indonesia
-M 7.0,7,1/8/2020,11:09:00 AM,0,6,green,0,754,0,0,37,12.686,144.98,"Inarajan Village, Guam",Oceania,United States of America
-M 6.5,6.5,1/7/2020,6:09:00 AM,0,6,green,0,650,0,0,33,-0.578,133.13,"Manokwari, Indonesia",Asia,Indonesia
-M 6.6,6.6,21-08-2020,4:10:00 AM,6,6,green,0,754,0,0,131.8,58.775,-154.701,"Kokhanok, Alaska",North America,United States of America
-M 6.5,6.5,18-08-2020,10:17:00 PM,0,8,green,0,650,0,0,10,39.059,24.244,"Skýros, Greece",Europe,Greece
-M 7.6,7.6,18-08-2020,10:11:00 PM,0,7,green,0,889,0,0,33,-17.543,-72.077,"Punta de Bombón, Peru",South America,Peru
-M 6.6,6.6,18-08-2020,12:04:00 AM,0,7,green,0,670,0,0,62,-16.086,-73.987,"Achanizo, Peru",South America,Peru
-M 6.7,6.7,22-07-2020,6:13:00 AM,0,6,green,0,691,0,0,24,-17.745,-71.649,"Pacocha, Peru",South America,Peru
-M 8.4,8.4,17-07-2020,2:51:00 AM,0,8,green,0,1086,0,0,33,-16.265,-73.641,"Atico, Peru",South America,Peru
-M 6.7,6.7,6/8/2020,10:54:00 AM,0,6,green,0,691,0,0,17,-7.41,155.865,"Panguna, Papua New Guinea",Oceania,Solomon Islands
-M 6.8,6.8,23-06-2020,3:30:00 PM,0,7,green,0,711,0,0,50,34.083,132.526,"Kure, Japan",Asia,Japan
-M 6.5,6.5,18-06-2020,12:50:00 PM,0,6,green,0,650,0,0,33,-4.029,128.02,"Ambon, Indonesia",Asia,Indonesia
-M 6.8,6.8,13-06-2020,3:52:00 PM,7,7,green,0,1441,0,31,51.798,47.149,-122.727,"Longbranch, Washington",North America,United States of America
-M 7.1,7.1,3/7/2020,7:35:00 AM,0,7,green,0,776,0,0,35,1.271,126.249,"Ternate, Indonesia",Asia,Indonesia
-M 7.4,7.4,15-05-2020,11:04:00 AM,0,6,green,0,842,0,0,36,-4.68,102.562,"Bengkulu, Indonesia",Asia,Indonesia
-M 6.6,6.6,12/5/2020,10:41:00 AM,0,8,green,0,670,0,0,10,13.671,-88.938,"Cojutepeque, El Salvador",Central America,El Salvador
-M 7.7,7.7,6/5/2020,1:53:00 AM,0,9,green,0,912,0,0,16,23.419,70.232,"Bhach?u, India",Asia,India
-M 6.9,6.9,2/5/2020,12:51:00 PM,0,6,green,0,732,0,0,28,-4.022,101.776,"Bengkulu, Indonesia",Asia,Indonesia
-M 7.7,7.7,31-03-2020,11:53:00 PM,0,8,green,0,912,0,0,60,13.049,-88.66,"Puerto El Triunfo, El Salvador",Central America,El Salvador
-M 6.9,6.9,25-03-2020,2:50:00 AM,5,7,green,0,745,0,0,36.4,56.7744,-153.281,"Old Harbor, Alaska",North America,United States of America
-M 7.1,7.1,13-02-2020,10:34:00 AM,0,7,green,0,776,0,0,103,-14.928,167.17,"Port-Olry, Vanuatu",Oceania,Vanuatu
-M 6.8,6.8,28-01-2020,7:11:00 PM,0,5,green,0,711,0,0,33,6.631,126.899,"Mindanao, Philippines",Asia,Philippines
-M 7.5,7.5,24-01-2020,5:56:00 PM,0,7,green,0,865,0,0,33,6.898,126.579,"Lukatan, Philippines",Asia,Philippines
+M 6.5,6.5,29/12/2021,6:26:00 PM,0,6,green,0,650,0,31.4,33,-3.828,152.174,Rabaul- Papua New Guinea,Oceania,Papua New Guinea
+M 6.8,6.8,14/12/2021,3:21:00 AM,0,7,green,0,711,0,39.1,33,-30.608,-71.637,Ovalle- Chile,South America,Chile
+M 6.9,6.9,28/11/2021,10:53:00 AM,0,5,green,0,732,0,26.7,174.8,55.492,159.999,Atlasovo- Russia,Asia,Russia
+M 6.6,6.6,10/11/2021,3:45:00 AM,0,6,green,0,670,0,27.8,33,-5.095,152.502,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 7.0,7,11/10/2021,9:10:00 AM,0,6,green,0,754,0,30.3,31,2.354,128.855,Tobelo- Indonesia,Asia,Indonesia
+M 7.0,7,9/10/2021,10:58:00 AM,0,7,green,0,754,0,19.1,68,38.849,141.568,?funato- Japan,Asia,Japan
+M 6.8,6.8,2/10/2021,6:29:00 AM,0,9,green,0,711,0,19.4,12,36.964,3.634,Dellys- Algeria,Africa,Algeria
+M 6.5,6.5,22/09/2021,9:58:00 AM,0,7,green,0,650,0,28.7,33,-8.294,120.743,Ruteng- Indonesia,Asia,Indonesia
+M 6.8,6.8,8/10/2021,1:47:00 AM,0,7,green,0,711,0,38.4,40.2,-4.694,153.238,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 7.6,7.6,22/08/2021,9:34:00 PM,0,7,green,0,889,0,0,24,18.77,-104.104,Cuyutlán- Mexico,North America,Mexico
+M 6.5,6.5,22/08/2021,12:46:00 AM,0,6,green,0,650,0,0,24,13.626,-90.774,Puerto San José- Guatemala,Central America,Guatemala
+M 7.3,7.3,18/08/2021,10:11:00 AM,0,6,green,0,820,0,0,33,-10.491,160.77,Kirakira- Solomon Islands,Oceania,Solomon Islands
+M 6.7,6.7,16/08/2021,11:11:00 AM,0,5,green,0,691,0,0,71.9,-5.311,153.701,Kokopo- Papua New Guinea,Oceania,Papua New Guinea
+M 6.7,6.7,14/08/2021,12:30:00 PM,0,6,green,0,691,0,0,34,-4.786,153.275,New Ireland region- Papua New Guinea,Oceania,Papua New Guinea
+M 7.9,7.9,14/08/2021,11:57:00 AM,8,9,yellow,0,1750,0,0,4.2,63.5141,-147.453,Cantwell- Alaska,North America,United States of America
+M 7.4,7.4,14/08/2021,11:57:00 AM,0,7,green,0,842,0,0,30,2.824,96.085,Sinabang- Indonesia,Asia,Indonesia
+M 6.6,6.6,12/8/2021,6:35:00 AM,0,7,green,0,670,0,0,4.2,63.5144,-147.912,Cantwell- Alaska,North America,United States of America
+M 6.7,6.7,12/8/2021,6:32:00 AM,0,7,green,0,691,0,0,10,-1.511,133.973,Manokwari- Indonesia,Asia,Indonesia
+M 7.6,7.6,11/8/2021,5:46:00 AM,0,7,green,0,889,0,0,10,-1.757,134.297,Manokwari- Indonesia,Asia,Indonesia
+M 6.5,6.5,29/07/2021,6:15:00 AM,0,6,green,0,650,0,0,21,13.036,93.068,Bamboo Flat- India,Asia,India
+M 7.6,7.6,29/07/2021,6:15:00 AM,0,7,green,0,889,0,0,13,-3.302,142.945,Aitape- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,23/07/2021,8:49:00 PM,0,4,green,0,650,0,0,30,14.101,146.199,San Jose Village- Northern Mariana Islands,Oceania,Guam
+M 6.5,6.5,21/07/2021,9:16:00 PM,0,7,green,0,650,0,0,10,7.929,-82.793,Punta de Burica- Panama,Central America,Panama
+M 6.5,6.5,20/06/2021,5:06:00 PM,0,8,green,0,650,0,0,10,35.626,49.047,Abhar- Iran,Asia,Iran
+M 6.6,6.6,21/05/2021,10:14:00 PM,0,7,green,0,670,0,0,54,-30.805,-71.124,Monte Patria- Chile,South America,Chile
+M 6.7,6.7,21/05/2021,6:05:00 PM,0,5,green,0,691,0,0,33,-12.592,166.383,Sola- Vanuatu,Oceania,Vanuatu
+M 7.1,7.1,14/05/2021,6:34:00 AM,0,7,green,0,776,0,0,85.7,13.088,144.619,Merizo Village- Guam,Oceania,United States of America
+M 6.7,6.7,12/6/2021,2:05:00 AM,0,7,green,0,691,0,0,62,-27.535,-70.586,Copiapó- Chile,South America,Chile
+M 6.8,6.8,25/04/2021,10:29:00 PM,0,6,green,0,711,0,0,24.9,16.985,-100.865,Nuxco- Mexico,North America,Mexico
+M 7.1,7.1,24/04/2021,12:24:00 AM,0,6,green,0,776,0,0,32.8,24.279,122.179,Hualien City- Taiwan,Asia,Taiwan
+M 6.5,6.5,20/03/2021,9:10:00 AM,0,5,green,0,650,0,0,125.1,-21.663,-68.329,Calama- Chile,South America,Chile
+M 7.5,7.5,16/03/2021,6:39:00 PM,0,7,green,0,865,0,0,31,6.033,124.249,Mindanao- Philippines,Asia,Philippines
+M 7.4,7.4,4/3/2021,11:12:00 AM,0,5,green,0,842,0,0,225.6,36.502,70.482,Jurm- Afghanistan,Asia,Afghanistan
+M 6.6,6.6,4/3/2021,11:12:00 AM,0,6,green,0,670,0,0,39,-5.345,151.248,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 6.5,6.5,4/3/2021,11:12:00 AM,0,7,green,0,650,0,0,5,38.573,31.271,Sultanda??- Turkey,Asia,Turkey
+M 6.7,6.7,4/3/2021,11:12:00 AM,0,8,green,0,691,0,0,11,-3.212,142.427,Aitape- Papua New Guinea,Oceania,Papua New Guinea
+M 6.6,6.6,13/02/2021,2:08:00 PM,0,6,green,0,670,0,0,10,-17.664,168.004,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 7.2,7.2,10/3/2021,1:19:00 AM,0,6,green,0,798,0,0,21,-17.6,167.856,Port-Vila- Vanuatu,Oceania,Vanuatu
+M 6.8,6.8,23/01/2021,11:37:00 PM,0,7,green,0,711,0,0,16,-9.613,159.53,Malango- Solomon Islands,Oceania,Solomon Islands
+M 6.8,6.8,21/01/2021,12:24:00 PM,0,5,green,0,711,0,0,14,23.954,122.734,Yonakuni- Japan,Asia,Japan
+M 6.5,6.5,11/2/2021,9:32:00 AM,0,5,green,0,650,0,0,123.8,39.402,141.089,Hanamaki- Japan,Asia,Japan
+M 7.8,7.8,27/12/2020,9:40:00 PM,0,9,green,0,936,0,0,10,35.946,90.541,Southern Qinghai- China,Asia,People's Republic of China
+M 7.0,7,30/10/2020,11:52:00 AM,0,7,green,0,754,0,0,33,-5.912,150.196,Kimbe- Papua New Guinea,Oceania,Papua New Guinea
+M 7.5,7.5,19/10/2020,8:55:00 PM,0,6,green,0,865,0,0,33,-4.102,123.907,Kendari- Indonesia,Asia,Indonesia
+M 7.0,7,1/8/2020,11:09:00 AM,0,6,green,0,754,0,0,37,12.686,144.98,Inarajan Village- Guam,Oceania,United States of America
+M 6.5,6.5,1/7/2020,6:09:00 AM,0,6,green,0,650,0,0,33,-0.578,133.13,Manokwari- Indonesia,Asia,Indonesia
+M 6.6,6.6,21/08/2020,4:10:00 AM,6,6,green,0,754,0,0,131.8,58.775,-154.701,Kokhanok- Alaska,North America,United States of America
+M 6.5,6.5,18/08/2020,10:17:00 PM,0,8,green,0,650,0,0,10,39.059,24.244,Skýros- Greece,Europe,Greece
+M 7.6,7.6,18/08/2020,10:11:00 PM,0,7,green,0,889,0,0,33,-17.543,-72.077,Punta de Bombón- Peru,South America,Peru
+M 6.6,6.6,18/08/2020,12:04:00 AM,0,7,green,0,670,0,0,62,-16.086,-73.987,Achanizo- Peru,South America,Peru
+M 6.7,6.7,22/07/2020,6:13:00 AM,0,6,green,0,691,0,0,24,-17.745,-71.649,Pacocha- Peru,South America,Peru
+M 8.4,8.4,17/07/2020,2:51:00 AM,0,8,green,0,1086,0,0,33,-16.265,-73.641,Atico- Peru,South America,Peru
+M 6.7,6.7,6/8/2020,10:54:00 AM,0,6,green,0,691,0,0,17,-7.41,155.865,Panguna- Papua New Guinea,Oceania,Solomon Islands
+M 6.8,6.8,23/06/2020,3:30:00 PM,0,7,green,0,711,0,0,50,34.083,132.526,Kure- Japan,Asia,Japan
+M 6.5,6.5,18/06/2020,12:50:00 PM,0,6,green,0,650,0,0,33,-4.029,128.02,Ambon- Indonesia,Asia,Indonesia
+M 6.8,6.8,13/06/2020,3:52:00 PM,7,7,green,0,1441,0,31,51.798,47.149,-122.727,Longbranch- Washington,North America,United States of America
+M 7.1,7.1,3/7/2020,7:35:00 AM,0,7,green,0,776,0,0,35,1.271,126.249,Ternate- Indonesia,Asia,Indonesia
+M 7.4,7.4,15/05/2020,11:04:00 AM,0,6,green,0,842,0,0,36,-4.68,102.562,Bengkulu- Indonesia,Asia,Indonesia
+M 6.6,6.6,12/5/2020,10:41:00 AM,0,8,green,0,670,0,0,10,13.671,-88.938,Cojutepeque- El Salvador,Central America,El Salvador
+M 7.7,7.7,6/5/2020,1:53:00 AM,0,9,green,0,912,0,0,16,23.419,70.232,Bhach?u- India,Asia,India
+M 6.9,6.9,2/5/2020,12:51:00 PM,0,6,green,0,732,0,0,28,-4.022,101.776,Bengkulu- Indonesia,Asia,Indonesia
+M 7.7,7.7,31/03/2020,11:53:00 PM,0,8,green,0,912,0,0,60,13.049,-88.66,Puerto El Triunfo- El Salvador,Central America,El Salvador
+M 6.9,6.9,25/03/2020,2:50:00 AM,5,7,green,0,745,0,0,36.4,56.7744,-153.281,Old Harbor- Alaska,North America,United States of America
+M 7.1,7.1,13/02/2020,10:34:00 AM,0,7,green,0,776,0,0,103,-14.928,167.17,Port-Olry- Vanuatu,Oceania,Vanuatu
+M 6.8,6.8,28/01/2020,7:11:00 PM,0,5,green,0,711,0,0,33,6.631,126.899,Mindanao- Philippines,Asia,Philippines
+M 7.5,7.5,24/01/2020,5:56:00 PM,0,7,green,0,865,0,0,33,6.898,126.579,Lukatan- Philippines,Asia,Philippines
